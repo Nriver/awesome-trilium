@@ -39,7 +39,7 @@ Great themes!
 
 ---
 
-# Widgets
+## Widgets
 
 Little widgets that can make big difference!
 
@@ -48,7 +48,7 @@ Little widgets that can make big difference!
 
 ---
 
-# Scripts
+## Scripts
 
 Magic!
 
@@ -60,7 +60,7 @@ Caution! Scripts are executable codes. Use them with care!
 
 ---
 
-# API extensions
+## API extensions
 
 More magic!
 
@@ -72,21 +72,28 @@ Caution! The plugins in this category involves custom request handlers (user def
 
 ---
 
-# ETAPI
+## ETAPI
 
 Trilium's ETAPI related stuff
 
-## ETAPI client
+### ETAPI client
 
 * [trilium-py](https://github.com/Nriver/trilium-py) Python client for ETAPI of Trilium Note with some extra cool
   features.
 
-## ETAPI programs
+### ETAPI programs
 
-* [trilium-bot](https://github.com/Nriver/trilium-bot) Telegram bot for Trilium, powered
+* [trilium-bot](https://github.com/Nriver/trilium-bot) A demo telegram bot for Trilium, powered
   by [trilium-py](https://github.com/Nriver/trilium-py).
 
-# Contribution
+---
+
+## Translation
+
+* [trilium-translation](https://github.com/Nriver/trilium-translation) The unofficial translation project for Trilium.
+  For now, a Chinese translation is completed.
+
+## Contribution
 
 You are welcome to fork and contribute to this repo.
 
