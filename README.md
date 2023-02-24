@@ -27,7 +27,7 @@ You are welcome to add cool stuff about Trilium Notes here.
 
 ## Themes
 
-*Great themes! *
+Great themes!
 
 * [Blue Theme](https://github.com/SiriusXT/trilium-theme-blue) A brilliant and beautiful theme. Thanks SiriusXT!
 * [Solarized theme](https://github.com/WKSu/trilium-solarized-theme) Brings the classic solarized themes to Trilium! It
@@ -40,7 +40,7 @@ You are welcome to add cool stuff about Trilium Notes here.
 
 # Widgets
 
-*Little widgets that can make big difference! *
+Little widgets that can make big difference!
 
 * [Syntax Highlight](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) The syntax highlight feature which
   you would like.
@@ -49,7 +49,7 @@ You are welcome to add cool stuff about Trilium Notes here.
 
 # Scripts
 
-* Magic! *
+Magic!
 
 Caution! Scripts are executable codes. Use them with care!
 
@@ -61,7 +61,7 @@ Caution! Scripts are executable codes. Use them with care!
 
 # API extensions
 
-* More magic! *
+More magic!
 
 Caution! The plugins in this category involves custom request handlers (user defined APIs). Use them with care!
 
