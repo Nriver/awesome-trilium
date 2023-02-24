@@ -1,7 +1,7 @@
 # awesome-trilium
 
 A curated list of awesome [Trilium Notes](https://github.com/zadam/trilium) extensions. Including themes, widgets,
-scripts, API extensions, etc.
+scripts, API extensions, ETAPI, etc.
 
 You are welcome to add cool stuff about Trilium Notes here.
 
@@ -11,14 +11,15 @@ You are welcome to add cool stuff about Trilium Notes here.
 
 <!--ts-->
 
-=================
-
 * [awesome-trilium](#awesome-trilium)
     * [Table of Contents](#table-of-contents)
     * [Themes](#themes)
 * [Widgets](#widgets)
 * [Scripts](#scripts)
 * [API extensions](#api-extensions)
+* [ETAPI](#etapi)
+    * [ETAPI client](#etapi-client)
+    * [ETAPI programs](#etapi-programs)
 * [Contribution](#contribution)
 
 <!--te-->
@@ -69,10 +70,26 @@ Caution! The plugins in this category involves custom request handlers (user def
   of [SingleFile](https://github.com/gildas-lormeau/SingleFile) web extension, you can get a perfect copy
   of the webpage in Trilium.
 
+---
+
+# ETAPI
+
+Trilium's ETAPI related stuff
+
+## ETAPI client
+
+* [trilium-py](https://github.com/Nriver/trilium-py) Python client for ETAPI of Trilium Note with some extra cool
+  features.
+
+## ETAPI programs
+
+* [trilium-bot](https://github.com/Nriver/trilium-bot) Telegram bot for Trilium, powered
+  by [trilium-py](https://github.com/Nriver/trilium-py).
+
 # Contribution
 
 You are welcome to fork and contribute to this repo.
 
-The TOC part is generated
+The [Table of Contents](#table-of-contents) part is generated
 by [https://github.com/ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc). Then formatted
 by `save actions` in PyCharm.
