@@ -1,94 +1,78 @@
 # awesome-trilium
 
-A collection of interesting [Trilium Notes](https://github.com/zadam/trilium) extensions. Including themes, widgets,
+A curated list of awesome [Trilium Notes](https://github.com/zadam/trilium) extensions. Including themes, widgets,
 scripts, API extensions, etc.
 
 You are welcome to add cool stuff about Trilium Notes here.
 
-# Table of Contents
+--------------------
+
+## Table of Contents
 
 <!--ts-->
 
 =================
 
 * [awesome-trilium](#awesome-trilium)
-* [TOC](#toc)
-* [Themes](#themes)
-    * [Blue Theme](#blue-theme)
-    * [Solarized theme](#solarized-theme)
-    * [Melon Theme](#melon-theme)
-    * [NieR-Automata Theme](#nier-automata-theme)
+    * [Table of Contents](#table-of-contents)
+    * [Themes](#themes)
 * [Widgets](#widgets)
-    * [Syntax Highlight](#syntax-highlight)
 * [Scripts](#scripts)
-    * [Startup message](#startup-message)
 * [API extensions](#api-extensions)
-    * [singlefile2trilium](#singlefile2trilium)
 * [Contribution](#contribution)
 
 <!--te-->
+
 ---
 
-# Themes
+## Themes
 
-## Blue Theme
+*Great themes! *
 
-A brilliant and beautiful theme. Thanks SiriusXT!
-
-https://github.com/SiriusXT/trilium-theme-blue
-
-## Solarized theme
-
-Brings the classic solarized themes to Trilium! It comes in both light and dark.
-
-https://github.com/WKSu/trilium-solarized-theme
-
-## Melon Theme
-
-A delightful theme.
-
-https://github.com/raphwriter/trilium-theme-melon
-
-## NieR-Automata Theme
-
-A fan-made NieR-Automata game UI like theme. This theme is made by me :)
-
-https://github.com/Nriver/NieR-Automata-Trilium-Theme
+* [Blue Theme](https://github.com/SiriusXT/trilium-theme-blue) A brilliant and beautiful theme. Thanks SiriusXT!
+* [Solarized theme](https://github.com/WKSu/trilium-solarized-theme) Brings the classic solarized themes to Trilium! It
+  comes in both light and dark.
+* [Melon Theme](https://github.com/raphwriter/trilium-theme-melon) A delightful theme.
+* [NieR-Automata Theme](https://github.com/Nriver/NieR-Automata-Trilium-Theme) A fan-made NieR-Automata game UI like
+  theme. This theme is made by me :)
 
 ---
 
 # Widgets
 
-## Syntax Highlight
+*Little widgets that can make big difference! *
 
-https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget
+* [Syntax Highlight](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) The syntax highlight feature which
+  you would like.
 
 ---
 
 # Scripts
 
-Caution! Scripts are executable codes. Use them carefully!
+* Magic! *
 
-## Startup message
+Caution! Scripts are executable codes. Use them with care!
 
-A quite simple script. Display a random message. Set `#run=frontendStartup` to run it when Trilium startup. Just like a
-MOTD(Message of the day) message :)
-
-https://github.com/Nriver/trilium-translation/blob/main/demo-cn/示例笔记%20-%20请不要删除/Trilium%20扩展/Trilium%20脚本%20script/startup%20启动项/startup%20message%20启动信息.js
+* [Startup message](https://github.com/Nriver/trilium-translation/blob/main/demo-cn/示例笔记%20-%20请不要删除/Trilium%20扩展/Trilium%20脚本%20script/startup%20启动项/startup%20message%20启动信息.js)
+  A quite simple script. Display a random message. Set `#run=frontendStartup` to run it when Trilium startup. Just like
+  a MOTD(Message of the day) message :)
 
 ---
 
 # API extensions
 
-Caution! The plugins in this category involves custom request handlers (user defined APIs). Use them carefully!
+* More magic! *
 
-## singlefile2trilium
+Caution! The plugins in this category involves custom request handlers (user defined APIs). Use them with care!
 
-With the power of [SingleFile](https://github.com/gildas-lormeau/SingleFile) web extension, you can get a perfect copy
-of the webpage in Trilium.
-
-https://github.com/nil0x42/singlefile2trilium
+* [singlefile2trilium](https://github.com/nil0x42/singlefile2trilium) With the power
+  of [SingleFile](https://github.com/gildas-lormeau/SingleFile) web extension, you can get a perfect copy
+  of the webpage in Trilium.
 
 # Contribution
 
 You are welcome to fork and contribute to this repo.
+
+The TOC part is generated
+by [https://github.com/ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc). Then formatted
+by `save actions` in PyCharm.
