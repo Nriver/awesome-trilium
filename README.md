@@ -14,13 +14,15 @@ You are welcome to add cool stuff about Trilium Notes here.
 * [awesome-trilium](#awesome-trilium)
     * [Table of Contents](#table-of-contents)
     * [Themes](#themes)
-* [Widgets](#widgets)
-* [Scripts](#scripts)
-* [API extensions](#api-extensions)
-* [ETAPI](#etapi)
-    * [ETAPI client](#etapi-client)
-    * [ETAPI programs](#etapi-programs)
-* [Contribution](#contribution)
+    * [Widgets](#widgets)
+    * [Scripts](#scripts)
+    * [Extensions](#extensions)
+    * [API extensions](#api-extensions)
+    * [ETAPI](#etapi)
+        * [ETAPI client](#etapi-client)
+        * [ETAPI programs](#etapi-programs)
+    * [Translation](#translation)
+    * [Contribution](#contribution)
 
 <!--te-->
 
