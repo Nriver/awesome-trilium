@@ -60,6 +60,13 @@ Caution! Scripts are executable codes. Use them with care!
 
 ---
 
+## Extensions
+
+* [trilium-collection-views](https://github.com/mabeyj/trilium-collection-views) A great extension for displaying notes
+  in a different way.
+
+---
+
 ## API extensions
 
 More magic!
