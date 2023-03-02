@@ -47,6 +47,8 @@ Little widgets that can make big difference!
 
 * [Syntax Highlight](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) The syntax highlight feature which
   you would like.
+* [trilium-left-panel-auto-zoom](https://github.com/SiriusXT/trilium-left-panel-auto-zoom) Automatically widen note tree
+  by moving your mouse. A convenient widget to navigate through notes with long titles and deep level notes.
 
 ---
 
