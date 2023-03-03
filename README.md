@@ -41,6 +41,15 @@ Great themes!
 
 ---
 
+## Sharing Theme
+
+Themes that can be used in shared notes!
+
+* [FrostMiKu/Share.CSS](https://github.com/FrostMiKu/Share.CSS) A nice and clean theme for sharing notes. You should
+  try it!
+
+---
+
 ## Widgets
 
 Little widgets that can make big difference!
