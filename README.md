@@ -14,6 +14,7 @@ You are welcome to add cool stuff about Trilium Notes here.
 * [awesome-trilium](#awesome-trilium)
     * [Table of Contents](#table-of-contents)
     * [Themes](#themes)
+    * [Sharing Theme](#sharing-theme)
     * [Widgets](#widgets)
     * [Scripts](#scripts)
     * [Extensions](#extensions)
