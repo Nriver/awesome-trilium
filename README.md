@@ -34,11 +34,12 @@ You are welcome to add cool stuff about Trilium Notes here.
 Great themes!
 
 * [Blue Theme](https://github.com/SiriusXT/trilium-theme-blue) A brilliant and beautiful theme. Thanks SiriusXT!
-* [Solarized theme](https://github.com/WKSu/trilium-solarized-theme) Brings the classic solarized themes to Trilium! It
-  comes in both light and dark.
 * [Melon Theme](https://github.com/raphwriter/trilium-theme-melon) A delightful theme.
 * [NieR-Automata Theme](https://github.com/Nriver/NieR-Automata-Trilium-Theme) A fan-made NieR-Automata game UI like
   theme. This theme is made by me :)
+* [Obsidian Theme](https://github.com/greengeek/trilium-obsidian-theme) Obsidian Note theme. Not lava and water :)
+* [Solarized theme](https://github.com/WKSu/trilium-solarized-theme) Brings the classic solarized themes to Trilium! It
+  comes in both light and dark.
 
 ---
 
