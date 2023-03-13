@@ -61,6 +61,9 @@ Little widgets that can make big difference!
   you would like.
 * [trilium-left-panel-auto-zoom](https://github.com/SiriusXT/trilium-left-panel-auto-zoom) Automatically widen note tree
   by moving your mouse. A convenient widget to navigate through notes with long titles and deep level notes.
+* [Trilium-TocWidget](https://github.com/Lolabird/Trilium-TocWidget) The table of content widget is now built-in feature
+  in Trilium Notes. Great thank to developers [antoniotejada](https://github.com/antoniotejada/Trilium-TocWidget)
+  and [Lolabird](https://github.com/Lolabird/Trilium-TocWidget) !
 
 ---
 
