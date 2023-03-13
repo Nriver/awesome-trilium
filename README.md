@@ -34,6 +34,8 @@ You are welcome to add cool stuff about Trilium Notes here.
 Great themes!
 
 * [Blue Theme](https://github.com/SiriusXT/trilium-theme-blue) A brilliant and beautiful theme. Thanks SiriusXT!
+* [Linen Theme](https://github.com/mondayrobot/trilium-linen-theme) A minimal, airy light theme for Trilium with an
+  optional distraction-free mode.
 * [Melon Theme](https://github.com/raphwriter/trilium-theme-melon) A delightful theme.
 * [NieR-Automata Theme](https://github.com/Nriver/NieR-Automata-Trilium-Theme) A fan-made NieR-Automata game UI like
   theme. This theme is made by me :)
