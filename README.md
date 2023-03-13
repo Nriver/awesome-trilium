@@ -40,6 +40,7 @@ Great themes!
 * [Obsidian Theme](https://github.com/greengeek/trilium-obsidian-theme) Obsidian Note theme. Not lava and water :)
 * [Solarized theme](https://github.com/WKSu/trilium-solarized-theme) Brings the classic solarized themes to Trilium! It
   comes in both light and dark.
+* [Stellar Dark Theme](https://github.com/Lolabird/stellar-dark-theme-trilium) A different taste of dark theme.
 * [VSCode-Dark Theme](https://github.com/greengeek/trilium-vscode-dark-theme) It's VSCode!
 
 ---
