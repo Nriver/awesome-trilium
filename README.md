@@ -5,6 +5,8 @@ scripts, API extensions, ETAPI, etc.
 
 You are welcome to add cool stuff about Trilium Notes here.
 
+<a href="https://github.com/Nriver"><img align="center" src="https://moe-counter--nriver1.repl.co/get/@Nriver_awesome-trilium"></a><br>
+
 --------------------
 
 ## Table of Contents
