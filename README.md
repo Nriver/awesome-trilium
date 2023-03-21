@@ -80,7 +80,7 @@ Little widgets that can make big difference!
 Magic!
 
 Caution! Scripts are executable codes. Use them with care!
-
+* [Better Include](https://github.com/salmund/trilium_better_include) Make subnotes and include them faster
 * [Startup message](https://github.com/Nriver/trilium-translation/blob/main/demo-cn/示例笔记%20-%20请不要删除/Trilium%20扩展/Trilium%20脚本%20script/startup%20启动项/startup%20message%20启动信息.js)
   A quite simple script. Display a random message. Set `#run=frontendStartup` to run it when Trilium startup. Just like
   a MOTD(Message of the day) message :)
