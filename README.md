@@ -85,6 +85,7 @@ Caution! Scripts are executable codes. Use them with care!
   A quite simple script. Display a random message. Set `#run=frontendStartup` to run it when Trilium startup. Just like
   a MOTD(Message of the day) message :)
 * [Calendar & Timetable](https://github.com/Mangiola/trilium-scripts) Implements a calendar, timetable, and even a musical fretboard.
+* [OpenFilePaths](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Italicized file or folder paths can be opened with a double click
 
 ---
 
