@@ -116,6 +116,7 @@ Trilium's ETAPI related stuff
 
 * [trilium-py](https://github.com/Nriver/trilium-py) Python client for ETAPI of Trilium Note with some extra cool
   features.
+* [pytrilium](https://github.com/perfectra1n/pytrilium) Python client for ETAPI of Trilium Notes that contains all currently valid ETAPI paths, and implements a custom underlying `requests` session.
 
 ### ETAPI programs
 
