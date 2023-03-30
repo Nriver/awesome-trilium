@@ -13,7 +13,7 @@ You are welcome to add cool stuff about Trilium Notes here.
 
 <!--ts-->
 
-* [awesome-trilium](#awesome-trilium)
+* [awesome-trilium](#-awesome-trilium)
     * [Table of Contents](#table-of-contents)
     * [Themes](#themes)
     * [Sharing Theme](#sharing-theme)
