@@ -1,4 +1,4 @@
-# awesome-trilium
+# 😎 awesome-trilium
 
 A curated list of awesome [Trilium Notes](https://github.com/zadam/trilium) extensions. Including themes, widgets,
 scripts, API extensions, ETAPI, etc.
@@ -89,7 +89,8 @@ Caution! Scripts are executable codes. Use them with care!
   a MOTD(Message of the day) message :)
 * [Calendar & Timetable](https://github.com/Mangiola/trilium-scripts) Implements a calendar, timetable, and even a
   musical fretboard.
-* [OpenFilePaths](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Italicized file or folder paths can be opened with a double click
+* [OpenFilePaths](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Italicized file or folder paths can
+  be opened with a double click
 
 ---
 
@@ -120,7 +121,8 @@ Trilium's ETAPI related stuff
 
 * [trilium-py](https://github.com/Nriver/trilium-py) Python client for ETAPI of Trilium Note with some extra cool
   features.
-* [pytrilium](https://github.com/perfectra1n/pytrilium) Python client for ETAPI of Trilium Notes that contains all currently valid ETAPI paths, and implements a custom underlying `requests` session.
+* [pytrilium](https://github.com/perfectra1n/pytrilium) Python client for ETAPI of Trilium Notes that contains all
+  currently valid ETAPI paths, and implements a custom underlying `requests` session.
 
 ### ETAPI programs
 
