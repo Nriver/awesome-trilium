@@ -9,29 +9,29 @@ You are welcome to add cool stuff about Trilium Notes here.
 
 --------------------
 
-## Table of Contents
+## 🦮 Table of Contents
 
 <!--ts-->
 
 * [awesome-trilium](#-awesome-trilium)
-    * [Table of Contents](#table-of-contents)
-    * [Themes](#themes)
-    * [Sharing Theme](#sharing-theme)
-    * [Widgets](#widgets)
-    * [Scripts](#scripts)
-    * [Extensions](#extensions)
-    * [API extensions](#api-extensions)
-    * [ETAPI](#etapi)
-        * [ETAPI client](#etapi-client)
-        * [ETAPI programs](#etapi-programs)
-    * [Translation](#translation)
-    * [Contribution](#contribution)
+    * [Table of Contents](#-table-of-contents)
+    * [Themes](#-themes)
+    * [Sharing Theme](#-sharing-theme)
+    * [Widgets](#️-widgets)
+    * [Scripts](#-scripts)
+    * [Extensions](#-extensions)
+    * [API extensions](#-api-extensions)
+    * [ETAPI](#️-etapi)
+        * [ETAPI client](#-etapi-client)
+        * [ETAPI programs](#-etapi-programs)
+    * [Translation](#-translation)
+    * [Contribution](#-contribution)
 
 <!--te-->
 
 ---
 
-## Themes
+## 🏡 Themes
 
 Great themes!
 
@@ -49,7 +49,7 @@ Great themes!
 
 ---
 
-## Sharing Theme
+## 🛖 Sharing Theme
 
 Themes that can be used in shared notes!
 
@@ -59,7 +59,7 @@ Themes that can be used in shared notes!
 
 ---
 
-## Widgets
+## ⚙️ Widgets
 
 Little widgets that can make big difference!
 
@@ -77,7 +77,7 @@ Little widgets that can make big difference!
 
 ---
 
-## Scripts
+## 🪄 Scripts
 
 Magic!
 
@@ -94,14 +94,14 @@ Caution! Scripts are executable codes. Use them with care!
 
 ---
 
-## Extensions
+## 💥 Extensions
 
 * [trilium-collection-views](https://github.com/mabeyj/trilium-collection-views) A great extension for displaying notes
   in a different way.
 
 ---
 
-## API extensions
+## 🧚 API extensions
 
 More magic!
 
@@ -113,30 +113,30 @@ Caution! The plugins in this category involves custom request handlers (user def
 
 ---
 
-## ETAPI
+## 🖥️ ETAPI
 
 Trilium's ETAPI related stuff
 
-### ETAPI client
+### 🦾 ETAPI client
 
 * [trilium-py](https://github.com/Nriver/trilium-py) Python client for ETAPI of Trilium Note with some extra cool
   features.
 * [pytrilium](https://github.com/perfectra1n/pytrilium) Python client for ETAPI of Trilium Notes that contains all
   currently valid ETAPI paths, and implements a custom underlying `requests` session.
 
-### ETAPI programs
+### 🤖 ETAPI programs
 
 * [trilium-bot](https://github.com/Nriver/trilium-bot) A demo telegram bot for Trilium, powered
   by [trilium-py](https://github.com/Nriver/trilium-py).
 
 ---
 
-## Translation
+## 🌐 Translation
 
 * [trilium-translation](https://github.com/Nriver/trilium-translation) The unofficial translation project for Trilium.
   For now, a Chinese translation is completed.
 
-## Contribution
+## 🔥 Contribution
 
 You are welcome to fork and contribute to this repo.
 
