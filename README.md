@@ -63,6 +63,7 @@ Themes that can be used in shared notes!
 
 Little widgets that can make big difference!
 
+* [trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) Jump to the last browsing position 
 * [Syntax Highlight](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) The syntax highlight feature which
   you would like.
 * [trilium-auto-hide-info-bar](https://github.com/SiriusXT/trilium-auto-hide-info-bar) Automatically hide the title bar
