@@ -64,6 +64,7 @@ Themes that can be used in shared notes!
 Little widgets that can make big difference!
 
 * [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Opens italicised file path upon double click
+* [Scratchpad](https://github.com/zadam/trilium/discussions/1613#discussioncomment-638984) Add scratchpad widget to notes
 * [Syntax Highlight](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) The syntax highlight feature which
   you would like.
 * [trilium-auto-hide-info-bar](https://github.com/SiriusXT/trilium-auto-hide-info-bar) Automatically hide the title bar
