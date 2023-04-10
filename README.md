@@ -67,6 +67,7 @@ Little widgets that can make big difference!
 * [Scratchpad](https://github.com/zadam/trilium/discussions/1613#discussioncomment-638984) Add scratchpad widget to notes
 * [Syntax Highlight](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) The syntax highlight feature which
   you would like.
+* [timeline](https://gitlab.com/QuentinLeCaignec/trilium-timeline) Interactive timeline
 * [trilium-auto-hide-info-bar](https://github.com/SiriusXT/trilium-auto-hide-info-bar) Automatically hide the title bar
   and information bar, and you can set to hide one of them individually.
 * [trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) Jump to the last browsing position
