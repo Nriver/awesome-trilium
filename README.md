@@ -117,7 +117,7 @@ Mobile phone related cool stuff.
 
 ### 🤖 Android
 
-Nothing here yet. You are welcomed to contribute!
+* [trilium-sender](https://github.com/zadam/trilium-sender) A simple write-only android application for sending images and notes to Trilium 
 
 ### 🍎 iOS
 
