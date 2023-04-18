@@ -20,6 +20,9 @@ You are welcome to add cool stuff about Trilium Notes here.
     * [Widgets](#️-widgets)
     * [Scripts](#-scripts)
     * [Extensions](#-extensions)
+    * [Mobile](#-mobile)
+        * [Android](#-android)
+        * [iOS](#-ios)
     * [API extensions](#-api-extensions)
     * [ETAPI](#️-etapi)
         * [ETAPI client](#-etapi-client)
@@ -64,8 +67,10 @@ Themes that can be used in shared notes!
 Little widgets that can make big difference!
 
 * [hexmap](https://gitlab.com/QuentinLeCaignec/trilium-hexmap) Interactive hexmap (for TTRPGs)
-* [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Opens italicised file path upon double click
-* [Scratchpad](https://github.com/zadam/trilium/discussions/1613#discussioncomment-638984) Add scratchpad widget to notes
+* [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Opens italicised file path upon
+  double click
+* [Scratchpad](https://github.com/zadam/trilium/discussions/1613#discussioncomment-638984) Add scratchpad widget to
+  notes
 * [Syntax Highlight](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) The syntax highlight feature which
   you would like.
 * [timeline](https://gitlab.com/QuentinLeCaignec/trilium-timeline) Interactive timeline
@@ -103,6 +108,21 @@ Caution! Scripts are executable codes. Use them with care!
 
 * [trilium-collection-views](https://github.com/mabeyj/trilium-collection-views) A great extension for displaying notes
   in a different way.
+
+---
+
+## 📱 Mobile
+
+Mobile phone related cool stuff.
+
+### 🤖 Android
+
+Nothing here yet. You are welcomed to contribute!
+
+### 🍎 iOS
+
+* [trilium-ios-shortcut](https://github.com/soulsands/trilium-ios-shortcut) A tutorial on sending messages to Trilium
+  via an apple shortcut.
 
 ---
 
