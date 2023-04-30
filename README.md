@@ -101,7 +101,7 @@ Caution! Scripts are executable codes. Use them with care!
   musical fretboard.
 * [OpenFilePaths](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Italicized file or folder paths can
   be opened with a double click
-
+* [Trillium Agenda](https://github.com/BeatLink/trilium-agenda) Sorts todos into 6 categories: Overdue, Today, This Week, This Month, This Year, Future
 ---
 
 ## 💥 Extensions
