@@ -39,7 +39,7 @@ You are welcome to add cool stuff about Trilium Notes here.
 Great themes!
 
 * [Blue Theme](https://github.com/SiriusXT/trilium-theme-blue) A brilliant and beautiful theme. Thanks SiriusXT!
-* [Chameleon Theme](https://blog.erratasec.com/feeds/posts/default) A set of light and dark colour themes for Trilium.
+* [Chameleon Theme](https://github.com/DavidFuchs/trilium-chameleon-theme) A set of light and dark colour themes for Trilium.
 * [Linen Theme](https://github.com/mondayrobot/trilium-linen-theme) A minimal, airy light theme for Trilium with an
   optional distraction-free mode.
 * [Melon Theme](https://github.com/raphwriter/trilium-theme-melon) A delightful theme.
