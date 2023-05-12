@@ -63,9 +63,19 @@ Themes that can be used in shared notes!
 
 ---
 
+## :scissors: CSS Snippets
+
+Custom CSS to modify the look of Trilium. See ([Trilium Wiki](https://github.com/zadam/trilium/wiki/Themes#custom-css) for instructions on how to enable custom CSS)
+
+* [display edited notes as list](https://github.com/zadam/trilium/discussions/2670#discussion-3884786)
+* [remove numbers from table of contents](https://github.com/zadam/trilium/discussions/3873#discussioncomment-5710601)
+* [vertical lines for tree](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842)
+
+---
+
 ## ⚙️ Widgets
 
-Little widgets that can make big difference!
+Little widgets that can make big difference! See 
 
 * [drawio](https://github.com/SiriusXT/trilium-drawio) Integrated drawio plug-in
 * [hexmap](https://gitlab.com/QuentinLeCaignec/trilium-hexmap) Interactive hexmap (for TTRPGs)
