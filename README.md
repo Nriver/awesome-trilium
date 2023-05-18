@@ -106,13 +106,14 @@ Magic!
 Caution! Scripts are executable codes. Use them with care!
 
 * [Better Include](https://github.com/salmund/trilium_better_include) Make subnotes and include them faster
+* [Calendar & Timetable](https://github.com/Mangiola/trilium-scripts) Implements a calendar, timetable, and even a
+  musical fretboard.
+* [Open note in split view](https://github.com/zadam/trilium/discussions/3937) Shift+click to open a note in split view. Ctrl+shift+click for tree nodes.
+* [OpenFilePaths](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Italicized file or folder paths can
+  be opened with a double click
 * [Startup message](https://github.com/Nriver/trilium-translation/blob/main/demo-cn/示例笔记%20-%20请不要删除/Trilium%20扩展/Trilium%20脚本%20script/startup%20启动项/startup%20message%20启动信息.js)
   A quite simple script. Display a random message. Set `#run=frontendStartup` to run it when Trilium startup. Just like
   a MOTD(Message of the day) message :)
-* [Calendar & Timetable](https://github.com/Mangiola/trilium-scripts) Implements a calendar, timetable, and even a
-  musical fretboard.
-* [OpenFilePaths](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Italicized file or folder paths can
-  be opened with a double click
 * [Trillium Agenda](https://github.com/BeatLink/trilium-agenda) Sorts todos into 6 categories: Overdue, Today, This Week, This Month, This Year, Future
 ---
 
