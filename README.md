@@ -104,7 +104,7 @@ Little widgets that can make big difference! See
 Magic!
 
 Caution! Scripts are executable codes. Use them with care!
-
+* [Trilium-chat](https://github.com/soulsands/trilium-chat) The chat plugin for Trilium currently supports Chatgpt
 * [Better Include](https://github.com/salmund/trilium_better_include) Make subnotes and include them faster
 * [Calendar & Timetable](https://github.com/Mangiola/trilium-scripts) Implements a calendar, timetable, and even a
   musical fretboard.
