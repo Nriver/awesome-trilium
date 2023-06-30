@@ -12,31 +12,44 @@ You are welcome to add cool stuff about Trilium Notes here.
 ## 🦮 Table of Contents
 
 <!--ts-->
-
-* [awesome-trilium](#-awesome-trilium)
-    * [Table of Contents](#-table-of-contents)
-    * [Themes](#-themes)
-    * [Sharing Theme](#-sharing-theme)
-    * [Widgets](#️-widgets)
-    * [Scripts](#-scripts)
-    * [Extensions](#-extensions)
-    * [Mobile](#-mobile)
-        * [Android](#-android)
-        * [iOS](#-ios)
-    * [API extensions](#-api-extensions)
-    * [ETAPI](#️-etapi)
-        * [ETAPI client](#-etapi-client)
-        * [ETAPI programs](#-etapi-programs)
-    * [Translation](#-translation)
-    * [Contribution](#-contribution)
-
+ * [Migrating to Trilium](#-migrating-to-trilium)
+ * [Themes](#-themes)
+ * [Widgets](#️-widgets)
+ * [Scripts](#-scripts)
+ * [Extensions](#-extensions)
+ * [Mobile](#-mobile)
+     * [Android](#-android)
+     * [iOS](#-ios)
+ * [API extensions](#-api-extensions)
+ * [ETAPI](#️-etapi)
+     * [ETAPI client](#-etapi-client)
+     * [ETAPI programs](#-etapi-programs)
+ * [Translation](#-translation)
+ * [Contribution](#-contribution)
 <!--te-->
+
+---
+
+## 📥 Migrating to Trilium
+
+These scripts and tips can be used to migrate to Trilium from other note taking applications:
+* [Evernote](https://github.com/zadam/trilium/wiki/Evernote-import) (Trilium Wiki Guide)
+* [HTML](https://github.com/zadam/trilium/wiki/Markdown) Supported Natively
+* [Markdown](https://github.com/zadam/trilium/wiki/Markdown) Supported Natively
+* [OneNote](https://github.com/zadam/trilium/wiki/Onenote) (Trilium Wiki Guide)
+* [Text](https://github.com/zadam/trilium/wiki/Markdown) Supported Natively
+* [Turtl](https://github.com/Nriver/trilium-py/tree/main/examples/turtl-to-markdown) Convert Turtl notes to markdown directory
+* .OPML Contents can be read and imported natively
+* .TAR Contents can be read and imported natively
+* .ZIP Contents can be read and imported natively
 
 ---
 
 ## 🏡 Themes
 
-Great themes!
+**App Themes**
+
+App Themes provide theming to the Trilium application.
 
 * [Blue Theme](https://github.com/SiriusXT/trilium-theme-blue) A brilliant and beautiful theme. Thanks SiriusXT!
 * [Chameleon Theme](https://github.com/DavidFuchs/trilium-chameleon-theme) A set of light and dark colour themes for Trilium.
@@ -51,11 +64,9 @@ Great themes!
 * [Stellar Dark Theme](https://github.com/Lolabird/stellar-dark-theme-trilium) A different taste of dark theme.
 * [VSCode-Dark Theme](https://github.com/greengeek/trilium-vscode-dark-theme) It's VSCode!
 
----
+**Sharing Themes**
 
-## 🛖 Sharing Theme
-
-Themes that can be used in shared notes!
+Sharing themes provide theming to shared notes!
 
 * [FrostMiKu/Share.CSS](https://github.com/FrostMiKu/Share.CSS) A nice and clean theme for sharing notes. You should
   try it!
@@ -75,7 +86,7 @@ Custom CSS to modify the look of Trilium. See ([Trilium Wiki](https://github.com
 
 ## ⚙️ Widgets
 
-Little widgets that can make big difference! See 
+Widgets can make big difference in the Trilium user experience! 
 
 * [drawio](https://github.com/SiriusXT/trilium-drawio) Integrated drawio plug-in
 * [hexmap](https://gitlab.com/QuentinLeCaignec/trilium-hexmap) Interactive hexmap (for TTRPGs)
@@ -102,7 +113,6 @@ Little widgets that can make big difference! See
 ## 🪄 Scripts
 
 Magic!
-
 Caution! Scripts are executable codes. Use them with care!
 * [Trilium-chat](https://github.com/soulsands/trilium-chat) The chat plugin for Trilium currently supports Chatgpt
 * [Better Include](https://github.com/salmund/trilium_better_include) Make subnotes and include them faster
@@ -115,6 +125,7 @@ Caution! Scripts are executable codes. Use them with care!
   A quite simple script. Display a random message. Set `#run=frontendStartup` to run it when Trilium startup. Just like
   a MOTD(Message of the day) message :)
 * [Trillium Agenda](https://github.com/BeatLink/trilium-agenda) Sorts todos into 6 categories: Overdue, Today, This Week, This Month, This Year, Future
+
 ---
 
 ## 💥 Extensions
