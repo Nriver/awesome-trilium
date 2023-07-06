@@ -118,6 +118,7 @@ Caution! Scripts are executable codes. Use them with care!
 * [Better Include](https://github.com/salmund/trilium_better_include) Make subnotes and include them faster
 * [Calendar & Timetable](https://github.com/Mangiola/trilium-scripts) Implements a calendar, timetable, and even a
   musical fretboard.
+* [gistMirror](https://github.com/jwhonce/trilium-addons/blob/main/gistMirror/gistMirror.js) Mirror GitHub Gists to Trilium Note tree
 * [Open note in split view](https://github.com/zadam/trilium/discussions/3937) Shift+click to open a note in split view. Ctrl+shift+click for tree nodes.
 * [OpenFilePaths](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Italicized file or folder paths can
   be opened with a double click
