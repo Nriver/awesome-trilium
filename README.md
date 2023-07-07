@@ -35,15 +35,15 @@ You are welcome to add cool stuff about Trilium Notes here.
 These scripts and tips can be used to migrate to Trilium from other note taking applications:
 * [Evernote](https://github.com/zadam/trilium/wiki/Evernote-import) (Trilium Wiki Guide) The most recent version of the Evernote application no longer includes the option to export files as an enex file. Instead, it now offers a different encrypted dump file format, which no one else can read. If you want to obtain an enex file, you might need to utilize the following tool: https://github.com/vzhd1701/evernote-backup.
 * [HTML](https://github.com/zadam/trilium/wiki/Markdown) Supported Natively
-* [Joplin](https://github.com/Nriver/trilium-py#import-from-joplin)
-* [Logseq](https://github.com/Nriver/trilium-py#import-from-logseq)
+* [Joplin](https://github.com/Nriver/trilium-py#import-from-joplin) Can be imported with trilium-py.
+* [Logseq](https://github.com/Nriver/trilium-py#import-from-logseq) Can be imported with trilium-py.
 * [Markdown](https://github.com/zadam/trilium/wiki/Markdown) Supported Natively
-* [Obsidian](https://github.com/Nriver/trilium-py#import-from-obsidian) Need to convert a Obsidian vault to regular Markdown files first, see more in the link.
+* [Obsidian](https://github.com/Nriver/trilium-py#import-from-obsidian) Need to convert a Obsidian vault to regular Markdown files first. Then import with trilium-py to handle obisdian's unique linking format. See more in the link.
 * [OneNote](https://github.com/zadam/trilium/wiki/Onenote) (Trilium Wiki Guide)
 * [Text](https://github.com/zadam/trilium/wiki/Markdown) Supported Natively
 * [Turtl](https://github.com/Nriver/trilium-py/tree/main/examples/turtl-to-markdown) Convert Turtl notes to markdown directory
 * [Youdao Note/有道云笔记](https://github.com/Nriver/trilium-py#import-from-youdao-note%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0) Requires to download notes and convert to markdown. More details are in the link.
-* [VNote](https://github.com/Nriver/trilium-py#import-from-vnote)
+* [VNote](https://github.com/Nriver/trilium-py#import-from-vnote) Can be imported with trilium-py. The special image format will be well handled.
 * .OPML Contents can be read and imported natively
 * .TAR Contents can be read and imported natively
 * .ZIP Contents can be read and imported natively
