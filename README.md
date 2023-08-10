@@ -181,7 +181,7 @@ Trilium's ETAPI related stuff
   features.
 * [pytrilium](https://github.com/perfectra1n/pytrilium) Python client for ETAPI of Trilium Notes that contains all
   currently valid ETAPI paths, and implements a custom underlying `requests` session.
-* [trilium-alchemy]（https://github.com/mm21/trilium-alchemy/）Python SDK and CLI toolkit for Trilium Notes.
+* [trilium-alchemy](https://github.com/mm21/trilium-alchemy) Python SDK and CLI toolkit for Trilium Notes.
 
 ### 🤖 ETAPI programs
 
