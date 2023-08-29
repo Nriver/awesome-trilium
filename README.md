@@ -59,6 +59,7 @@ These scripts and tips can be used to migrate to Trilium from other note taking 
 App Themes provide theming to the Trilium application.
 
 * [Blue Theme](https://github.com/SiriusXT/trilium-theme-blue) A brilliant and beautiful theme. Thanks SiriusXT!
+* [breeze-trilium](https://github.com/eliandoran/breeze-trilium) KDE Breeze theme for Trilium Notes 
 * [Catppuccin](https://github.com/SadAlexa/trilium-theme-catppuccin) A theme for Trilium Notes, made with Catppuccin palette.
 * [Chameleon Theme](https://github.com/DavidFuchs/trilium-chameleon-theme) A set of light and dark colour themes for Trilium.
 * [Linen Theme](https://github.com/mondayrobot/trilium-linen-theme) A minimal, airy light theme for Trilium with an
