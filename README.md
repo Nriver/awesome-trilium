@@ -112,6 +112,7 @@ Widgets can make big difference in the Trilium user experience!
 * [trilium-auto-hide-info-bar](https://github.com/SiriusXT/trilium-auto-hide-info-bar) Automatically hide the title bar
   and information bar, and you can set to hide one of them individually.
 * [trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) Jump to the last browsing position
+* [Trilium-Heatmap](https://github.com/dvai/Trilium-Heatmap) Display a note modification heatmap in a Trilium note
 * [trilium-left-panel-auto-zoom](https://github.com/SiriusXT/trilium-left-panel-auto-zoom) Automatically widen note tree
   by moving your mouse. A convenient widget to navigate through notes with long titles and deep level notes.
 * [trilium-show-position-in-toc](https://github.com/SiriusXT/trilium-show-position-in-toc) Mark font red of the position
