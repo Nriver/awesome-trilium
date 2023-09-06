@@ -100,6 +100,7 @@ Custom CSS to modify the look of Trilium. See ([Trilium Wiki](https://github.com
 Widgets can make big difference in the Trilium user experience! 
 
 * [Breadcrumbs](https://github.com/rauenzi/Trilium-Breadcrumbs) Shows note breadcrumbs at the bottom of the page
+* [command-palette](https://github.com/justyns/trilium-scripts) Simple command-palette for Trilium
 * [drawio](https://github.com/SiriusXT/trilium-drawio) Integrated drawio plug-in
 * [hexmap](https://gitlab.com/QuentinLeCaignec/trilium-hexmap) Interactive hexmap (for TTRPGs)
 * [MarkdownPreview](https://github.com/rauenzi/Trilium-MarkdownPreview/) Live preview markdown files with support for anchors, images, and sync scroll 
