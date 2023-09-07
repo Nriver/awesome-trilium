@@ -199,6 +199,13 @@ Trilium's ETAPI related stuff
 
 ---
 
+## 👨‍💻 Development Tools
+
+* [trilium-pack](https://github.com/rauenzi/trilium-pack) A simple way to pack addons as `zip` files for Trilium Notes.
+* [trilium-types](https://github.com/rauenzi/trilium-types) A TypeScript `@types` package for Trilium Notes.
+
+---
+
 ## 🌐 Translation
 
 * [trilium-translation](https://github.com/Nriver/trilium-translation) The unofficial translation project for Trilium.
