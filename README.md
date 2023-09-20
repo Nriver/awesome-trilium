@@ -170,6 +170,8 @@ Caution! Scripts are executable codes. Use them with care!
 
 * [trilium-collection-views](https://github.com/mabeyj/trilium-collection-views) A great extension for displaying notes
   in a different way.
+* [Trilium-SingleFile](https://github.com/rauenzi/Trilium-SingleFile) About
+  An addon for Trilium to easily import SingleFile archives.
 
 ---
 
