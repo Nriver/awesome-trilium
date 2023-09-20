@@ -150,6 +150,8 @@ Caution! Scripts are executable codes. Use them with care!
 * [Better Include](https://github.com/salmund/trilium_better_include) Make subnotes and include them faster
 * [Calendar & Timetable](https://github.com/Mangiola/trilium-scripts) Implements a calendar, timetable, and even a
   musical fretboard.
+* [Dark-mode-img-color-conversion](https://github.com/zadam/trilium/discussions/4209) Adjusting the images and
+  background colors on the web page to suit a dark theme.
 * [Font formatting shortcuts](https://github.com/zadam/trilium/issues/2954#issuecomment-1672431589) Customizable
   shortcut keys for text formatting in CKEditor. Makes significant enhancement in editing efficiency.
 * [gistMirror](https://github.com/jwhonce/trilium-addons/blob/main/gistMirror/gistMirror.js) Mirror GitHub Gists to
