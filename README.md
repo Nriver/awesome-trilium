@@ -118,6 +118,7 @@ Widgets can make big difference in the Trilium user experience!
 * [command-palette](https://github.com/justyns/trilium-scripts) Simple command-palette for Trilium
 * [drawio](https://github.com/SiriusXT/trilium-drawio) Integrated drawio plug-in
 * [hexmap](https://gitlab.com/QuentinLeCaignec/trilium-hexmap) Interactive hexmap (for TTRPGs)
+* [LaTeXPreview](https://github.com/rauenzi/Trilium-LaTeXPreview) A widget for Trilium Notes to preview LaTeX notes
 * [MarkdownPreview](https://github.com/rauenzi/Trilium-MarkdownPreview/) Live preview markdown files with support for
   anchors, images, and sync scroll
 * [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Opens italicised file path upon
