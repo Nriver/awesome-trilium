@@ -17,10 +17,10 @@ You are welcome to add cool stuff about Trilium Notes here.
     * [🦮 Table of Contents](#-table-of-contents)
     * [📥 Migrating to Trilium](#-migrating-to-trilium)
     * [🏡 Themes](#-themes)
-    * [✂️ CSS Snippets](#scissors-css-snippets)
+    * [✂️ CSS Snippets](#-css-snippets)
     * [⚙️ Widgets](#️-widgets)
     * [🪄 Scripts](#-scripts)
-    * [💥 Extensions](#-extensions)
+    * [💥 Extension HTML Note](#-extension-html-note)
     * [📱 Mobile](#-mobile)
         * [🤖 Android](#-android)
         * [🍎 iOS](#-ios)
@@ -68,7 +68,8 @@ These scripts and tips can be used to migrate to Trilium from other note taking 
 
 **App Themes**
 
-App Themes provide theming to the Trilium application.
+App Themes provide theming to the Trilium application. Typically, these notes are labeled with `#appTheme` with a value
+which indicates the name of the theme displayed in Trilium's options panel.
 
 * [Blue Theme](https://github.com/SiriusXT/trilium-theme-blue) A brilliant and beautiful theme. Thanks SiriusXT!
 * [breeze-trilium](https://github.com/eliandoran/breeze-trilium) KDE Breeze theme for Trilium Notes
@@ -98,9 +99,10 @@ Sharing themes provide theming to shared notes!
 
 ---
 
-## :scissors: CSS Snippets
+## ✂️ CSS Snippets
 
-Custom CSS to modify the look of Trilium. See ([Trilium Wiki](https://github.com/zadam/trilium/wiki/Themes#custom-css)
+Custom CSS is used to alter the appearance of Trilium. These code snippets are typically labeled with `#appCss`.
+See ([Trilium Wiki](https://github.com/zadam/trilium/wiki/Themes#custom-css)
 for instructions on how to enable custom CSS)
 
 * [display edited notes as list](https://github.com/zadam/trilium/discussions/2670#discussion-3884786)
@@ -114,13 +116,12 @@ for instructions on how to enable custom CSS)
 
 Widgets can make big difference in the Trilium user experience!
 
+A widget typically alters Trilium's user interface and offers additional panel functionalities. The primary JavaScript
+file of a widget is usually labeled with `#widget`.
+
 * [Breadcrumbs](https://github.com/rauenzi/Trilium-Breadcrumbs) Shows note breadcrumbs at the bottom of the page
 * [command-palette](https://github.com/justyns/trilium-scripts) Simple command-palette for Trilium
-* [drawio](https://github.com/SiriusXT/trilium-drawio) Integrated drawio plug-in
 * [hexmap](https://gitlab.com/QuentinLeCaignec/trilium-hexmap) Interactive hexmap (for TTRPGs)
-* [LaTeXPreview](https://github.com/rauenzi/Trilium-LaTeXPreview) A widget for Trilium Notes to preview LaTeX notes
-* [MarkdownPreview](https://github.com/rauenzi/Trilium-MarkdownPreview/) Live preview markdown files with support for
-  anchors, images, and sync scroll
 * [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Opens italicised file path upon
   double click
 * [Scratchpad](https://github.com/zadam/trilium/discussions/1613#discussioncomment-638984) Add scratchpad widget to
@@ -131,8 +132,6 @@ Widgets can make big difference in the Trilium user experience!
 * [trilium-auto-hide-info-bar](https://github.com/SiriusXT/trilium-auto-hide-info-bar) Automatically hide the title bar
   and information bar, and you can set to hide one of them individually.
 * [trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) Jump to the last browsing position
-* [Trilium-Heatmap](https://github.com/dvai/Trilium-Heatmap) Display a note modification heatmap in a Trilium note
-* [Trilium JSON Editor](https://github.com/sottey/tje) JSON Note editor for Trilium
 * [trilium-left-panel-auto-zoom](https://github.com/SiriusXT/trilium-left-panel-auto-zoom) Automatically widen note tree
   by moving your mouse. A convenient widget to navigate through notes with long titles and deep level notes.
 * [trilium-show-position-in-toc](https://github.com/SiriusXT/trilium-show-position-in-toc) Mark font red of the position
@@ -145,10 +144,10 @@ Widgets can make big difference in the Trilium user experience!
 
 ## 🪄 Scripts
 
-Magic!
-Caution! Scripts are executable codes. Use them with care!
+Magic! These code notes are typically tagged as JS frontend in Trilium.
+They're often marked with `#run=frontendStartup` for automatic execution when Trilium starts.
+Remember, scripts are executable codes. Handle with caution!
 
-* [Trilium-chat](https://github.com/soulsands/trilium-chat) The chat plugin for Trilium currently supports Chatgpt
 * [Better Include](https://github.com/salmund/trilium_better_include) Make subnotes and include them faster
 * [Calendar & Timetable](https://github.com/Mangiola/trilium-scripts) Implements a calendar, timetable, and even a
   musical fretboard.
@@ -167,13 +166,23 @@ Caution! Scripts are executable codes. Use them with care!
   a MOTD(Message of the day) message :)
 * [Trillium Agenda](https://github.com/BeatLink/trilium-agenda) Sorts todos into 6 categories: Overdue, Today, This
   Week, This Month, This Year, Future
+* [Trilium-chat](https://github.com/soulsands/trilium-chat) The chat plugin for Trilium currently supports Chatgpt
 
 ---
 
-## 💥 Extensions
+## 💥 Extension HTML Note
 
+An enhanced HTML display notes often incorporates complex features and commonly uses the `~renderNote` relation to
+present intricate standalone HTML pages, surpassing the capabilities of small panels.
+
+* [drawio](https://github.com/SiriusXT/trilium-drawio) Integrated drawio plug-in
+* [LaTeXPreview](https://github.com/rauenzi/Trilium-LaTeXPreview) A widget for Trilium Notes to preview LaTeX notes
+* [MarkdownPreview](https://github.com/rauenzi/Trilium-MarkdownPreview/) Live preview markdown files with support for
+  anchors, images, and sync scroll
 * [trilium-collection-views](https://github.com/mabeyj/trilium-collection-views) A great extension for displaying notes
   in a different way.
+* [Trilium-Heatmap](https://github.com/dvai/Trilium-Heatmap) Display a note modification heatmap in a Trilium note
+* [Trilium JSON Editor](https://github.com/sottey/tje) JSON Note editor for Trilium
 * [Trilium-SingleFile](https://github.com/rauenzi/Trilium-SingleFile) About
   An addon for Trilium to easily import SingleFile archives.
 
@@ -209,9 +218,11 @@ Caution! The plugins in this category involves custom request handlers (user def
 
 ## 🖥️ ETAPI
 
-Trilium's ETAPI related stuff
+Trilium's external API (aka [ETAPI](https://github.com/zadam/trilium/wiki/ETAPI)) related stuff.
 
 ### 🦾 ETAPI client
+
+The client implementations for ETAPI.
 
 * [trilium-py](https://github.com/Nriver/trilium-py) Python client for ETAPI of Trilium Note with some extra cool
   features.
@@ -222,6 +233,8 @@ Trilium's ETAPI related stuff
 
 ### 🤖 ETAPI programs
 
+Programs based on triliums ETAPI.
+
 * [trilium-bot](https://github.com/Nriver/trilium-bot) A demo telegram bot for Trilium, powered
   by [trilium-py](https://github.com/Nriver/trilium-py).
 
@@ -229,12 +242,16 @@ Trilium's ETAPI related stuff
 
 ## 👨‍💻 Development Tools
 
+Development tools for developing Trilium and its plugins.
+
 * [trilium-pack](https://github.com/rauenzi/trilium-pack) A simple way to pack addons as `zip` files for Trilium Notes.
 * [trilium-types](https://github.com/rauenzi/trilium-types) A TypeScript `@types` package for Trilium Notes.
 
 ---
 
 ## 🌐 Translation
+
+Third-party translation for Trilium Notes.
 
 * [trilium-translation](https://github.com/Nriver/trilium-translation) The unofficial translation project for Trilium.
   For now, a Chinese translation is completed.
