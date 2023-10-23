@@ -157,6 +157,8 @@ Remember, scripts are executable codes. Handle with caution!
   shortcut keys for text formatting in CKEditor. Makes significant enhancement in editing efficiency.
 * [gistMirror](https://github.com/jwhonce/trilium-addons/blob/main/gistMirror/gistMirror.js) Mirror GitHub Gists to
   Trilium Note tree
+* [Mobile View](https://github.com/BeatLink/trilium-scripts/tree/main/Mobile%20View) These set of scripts allow you to
+  use the full capabilities of the Trilium server user interface while on a mobile device.
 * [Open note in split view](https://github.com/zadam/trilium/discussions/3937) Shift+click to open a note in split view.
   Ctrl+shift+click for tree nodes.
 * [OpenFilePaths](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Italicized file or folder paths can
