@@ -130,6 +130,7 @@ file of a widget is usually labeled with `#widget`.
   notes
 * [Syntax Highlight](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) The syntax highlight feature which
   you would like.
+* [Theme Switch](https://github.com/madodig/trilium-widget-theme-switch) Trilium widget for changing themes
 * [timeline](https://gitlab.com/QuentinLeCaignec/trilium-timeline) Interactive timeline
 * [tomato-timer](https://github.com/Nriver/tomato-timer-widget) Pomodoro timer for Trilium Notes
 * [trilium-auto-hide-info-bar](https://github.com/SiriusXT/trilium-auto-hide-info-bar) Automatically hide the title bar
