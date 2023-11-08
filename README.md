@@ -58,6 +58,7 @@ These scripts and tips can be used to migrate to Trilium from other note taking 
   Requires to download notes and convert to markdown. More details are in the link.
 * [VNote](https://github.com/Nriver/trilium-py#import-from-vnote) Can be imported with trilium-py. The special image
   format will be well handled.
+  [Zotero](https://github.com/paulusm/zotero-trilium) A Zotero plugin to export notes to Trillium notes
 * .OPML Contents can be read and imported natively
 * .TAR Contents can be read and imported natively
 * .ZIP Contents can be read and imported natively
