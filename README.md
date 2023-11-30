@@ -192,6 +192,7 @@ present intricate standalone HTML pages, surpassing the capabilities of small pa
 * [Trilium JSON Editor](https://github.com/sottey/tje) JSON Note editor for Trilium
 * [Trilium-SingleFile](https://github.com/rauenzi/Trilium-SingleFile) About
   An addon for Trilium to easily import SingleFile archives.
+* [Kanban View](https://github.com/CyrilLeblanc/trilium-kanban) A Kanban integration for Trilium Notes
 
 ---
 
