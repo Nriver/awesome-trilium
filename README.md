@@ -96,6 +96,7 @@ Sharing themes provide theming to shared notes! A sharing note can use custom th
 css note. See [Styling the shared notes](https://github.com/zadam/trilium/wiki/Sharing#styling-the-shared-notes) for
 more info.
 
+* [Ankia-Theme](https://github.com/dvai/Ankia-Theme) A card-style Trilium blog theme.
 * [FrostMiKu/Share.CSS](https://github.com/FrostMiKu/Share.CSS) A nice and clean theme for sharing notes. You should
   try it!
 * [ysslang's theme](https://github.com/zadam/trilium/discussions/2681) Paper with shadow effect, cool!
