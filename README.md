@@ -203,6 +203,7 @@ Mobile phone related cool stuff.
 
 ### 🤖 Android
 
+* [Run Trilium Server in Termux on Android](https://github.com/zadam/trilium/discussions/4542) Your server in your hand. Have fun :)
 * [trilium-sender](https://github.com/zadam/trilium-sender) A simple write-only android application for sending images
   and notes to Trilium
 
