@@ -85,6 +85,7 @@ which indicates the name of the theme displayed in Trilium's options panel.
 * [NieR-Automata Theme](https://github.com/Nriver/NieR-Automata-Trilium-Theme) A fan-made NieR-Automata game UI like
   theme. This theme is made by me :)
 * [Obsidian Theme](https://github.com/greengeek/trilium-obsidian-theme) Obsidian Note theme. Not lava and water :)
+* * [Trilium Greensidian Theme](https://github.com/obuno/trilium-greensidian-theme) Green color version of Obsidian Theme
 * [Solarized theme](https://github.com/WKSu/trilium-solarized-theme) Brings the classic solarized themes to Trilium! It
   comes in both light and dark.
 * [Stellar Dark Theme](https://github.com/Lolabird/stellar-dark-theme-trilium) A different taste of dark theme.
