@@ -1,5 +1,12 @@
 # 😎 awesome-trilium
 
+<p align="center">
+<a href="README.md">English</a> | 简体中文
+</p>
+
+> [!IMPORTANT]
+> 中文文档可能落后于英文文档，如果有问题请先查看英文文档。
+
 这是一个精选的 [Trilium Notes](https://github.com/zadam/trilium) 扩展列表，包括主题、小部件、脚本、API 扩展、ETAPI 等。
 
 欢迎您在这里添加有关 Trilium Notes 的酷炫内容。
