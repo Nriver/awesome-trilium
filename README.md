@@ -1,5 +1,6 @@
 # 😎 awesome-trilium
 
+[中文说明](README_CN.md)
 A curated list of awesome [Trilium Notes](https://github.com/zadam/trilium) extensions. Including themes, widgets,
 scripts, API extensions, ETAPI, etc.
 
@@ -85,7 +86,9 @@ which indicates the name of the theme displayed in Trilium's options panel.
 * [NieR-Automata Theme](https://github.com/Nriver/NieR-Automata-Trilium-Theme) A fan-made NieR-Automata game UI like
   theme. This theme is made by me :)
 * [Obsidian Theme](https://github.com/greengeek/trilium-obsidian-theme) Obsidian Note theme. Not lava and water :)
-* * [Trilium Greensidian Theme](https://github.com/obuno/trilium-greensidian-theme) Green color version of Obsidian Theme
+*
+    * [Trilium Greensidian Theme](https://github.com/obuno/trilium-greensidian-theme) Green color version of Obsidian
+      Theme
 * [Solarized theme](https://github.com/WKSu/trilium-solarized-theme) Brings the classic solarized themes to Trilium! It
   comes in both light and dark.
 * [Stellar Dark Theme](https://github.com/Lolabird/stellar-dark-theme-trilium) A different taste of dark theme.
@@ -204,7 +207,8 @@ Mobile phone related cool stuff.
 
 ### 🤖 Android
 
-* [Run Trilium Server in Termux on Android](https://github.com/zadam/trilium/discussions/4542) Your server in your hand. Have fun :)
+* [Run Trilium Server in Termux on Android](https://github.com/zadam/trilium/discussions/4542) Your server in your hand.
+  Have fun :)
 * [trilium-sender](https://github.com/zadam/trilium-sender) A simple write-only android application for sending images
   and notes to Trilium
 
