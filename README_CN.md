@@ -11,8 +11,6 @@
 
 欢迎您在这里添加有关 Trilium Notes 的酷炫内容。
 
-<a href="https://github.com/Nriver"><img align="center" src="https://moe-counter--nriver1.repl.co/get/@Nriver_awesome-trilium"></a><br>
-
 --------------------
 
 ## 🦮 目录
