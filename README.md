@@ -145,6 +145,8 @@ file of a widget is usually labeled with `#widget`.
 * [trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) Jump to the last browsing position
 * [trilium-left-panel-auto-zoom](https://github.com/SiriusXT/trilium-left-panel-auto-zoom) Automatically widen note tree
   by moving your mouse. A convenient widget to navigate through notes with long titles and deep level notes.
+* [trilium-remember-right-pane](https://github.com/SiriusXT/trilium-remember-right-pane) Lets you click a button to open
+  the right pane again after closing it. Remembers the right pane state by label.
 * [trilium-show-position-in-toc](https://github.com/SiriusXT/trilium-show-position-in-toc) Mark font red of the position
   being browsed in the Table of contents.
 * [Trilium-TocWidget](https://github.com/Lolabird/Trilium-TocWidget) The table of content widget is now built-in feature

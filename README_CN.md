@@ -128,6 +128,8 @@
 * [trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) 跳转到上次浏览的位置
 * [trilium-left-panel-auto-zoom](https://github.com/SiriusXT/trilium-left-panel-auto-zoom)
   通过移动鼠标自动扩展笔记树。这是一个方便的小部件，用于浏览具有长标题和深层级笔记的场景。
+* [trilium-remember-right-pane](https://github.com/SiriusXT/trilium-remember-right-pane)
+  允许您点击一个按钮在关闭右侧目录窗口后再次打开它。通过标签记住右侧窗口的状态。
 * [trilium-show-position-in-toc](https://github.com/SiriusXT/trilium-show-position-in-toc) 在目录中标记正在浏览的位置的字体为红色。
 * [Trilium-TocWidget](https://github.com/Lolabird/Trilium-TocWidget) 目录小部件现在是 Trilium Notes
   的内置功能。非常感谢开发者 [antoniotejada](https://github.com/antoniotejada/Trilium-TocWidget)
