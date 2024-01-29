@@ -136,29 +136,38 @@ Widgets can make big difference in the Trilium user experience!
 A widget typically alters Trilium's user interface and offers additional panel functionalities. The primary JavaScript
 file of a widget is usually labeled with `#widget`.
 
-* [Breadcrumbs](https://github.com/rauenzi/Trilium-Breadcrumbs) Shows note breadcrumbs at the bottom of the page
-* [command-palette](https://github.com/justyns/trilium-scripts) Simple command-palette for Trilium
-* [hexmap](https://gitlab.com/QuentinLeCaignec/trilium-hexmap) Interactive hexmap (for TTRPGs)
-* [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Opens italicised file path upon
-  double click
-* [Scratchpad](https://github.com/zadam/trilium/discussions/1613#discussioncomment-638984) Add scratchpad widget to
-  notes
-* [Syntax Highlight](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) The syntax highlight feature which
-  you would like.
-* [Theme Switch](https://github.com/madodig/trilium-widget-theme-switch) Trilium widget for changing themes
-* [timeline](https://gitlab.com/QuentinLeCaignec/trilium-timeline) Interactive timeline
-* [tomato-timer](https://github.com/Nriver/tomato-timer-widget) Pomodoro timer for Trilium Notes
-* [trilium-auto-hide-info-bar](https://github.com/SiriusXT/trilium-auto-hide-info-bar) Automatically hide the title bar
-  and information bar, and you can set to hide one of them individually.
-* [trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) Jump to the last browsing position
-* [trilium-left-panel-auto-zoom](https://github.com/SiriusXT/trilium-left-panel-auto-zoom) Automatically widen note tree
-  by moving your mouse. A convenient widget to navigate through notes with long titles and deep level notes.
-* [trilium-remember-right-pane](https://github.com/SiriusXT/trilium-remember-right-pane) Lets you click a button to open
-  the right pane again after closing it. Remembers the right pane state by label.
-* [trilium-show-position-in-toc](https://github.com/SiriusXT/trilium-show-position-in-toc) Mark font red of the position
-  being browsed in the Table of contents.
-* [Trilium-TocWidget](https://github.com/Lolabird/Trilium-TocWidget) The table of content widget is now built-in feature
-  in Trilium Notes. Great thank to developers [antoniotejada](https://github.com/antoniotejada/Trilium-TocWidget)
+* [Breadcrumbs](https://github.com/rauenzi/Trilium-Breadcrumbs) ![Breadcrumbs](https://img.shields.io/github/last-commit/rauenzi/Trilium-Breadcrumbs)
+  Shows note breadcrumbs at the bottom of the page
+* [command-palette](https://github.com/justyns/trilium-scripts) ![command-palette](https://img.shields.io/github/last-commit/justyns/trilium-scripts)
+  Simple command-palette for Trilium
+* [hexmap](https://gitlab.com/QuentinLeCaignec/trilium-hexmap) ![hexmap](https://img.shields.io/gitlab/last-commit/QuentinLeCaignec/trilium-hexmap)
+  Interactive hexmap (for TTRPGs)
+* [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![openfilepath](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
+  Opens italicised file path upon double click
+* [Scratchpad](https://github.com/zadam/trilium/discussions/1613#discussioncomment-638984)
+  Add scratchpad widget to notes
+* [Syntax Highlight](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) ![Syntax Highlight](https://img.shields.io/github/last-commit/antoniotejada/Trilium-SyntaxHighlightWidget)
+  The syntax highlight feature which you would like.
+* [Theme Switch](https://github.com/madodig/trilium-widget-theme-switch) ![Theme Switch](https://img.shields.io/github/last-commit/madodig/trilium-widget-theme-switch)
+  Trilium widget for changing themes
+* [timeline](https://gitlab.com/QuentinLeCaignec/trilium-timeline) ![timeline](https://img.shields.io/gitlab/last-commit/QuentinLeCaignec/trilium-timeline)
+  Interactive timeline
+* [tomato-timer](https://github.com/Nriver/tomato-timer-widget) ![tomato-timer](https://img.shields.io/github/last-commit/Nriver/tomato-timer-widget)
+  Pomodoro timer for Trilium Notes
+* [trilium-auto-hide-info-bar](https://github.com/SiriusXT/trilium-auto-hide-info-bar) ![trilium-auto-hide-info-bar](https://img.shields.io/github/last-commit/SiriusXT/trilium-auto-hide-info-bar)
+  Automatically hide the title bar and information bar, and you can set to hide one of them individually.
+* [trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) ![trilium-back-to-history](https://img.shields.io/github/last-commit/SiriusXT/trilium-back-to-history)
+  Jump to the last browsing position
+* [trilium-left-panel-auto-zoom](https://github.com/SiriusXT/trilium-left-panel-auto-zoom) ![trilium-left-panel-auto-zoom](https://img.shields.io/github/last-commit/SiriusXT/trilium-left-panel-auto-zoom)
+  Automatically widen note tree by moving your mouse. A convenient widget to navigate through notes with long titles and
+  deep level notes.
+* [trilium-remember-right-pane](https://github.com/SiriusXT/trilium-remember-right-pane) ![trilium-remember-right-pane](https://img.shields.io/github/last-commit/SiriusXT/trilium-remember-right-pane)
+  Lets you click a button to open the right pane again after closing it. Remembers the right pane state by label.
+* [trilium-show-position-in-toc](https://github.com/SiriusXT/trilium-show-position-in-toc) ![trilium-show-position-in-toc](https://img.shields.io/github/last-commit/SiriusXT/trilium-show-position-in-toc)
+  Mark font red of the position being browsed in the Table of contents.
+* [Trilium-TocWidget](https://github.com/Lolabird/Trilium-TocWidget) ![Trilium-TocWidget](https://img.shields.io/github/last-commit/Lolabird/Trilium-TocWidget)
+  The table of content widget is now a built-in feature in Trilium Notes. Great thank to
+  developers [antoniotejada](https://github.com/antoniotejada/Trilium-TocWidget)
   and [Lolabird](https://github.com/Lolabird/Trilium-TocWidget) !
 
 ---
