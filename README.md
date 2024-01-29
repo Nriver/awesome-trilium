@@ -107,10 +107,12 @@ Sharing themes provide theming to shared notes! A sharing note can use custom th
 css note. See [Styling the shared notes](https://github.com/zadam/trilium/wiki/Sharing#styling-the-shared-notes) for
 more info.
 
-* [Ankia-Theme](https://github.com/dvai/Ankia-Theme) A card-style Trilium blog theme.
-* [FrostMiKu/Share.CSS](https://github.com/FrostMiKu/Share.CSS) A nice and clean theme for sharing notes. You should
-  try it!
-* [ysslang's theme](https://github.com/zadam/trilium/discussions/2681) Paper with shadow effect, cool!
+* [Ankia-Theme](https://github.com/dvai/Ankia-Theme) ![Ankia-Theme](https://img.shields.io/github/last-commit/dvai/Ankia-Theme)
+  A card-style Trilium blog theme.
+* [FrostMiKu/Share.CSS](https://github.com/FrostMiKu/Share.CSS) ![FrostMiKu/Share.CSS](https://img.shields.io/github/last-commit/FrostMiKu/Share.CSS)
+  A nice and clean theme for sharing notes. You should try it!
+* [ysslang's theme](https://github.com/zadam/trilium/discussions/2681) ![ysslang's theme](https://img.shields.io/github/gist/last-commit/46e2a57ca95ba9c7368cbd255d1ac769)
+  Paper with shadow effect, cool!
 
 ---
 
