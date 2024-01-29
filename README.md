@@ -74,27 +74,32 @@ These scripts and tips can be used to migrate to Trilium from other note taking 
 App Themes provide theming to the Trilium application. Typically, these notes are labeled with `#appTheme` with a value
 which indicates the name of the theme displayed in Trilium's options panel.
 
-* [Blue Theme](https://github.com/SiriusXT/trilium-theme-blue) ![GitHub last commit](https://img.shields.io/github/last-commit/SiriusXT/trilium-theme-blue)
+* [Blue Theme](https://github.com/SiriusXT/trilium-theme-blue) ![Blue Theme](https://img.shields.io/github/last-commit/SiriusXT/trilium-theme-blue)
   A brilliant and beautiful theme. Thanks SiriusXT!
-* [breeze-trilium](https://github.com/eliandoran/breeze-trilium) KDE Breeze theme for Trilium Notes
-* [Catppuccin](https://github.com/SadAlexa/trilium-theme-catppuccin) A theme for Trilium Notes, made with Catppuccin
-  palette.
-* [Chameleon Theme](https://github.com/DavidFuchs/trilium-chameleon-theme) A set of light and dark colour themes for
-  Trilium.
-* [Linen Theme](https://github.com/mondayrobot/trilium-linen-theme) A minimal, airy light theme for Trilium with an
-  optional distraction-free mode.
-* [Melon Theme](https://github.com/raphwriter/trilium-theme-melon) A delightful theme.
-* [Mist-Moon](https://github.com/Ivy-End/Mist-Moon) A Light Theme inspired by mist moon night view.
-* [NieR-Automata Theme](https://github.com/Nriver/NieR-Automata-Trilium-Theme) A fan-made NieR-Automata game UI like
-  theme. This theme is made by me :)
-* [Obsidian Theme](https://github.com/greengeek/trilium-obsidian-theme) Obsidian Note theme. Not lava and water :)
+* [breeze-trilium](https://github.com/eliandoran/breeze-trilium) ![breeze-trilium](https://img.shields.io/github/last-commit/eliandoran/breeze-trilium)
+  KDE Breeze theme for Trilium Notes
+* [Catppuccin](https://github.com/SadAlexa/trilium-theme-catppuccin) ![Catppuccin](https://img.shields.io/github/last-commit/SadAlexa/trilium-theme-catppuccin)
+  A theme for Trilium Notes, made with Catppuccin palette.
+* [Chameleon Theme](https://github.com/DavidFuchs/trilium-chameleon-theme) ![Chameleon Theme](https://img.shields.io/github/last-commit/DavidFuchs/trilium-chameleon-theme)
+  A set of light and dark colour themes for Trilium.
+* [Linen Theme](https://github.com/mondayrobot/trilium-linen-theme) ![Linen Theme](https://img.shields.io/github/last-commit/mondayrobot/trilium-linen-theme)
+  A minimal, airy light theme for Trilium with an optional distraction-free mode.
+* [Melon Theme](https://github.com/raphwriter/trilium-theme-melon) ![Melon Theme](https://img.shields.io/github/last-commit/raphwriter/trilium-theme-melon)
+  A delightful theme.
+* [Mist-Moon](https://github.com/Ivy-End/Mist-Moon) ![Mist-Moon](https://img.shields.io/github/last-commit/Ivy-End/Mist-Moon)
+  A Light Theme inspired by mist moon night view.
+* [NieR-Automata Theme](https://github.com/Nriver/NieR-Automata-Trilium-Theme) ![NieR-Automata Theme](https://img.shields.io/github/last-commit/Nriver/NieR-Automata-Trilium-Theme)
+  A fan-made NieR-Automata game UI like theme. This theme is made by me :)
+* [Obsidian Theme](https://github.com/greengeek/trilium-obsidian-theme) ![Obsidian Theme](https://img.shields.io/github/last-commit/greengeek/trilium-obsidian-theme)
 *
-    * [Trilium Greensidian Theme](https://github.com/obuno/trilium-greensidian-theme) Green color version of Obsidian
-      Theme
-* [Solarized theme](https://github.com/WKSu/trilium-solarized-theme) Brings the classic solarized themes to Trilium! It
-  comes in both light and dark.
-* [Stellar Dark Theme](https://github.com/Lolabird/stellar-dark-theme-trilium) A different taste of dark theme.
-* [VSCode-Dark Theme](https://github.com/greengeek/trilium-vscode-dark-theme) It's VSCode!
+    * [Trilium Greensidian Theme](https://github.com/obuno/trilium-greensidian-theme) ![Trilium Greensidian Theme](https://img.shields.io/github/last-commit/obuno/trilium-greensidian-theme)
+      Green color version of Obsidian Theme
+* [Solarized theme](https://github.com/WKSu/trilium-solarized-theme) ![Solarized theme](https://img.shields.io/github/last-commit/WKSu/trilium-solarized-theme)
+  Brings the classic solarized themes to Trilium! It comes in both light and dark.
+* [Stellar Dark Theme](https://github.com/Lolabird/stellar-dark-theme-trilium) ![Stellar Dark Theme](https://img.shields.io/github/last-commit/Lolabird/stellar-dark-theme-trilium)
+  A different taste of dark theme.
+* [VSCode-Dark Theme](https://github.com/greengeek/trilium-vscode-dark-theme) ![VSCode-Dark Theme](https://img.shields.io/github/last-commit/greengeek/trilium-vscode-dark-theme)
+  It's VSCode!
 
 **Sharing Themes**
 
