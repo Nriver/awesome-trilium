@@ -178,27 +178,31 @@ Magic! These code notes are typically tagged as JS frontend in Trilium.
 They're often marked with `#run=frontendStartup` for automatic execution when Trilium starts.
 Remember, scripts are executable codes. Handle with caution!
 
-* [Better Include](https://github.com/salmund/trilium_better_include) Make subnotes and include them faster
-* [Calendar & Timetable](https://github.com/Mangiola/trilium-scripts) Implements a calendar, timetable, and even a
-  musical fretboard.
-* [Dark-mode-img-color-conversion](https://github.com/zadam/trilium/discussions/4209) Adjusting the images and
-  background colors on the web page to suit a dark theme.
-* [Font formatting shortcuts](https://github.com/zadam/trilium/issues/2954#issuecomment-1672431589) Customizable
-  shortcut keys for text formatting in CKEditor. Makes significant enhancement in editing efficiency.
-* [gistMirror](https://github.com/jwhonce/trilium-addons/blob/main/gistMirror/gistMirror.js) Mirror GitHub Gists to
-  Trilium Note tree
-* [Mobile View](https://github.com/BeatLink/trilium-scripts/tree/main/Mobile%20View) These set of scripts allow you to
-  use the full capabilities of the Trilium server user interface while on a mobile device.
-* [Open note in split view](https://github.com/zadam/trilium/discussions/3937) Shift+click to open a note in split view.
-  Ctrl+shift+click for tree nodes.
-* [OpenFilePaths](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) Italicized file or folder paths can
-  be opened with a double click
+* [Better Include](https://github.com/salmund/trilium_better_include) ![Better Include](https://img.shields.io/github/last-commit/salmund/trilium_better_include)
+  Make subnotes and include them faster
+* [Calendar & Timetable](https://github.com/Mangiola/trilium-scripts) ![Calendar & Timetable](https://img.shields.io/github/last-commit/Mangiola/trilium-scripts)
+  Implements a calendar, timetable, and even a musical fretboard.
+* [Dark-mode-img-color-conversion](https://github.com/zadam/trilium/discussions/4209)
+  Adjusting the images and background colors on the web page to suit a dark theme.
+* [Font formatting shortcuts](https://github.com/zadam/trilium/issues/2954#issuecomment-1672431589)
+  Customizable shortcut keys for text formatting in CKEditor. Makes significant enhancement in editing efficiency.
+* [gistMirror](https://github.com/jwhonce/trilium-addons/blob/main/gistMirror/gistMirror.js) ![gistMirror](https://img.shields.io/github/last-commit/jwhonce/trilium-addons)
+  Mirror GitHub Gists to Trilium Note tree
+* [Mobile View](https://github.com/BeatLink/trilium-scripts/tree/main/Mobile%20View) ![Mobile View](https://img.shields.io/github/last-commit/BeatLink/trilium-scripts)
+  These set of scripts allow you to use the full capabilities of the Trilium server user interface while on a mobile
+  device.
+* [Open note in split view](https://github.com/zadam/trilium/discussions/3937)
+  Shift+click to open a note in split view. Ctrl+shift+click for tree nodes.
+* [OpenFilePaths](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![OpenFilePaths](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
+  Italicized file or folder paths can be opened with a double click
 * [Startup message](https://github.com/Nriver/trilium-translation/blob/main/demo-cn/示例笔记%20-%20请不要删除/Trilium%20扩展/Trilium%20脚本%20script/startup%20启动项/startup%20message%20启动信息.js)
+  ![Startup message](https://img.shields.io/github/last-commit/Nriver/trilium-translation)
   A quite simple script. Display a random message. Set `#run=frontendStartup` to run it when Trilium startup. Just like
   a MOTD(Message of the day) message :)
-* [Trillium Agenda](https://github.com/BeatLink/trilium-agenda) Sorts todos into 6 categories: Overdue, Today, This
-  Week, This Month, This Year, Future
-* [Trilium-chat](https://github.com/soulsands/trilium-chat) The chat plugin for Trilium currently supports Chatgpt
+* [Trillium Agenda](https://github.com/BeatLink/trilium-agenda) ![Trillium Agenda](https://img.shields.io/github/last-commit/BeatLink/trilium-agenda)
+  Sorts todos into 6 categories: Overdue, Today, This Week, This Month, This Year, Future
+* [Trilium-chat](https://github.com/soulsands/trilium-chat) ![Trilium-chat](https://img.shields.io/github/last-commit/soulsands/trilium-chat)
+  The chat plugin for Trilium currently supports Chatgpt
 
 ---
 
@@ -207,17 +211,22 @@ Remember, scripts are executable codes. Handle with caution!
 An enhanced HTML display notes often incorporates complex features and commonly uses the `~renderNote` relation to
 present intricate standalone HTML pages, surpassing the capabilities of small panels.
 
-* [drawio](https://github.com/SiriusXT/trilium-drawio) Integrated drawio plug-in
-* [LaTeXPreview](https://github.com/rauenzi/Trilium-LaTeXPreview) A widget for Trilium Notes to preview LaTeX notes
-* [MarkdownPreview](https://github.com/rauenzi/Trilium-MarkdownPreview/) Live preview markdown files with support for
-  anchors, images, and sync scroll
-* [trilium-collection-views](https://github.com/mabeyj/trilium-collection-views) A great extension for displaying notes
-  in a different way.
-* [Trilium-Heatmap](https://github.com/dvai/Trilium-Heatmap) Display a note modification heatmap in a Trilium note
-* [Trilium JSON Editor](https://github.com/sottey/tje) JSON Note editor for Trilium
-* [Trilium-SingleFile](https://github.com/rauenzi/Trilium-SingleFile) About
+* [drawio](https://github.com/SiriusXT/trilium-drawio) ![drawio](https://img.shields.io/github/last-commit/SiriusXT/trilium-drawio)
+  Integrated drawio plug-in
+* [LaTeXPreview](https://github.com/rauenzi/Trilium-LaTeXPreview) ![LaTeXPreview](https://img.shields.io/github/last-commit/rauenzi/Trilium-LaTeXPreview)
+  A widget for Trilium Notes to preview LaTeX notes
+* [MarkdownPreview](https://github.com/rauenzi/Trilium-MarkdownPreview) ![MarkdownPreview](https://img.shields.io/github/last-commit/rauenzi/Trilium-MarkdownPreview)
+  Live preview markdown files with support for anchors, images, and sync scroll
+* [trilium-collection-views](https://github.com/mabeyj/trilium-collection-views) ![trilium-collection-views](https://img.shields.io/github/last-commit/mabeyj/trilium-collection-views)
+  A great extension for displaying notes in a different way.
+* [Trilium-Heatmap](https://github.com/dvai/Trilium-Heatmap) ![Trilium-Heatmap](https://img.shields.io/github/last-commit/dvai/Trilium-Heatmap)
+  Display a note modification heatmap in a Trilium note
+* [Trilium JSON Editor](https://github.com/sottey/tje) ![Trilium JSON Editor](https://img.shields.io/github/last-commit/sottey/tje)
+  JSON Note editor for Trilium
+* [Trilium-SingleFile](https://github.com/rauenzi/Trilium-SingleFile) ![Trilium-SingleFile](https://img.shields.io/github/last-commit/rauenzi/Trilium-SingleFile)
   An addon for Trilium to easily import SingleFile archives.
-* [Kanban View](https://github.com/CyrilLeblanc/trilium-kanban) A Kanban integration for Trilium Notes
+* [Kanban View](https://github.com/CyrilLeblanc/trilium-kanban) ![Kanban View](https://img.shields.io/github/last-commit/CyrilLeblanc/trilium-kanban)
+  A Kanban integration for Trilium Notes
 
 ---
 
@@ -229,13 +238,13 @@ Mobile phone related cool stuff.
 
 * [Run Trilium Server in Termux on Android](https://github.com/zadam/trilium/discussions/4542) Your server in your hand.
   Have fun :)
-* [trilium-sender](https://github.com/zadam/trilium-sender) A simple write-only android application for sending images
-  and notes to Trilium
+* [trilium-sender](https://github.com/zadam/trilium-sender) ![trilium-sender](https://img.shields.io/github/last-commit/zadam/trilium-sender)
+  A simple write-only android application for sending images and notes to Trilium
 
 ### 🍎 iOS
 
-* [trilium-ios-shortcut](https://github.com/soulsands/trilium-ios-shortcut) A tutorial on sending messages to Trilium
-  via an apple shortcut.
+* [trilium-ios-shortcut](https://github.com/soulsands/trilium-ios-shortcut) ![trilium-ios-shortcut](https://img.shields.io/github/last-commit/soulsands/trilium-ios-shortcut)
+  A tutorial on sending messages to Trilium via an Apple shortcut.
 
 ---
 
@@ -245,8 +254,8 @@ More magic!
 
 Caution! The plugins in this category involves custom request handlers (user defined APIs). Use them with care!
 
-* [singlefile2trilium](https://github.com/nil0x42/singlefile2trilium) With the power
-  of [SingleFile](https://github.com/gildas-lormeau/SingleFile) web extension, you can get a perfect copy
+* [singlefile2trilium](https://github.com/nil0x42/singlefile2trilium) ![singlefile2trilium](https://img.shields.io/github/last-commit/nil0x42/singlefile2trilium)
+  With the power of [SingleFile](https://github.com/gildas-lormeau/SingleFile) web extension, you can get a perfect copy
   of the webpage in Trilium.
 
 ---
@@ -259,19 +268,22 @@ Trilium's external API (aka [ETAPI](https://github.com/zadam/trilium/wiki/ETAPI)
 
 The client implementations for ETAPI.
 
-* [trilium-py](https://github.com/Nriver/trilium-py) Python client for ETAPI of Trilium Note with some extra cool
-  features.
-* [pytrilium](https://github.com/perfectra1n/pytrilium) Python client for ETAPI of Trilium Notes that contains all
-  currently valid ETAPI paths, and implements a custom underlying `requests` session.
-* [trilium-alchemy](https://github.com/mm21/trilium-alchemy) Python SDK and CLI toolkit for Trilium Notes.
-* [trilium-etapi](https://github.com/rauenzi/trilium-etapi) A Node.js wrapper around the ETAPI for Trilium Notes.
+* [trilium-py](https://github.com/Nriver/trilium-py) ![trilium-py](https://img.shields.io/github/last-commit/Nriver/trilium-py)
+  Python client for ETAPI of Trilium Note with some extra cool features.
+* [pytrilium](https://github.com/perfectra1n/pytrilium) ![pytrilium](https://img.shields.io/github/last-commit/perfectra1n/pytrilium)
+  Python client for ETAPI of Trilium Notes that contains all currently valid ETAPI paths, and implements a custom
+  underlying `requests` session.
+* [trilium-alchemy](https://github.com/mm21/trilium-alchemy) ![trilium-alchemy](https://img.shields.io/github/last-commit/mm21/trilium-alchemy)
+  Python SDK and CLI toolkit for Trilium Notes.
+* [trilium-etapi](https://github.com/rauenzi/trilium-etapi) ![trilium-etapi](https://img.shields.io/github/last-commit/rauenzi/trilium-etapi)
+  A Node.js wrapper around the ETAPI for Trilium Notes.
 
 ### 🤖 ETAPI programs
 
 Programs based on triliums ETAPI.
 
-* [trilium-bot](https://github.com/Nriver/trilium-bot) A demo telegram bot for Trilium, powered
-  by [trilium-py](https://github.com/Nriver/trilium-py).
+* [trilium-bot](https://github.com/Nriver/trilium-bot) ![trilium-bot](https://img.shields.io/github/last-commit/Nriver/trilium-bot)
+  A demo Telegram bot for Trilium, powered by [trilium-py](https://github.com/Nriver/trilium-py).
 
 ---
 
@@ -279,8 +291,10 @@ Programs based on triliums ETAPI.
 
 Development tools for developing Trilium and its plugins.
 
-* [trilium-pack](https://github.com/rauenzi/trilium-pack) A simple way to pack addons as `zip` files for Trilium Notes.
-* [trilium-types](https://github.com/rauenzi/trilium-types) A TypeScript `@types` package for Trilium Notes.
+* [trilium-pack](https://github.com/rauenzi/trilium-pack) ![trilium-pack](https://img.shields.io/github/last-commit/rauenzi/trilium-pack)
+  A simple way to pack addons as `zip` files for Trilium Notes.
+* [trilium-types](https://github.com/rauenzi/trilium-types) ![trilium-types](https://img.shields.io/github/last-commit/rauenzi/trilium-types)
+  A TypeScript `@types` package for Trilium Notes.
 
 ---
 
@@ -288,8 +302,8 @@ Development tools for developing Trilium and its plugins.
 
 Third-party translation for Trilium Notes.
 
-* [trilium-translation](https://github.com/Nriver/trilium-translation) The unofficial translation project for Trilium.
-  For now, a Chinese translation is completed.
+* [trilium-translation](https://github.com/Nriver/trilium-translation) ![trilium-translation](https://img.shields.io/github/last-commit/Nriver/trilium-translation)
+  The unofficial translation project for Trilium. For now, a Chinese translation is completed.
 
 ## 🔥 Contribution
 
