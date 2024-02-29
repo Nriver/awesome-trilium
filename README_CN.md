@@ -120,6 +120,7 @@
 * [从目录中移除数字](https://github.com/zadam/trilium/discussions/3873#discussioncomment-5710601)
 * [树形结构的垂直线](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842)
 * [活动日历天数可见性改进](https://github.com/Nriver/awesome-trilium/issues/30)
+* [禅模式](https://github.com/Nriver/awesome-trilium/issues/44) 在你的 Trilium 中添加禅模式。
 
 ---
 

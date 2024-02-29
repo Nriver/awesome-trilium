@@ -126,6 +126,7 @@ for instructions on how to enable custom CSS)
 * [remove numbers from table of contents](https://github.com/zadam/trilium/discussions/3873#discussioncomment-5710601)
 * [vertical lines for tree](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842)
 * [active calendar days visibility improvement](https://github.com/Nriver/awesome-trilium/issues/30)
+* [zen mode](https://github.com/Nriver/awesome-trilium/issues/44) Add zen mode to your Trilium.
 
 ---
 
