@@ -204,7 +204,8 @@ Remember, scripts are executable codes. Handle with caution!
   Sorts todos into 6 categories: Overdue, Today, This Week, This Month, This Year, Future
 * [Trilium-chat](https://github.com/soulsands/trilium-chat) ![Trilium-chat](https://img.shields.io/github/last-commit/soulsands/trilium-chat)
   The chat plugin for Trilium currently supports Chatgpt
-* [Trilium-DailyMood](https://github.com/dvai/Trilium-DailyMood) Browse daily moods in the calendar
+* [Trilium-DailyMood](https://github.com/dvai/Trilium-DailyMood) ![Trilium-DailyMood](https://img.shields.io/github/last-commit/dvai/Trilium-DailyMood)
+  Browse daily moods in the calendar
 
 ---
 

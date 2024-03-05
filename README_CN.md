@@ -192,7 +192,8 @@
   将待办事项分类为六个类别：逾期、今天、本周、本月、今年、未来
 * [Trilium 聊天](https://github.com/soulsands/trilium-chat) ![Trilium 聊天](https://img.shields.io/github/last-commit/soulsands/trilium-chat)
   Trilium 的聊天插件目前支持 ChatGPT
-* [Trilium-DailyMood](https://github.com/dvai/Trilium-DailyMood) 在日历中浏览每日心情
+* [Trilium-DailyMood](https://github.com/dvai/Trilium-DailyMood) ![Trilium-DailyMood](https://img.shields.io/github/last-commit/dvai/Trilium-DailyMood)
+  在日历中浏览每日心情
 
 ---
 
