@@ -285,6 +285,8 @@ The client implementations for ETAPI.
 
 Programs based on triliums ETAPI.
 
+* [omnivore2trilium](https://github.com/0xbismarck/omnivore2trilium) ![omnivore2trilium](https://img.shields.io/github/last-commit/0xbismarck/omnivore2trilium)
+  A tool that imports highlights directly into Trilium from [Omnivore](https://omnivore.app/), a Read-It-Later App.
 * [trilium-bot](https://github.com/Nriver/trilium-bot) ![trilium-bot](https://img.shields.io/github/last-commit/Nriver/trilium-bot)
   A demo Telegram bot for Trilium, powered by [trilium-py](https://github.com/Nriver/trilium-py).
 
