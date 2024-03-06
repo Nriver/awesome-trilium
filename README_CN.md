@@ -87,7 +87,6 @@
 * [尼尔：自动人形主题](https://github.com/Nriver/NieR-Automata-Trilium-Theme) ![尼尔：自动人形主题](https://img.shields.io/github/last-commit/Nriver/NieR-Automata-Trilium-Theme)
   由粉丝制作的尼尔：自动人形游戏用户界面风格主题。这个主题是我制作的 :)
 * [Obsidian 主题](https://github.com/greengeek/trilium-obsidian-theme) ![Obsidian 主题](https://img.shields.io/github/last-commit/greengeek/trilium-obsidian-theme)
-*
     * [Trilium Greensidian 主题](https://github.com/obuno/trilium-greensidian-theme) ![Trilium Greensidian 主题](https://img.shields.io/github/last-commit/obuno/trilium-greensidian-theme)
       Obsidian 主题的绿色版本
 * [Solarized 主题](https://github.com/WKSu/trilium-solarized-theme) ![Solarized 主题](https://img.shields.io/github/last-commit/WKSu/trilium-solarized-theme)
@@ -180,6 +179,8 @@
   将 GitHub Gists 镜像到 Trilium 笔记树
 * [移动端视图](https://github.com/BeatLink/trilium-scripts/tree/main/Mobile%20View) ![移动端视图](https://img.shields.io/github/last-commit/BeatLink/trilium-scripts)
   这套脚本允许您在移动设备上使用 Trilium 服务器用户界面的全部功能。
+    * [始终桌面模式](https://github.com/Nriver/trilium-translation/issues/90) 
+    在移动设备上始终使用桌面用户界面。
 * [在分割视图中打开笔记](https://github.com/zadam/trilium/discussions/3937)
   使用 Shift+点击在分割视图中打开笔记。Ctrl+Shift+点击用于树节点。
 * [打开文件路径](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![打开文件路径](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
@@ -270,6 +271,8 @@ ETAPI 的客户端实现。
 
 基于 Trilium ETAPI 的程序。
 
+* [omnivore2trilium](https://github.com/0xbismarck/omnivore2trilium) ![omnivore2trilium](https://img.shields.io/github/last-commit/0xbismarck/omnivore2trilium)
+  这是一个工具，可以直接将来自 [Omnivore](https://omnivore.app/)（一个稍后阅读应用程序）的摘要导入到 Trilium 中。
 * [trilium-bot](https://github.com/Nriver/trilium-bot) ![trilium-bot](https://img.shields.io/github/last-commit/Nriver/trilium-bot)
   由 [trilium-py](https://github.com/Nriver/trilium-py) 提供支持的 Trilium 的演示 Telegram 机器人。
 

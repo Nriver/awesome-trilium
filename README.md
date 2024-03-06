@@ -91,7 +91,6 @@ which indicates the name of the theme displayed in Trilium's options panel.
 * [NieR-Automata Theme](https://github.com/Nriver/NieR-Automata-Trilium-Theme) ![NieR-Automata Theme](https://img.shields.io/github/last-commit/Nriver/NieR-Automata-Trilium-Theme)
   A fan-made NieR-Automata game UI like theme. This theme is made by me :)
 * [Obsidian Theme](https://github.com/greengeek/trilium-obsidian-theme) ![Obsidian Theme](https://img.shields.io/github/last-commit/greengeek/trilium-obsidian-theme)
-*
     * [Trilium Greensidian Theme](https://github.com/obuno/trilium-greensidian-theme) ![Trilium Greensidian Theme](https://img.shields.io/github/last-commit/obuno/trilium-greensidian-theme)
       Green color version of Obsidian Theme
 * [Solarized theme](https://github.com/WKSu/trilium-solarized-theme) ![Solarized theme](https://img.shields.io/github/last-commit/WKSu/trilium-solarized-theme)
@@ -192,6 +191,8 @@ Remember, scripts are executable codes. Handle with caution!
 * [Mobile View](https://github.com/BeatLink/trilium-scripts/tree/main/Mobile%20View) ![Mobile View](https://img.shields.io/github/last-commit/BeatLink/trilium-scripts)
   These set of scripts allow you to use the full capabilities of the Trilium server user interface while on a mobile
   device.
+    * [always desktop mode](https://github.com/Nriver/trilium-translation/issues/90) 
+    Always use desktop UI on mobile device.
 * [Open note in split view](https://github.com/zadam/trilium/discussions/3937)
   Shift+click to open a note in split view. Ctrl+shift+click for tree nodes.
 * [OpenFilePaths](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![OpenFilePaths](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
