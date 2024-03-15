@@ -197,6 +197,8 @@ Remember, scripts are executable codes. Handle with caution!
   Shift+click to open a note in split view. Ctrl+shift+click for tree nodes.
 * [OpenFilePaths](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![OpenFilePaths](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
   Italicized file or folder paths can be opened with a double click
+* [Reflective Journal Prompts](https://gist.github.com/paulusm/9f840a4ed59e4bfb2d2de6b004b429b1) ![Reflective Journal Prompts](https://img.shields.io/github/gist/last-commit/9f840a4ed59e4bfb2d2de6b004b429b1
+) Insert a random journaling prompt in the current note (binds to ctrl+shift+p) 
 * [Startup message](https://github.com/Nriver/trilium-translation/blob/main/demo-cn/示例笔记%20-%20请不要删除/Trilium%20扩展/Trilium%20脚本%20script/startup%20启动项/startup%20message%20启动信息.js)
   ![Startup message](https://img.shields.io/github/last-commit/Nriver/trilium-translation)
   A quite simple script. Display a random message. Set `#run=frontendStartup` to run it when Trilium startup. Just like
