@@ -292,6 +292,8 @@ Programs based on triliums ETAPI.
   A tool that imports highlights directly into Trilium from [Omnivore](https://omnivore.app/), a Read-It-Later App.
 * [trilium-bot](https://github.com/Nriver/trilium-bot) ![trilium-bot](https://img.shields.io/github/last-commit/Nriver/trilium-bot)
   A demo Telegram bot for Trilium, powered by [trilium-py](https://github.com/Nriver/trilium-py).
+* [zotero-trilium](https://github.com/paulusm/zotero-trilium) ![zotero-trilium](https://img.shields.io/github/last-commit/paulusm/zotero-trilium)
+Add-on for Zotero reference manager, lets you export formatted references and notes across to Trilium.
 
 ---
 
