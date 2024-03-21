@@ -115,11 +115,12 @@
 自定义 CSS 用于改变 Trilium 的外观。这些代码片段通常带有 `#appCss` 标签。
 请参阅 ([Trilium Wiki](https://github.com/zadam/trilium/wiki/Themes#custom-css)) 了解如何启用自定义 CSS 的说明。
 
-* [显示编辑过的笔记为列表](https://github.com/zadam/trilium/discussions/2670#discussion-3884786)
-* [从目录中移除数字](https://github.com/zadam/trilium/discussions/3873#discussioncomment-5710601)
-* [树形结构的垂直线](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842)
-* [活动日历天数可见性改进](https://github.com/Nriver/awesome-trilium/issues/30)
-* [禅模式](https://github.com/Nriver/awesome-trilium/issues/44) 在你的 Trilium 中添加禅模式。
+* [活动日历天可见性改进](https://github.com/Nriver/awesome-trilium/issues/30)
+* [将编辑后的笔记显示为列表](https://github.com/zadam/trilium/discussions/2670#discussion-3884786)
+* [水平滚动条](https://github.com/zadam/trilium/discussions/4706) 一个 CSS 片段，用于使左侧面板和目录显示水平滚动条。
+* [从目录中删除编号](https://github.com/zadam/trilium/discussions/3873#discussioncomment-5710601)
+* [树形结构垂直线](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842)
+* [禅模式](https://github.com/Nriver/awesome-trilium/issues/44) 将禅模式添加到您的 Trilium 中。
 
 ---
 
@@ -275,6 +276,8 @@ ETAPI 的客户端实现。
   这是一个工具，可以直接将来自 [Omnivore](https://omnivore.app/)（一个稍后阅读应用程序）的摘要导入到 Trilium 中。
 * [trilium-bot](https://github.com/Nriver/trilium-bot) ![trilium-bot](https://img.shields.io/github/last-commit/Nriver/trilium-bot)
   由 [trilium-py](https://github.com/Nriver/trilium-py) 提供支持的 Trilium 的演示 Telegram 机器人。
+* [zotero-trilium](https://github.com/paulusm/zotero-trilium) ![zotero-trilium](https://img.shields.io/github/last-commit/paulusm/zotero-trilium)
+适用于 Zotero 参考管理器的附加组件，可让您将格式化的参考文献和注释导出到 Trilium。
 
 ---
 
