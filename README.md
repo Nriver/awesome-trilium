@@ -121,10 +121,11 @@ Custom CSS is used to alter the appearance of Trilium. These code snippets are t
 See ([Trilium Wiki](https://github.com/zadam/trilium/wiki/Themes#custom-css)
 for instructions on how to enable custom CSS)
 
+* [active calendar days visibility improvement](https://github.com/Nriver/awesome-trilium/issues/30)
 * [display edited notes as list](https://github.com/zadam/trilium/discussions/2670#discussion-3884786)
+* [horizontal scrollbar](https://github.com/zadam/trilium/discussions/4706) A css snippet to make the left panel and toc display a horizontal scrollbar.
 * [remove numbers from table of contents](https://github.com/zadam/trilium/discussions/3873#discussioncomment-5710601)
 * [vertical lines for tree](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842)
-* [active calendar days visibility improvement](https://github.com/Nriver/awesome-trilium/issues/30)
 * [zen mode](https://github.com/Nriver/awesome-trilium/issues/44) Add zen mode to your Trilium.
 
 ---
