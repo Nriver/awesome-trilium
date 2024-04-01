@@ -78,6 +78,8 @@
   适用于 Trilium Notes 的主题，使用 Catppuccin 调色板制作。
 * [Chameleon 主题](https://github.com/DavidFuchs/trilium-chameleon-theme) ![Chameleon 主题](https://img.shields.io/github/last-commit/DavidFuchs/trilium-chameleon-theme)
   Trilium 的浅色和深色主题套装。
+* [Lightpad](https://github.com/ohmstance/trilium-lightpad-theme) ![Lightpad](https://github.com/ohmstance/trilium-lightpad-theme)
+  一款明亮的主题，具有许多用户友好的调整，极大地增强了移动端的体验。
 * [亚麻主题](https://github.com/mondayrobot/trilium-linen-theme) ![亚麻主题](https://img.shields.io/github/last-commit/mondayrobot/trilium-linen-theme)
   适用于 Trilium 的极简、通风的亮色主题，带有可选的无干扰模式。
 * [甜瓜主题](https://github.com/raphwriter/trilium-theme-melon) ![甜瓜主题](https://img.shields.io/github/last-commit/raphwriter/trilium-theme-melon)
