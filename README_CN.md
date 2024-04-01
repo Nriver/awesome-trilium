@@ -135,6 +135,8 @@
   在页面底部显示笔记的面包屑导航
 * [命令面板](https://github.com/justyns/trilium-scripts) ![命令面板](https://img.shields.io/github/last-commit/justyns/trilium-scripts)
   Trilium 的简易命令面板
+* [倒计时天数](https://github.com/Nriver/countdown-days-widget) ![倒计时天数](https://img.shields.io/github/last-commit/Nriver/countdown-days-widget)
+  在日记标题下添加相对天数信息。
 * [hexmap](https://gitlab.com/QuentinLeCaignec/trilium-hexmap) ![hexmap](https://img.shields.io/gitlab/last-commit/QuentinLeCaignec/trilium-hexmap)
   交互式 hexmap（适用于 TTRPGs）
 * [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![openfilepath](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
