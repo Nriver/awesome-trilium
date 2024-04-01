@@ -80,7 +80,7 @@ which indicates the name of the theme displayed in Trilium's options panel.
   KDE Breeze theme for Trilium Notes
 * [Catppuccin](https://github.com/SadAlexa/trilium-theme-catppuccin) ![Catppuccin](https://img.shields.io/github/last-commit/SadAlexa/trilium-theme-catppuccin)
   A theme for Trilium Notes, made with Catppuccin palette.
-* [Lightpad](https://github.com/ohmstance/trilium-lightpad-theme) ![Lightpad](https://github.com/ohmstance/trilium-lightpad-theme)
+* [Lightpad](https://github.com/ohmstance/trilium-lightpad-theme) ![Lightpad](https://img.shields.io/github/last-commit/ohmstance/trilium-lightpad-theme)
   A light theme with numerous user-friendly adjustments, greatly enhancing the mobile experience.
 * [Chameleon Theme](https://github.com/DavidFuchs/trilium-chameleon-theme) ![Chameleon Theme](https://img.shields.io/github/last-commit/DavidFuchs/trilium-chameleon-theme)
   A set of light and dark colour themes for Trilium.
