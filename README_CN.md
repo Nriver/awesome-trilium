@@ -155,6 +155,8 @@
   自动隐藏标题栏和信息栏，可单独设置隐藏其中之一。
 * [trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) ![trilium-back-to-history](https://img.shields.io/github/last-commit/SiriusXT/trilium-back-to-history)
   跳转到上次浏览位置
+* [trilium-jsmind](https://github.com/waterovo/trilium-jsmind) ![trilium-jsmind](https://img.shields.io/github/last-commit/waterovo/trilium-jsmind)
+  在trilium创建[jsmind](https://github.com/hizzgdev/jsmind)思维导图。
 * [trilium-left-panel-auto-zoom](https://github.com/SiriusXT/trilium-left-panel-auto-zoom) ![trilium-left-panel-auto-zoom](https://img.shields.io/github/last-commit/SiriusXT/trilium-left-panel-auto-zoom)
   通过移动鼠标自动扩展笔记树。适用于导航具有长标题和深层次笔记的便捷小部件。
 * [trilium-remember-right-pane](https://github.com/SiriusXT/trilium-remember-right-pane) ![trilium-remember-right-pane](https://img.shields.io/github/last-commit/SiriusXT/trilium-remember-right-pane)

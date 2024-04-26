@@ -163,6 +163,8 @@ file of a widget is usually labeled with `#widget`.
   Automatically hide the title bar and information bar, and you can set to hide one of them individually.
 * [trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) ![trilium-back-to-history](https://img.shields.io/github/last-commit/SiriusXT/trilium-back-to-history)
   Jump to the last browsing position
+* [trilium-jsmind](https://github.com/waterovo/trilium-jsmind) ![trilium-jsmind](https://img.shields.io/github/last-commit/waterovo/trilium-jsmind)
+  Create [jsmind](https://github.com/hizzgdev/jsmind) mindmap in Trilium.
 * [trilium-left-panel-auto-zoom](https://github.com/SiriusXT/trilium-left-panel-auto-zoom) ![trilium-left-panel-auto-zoom](https://img.shields.io/github/last-commit/SiriusXT/trilium-left-panel-auto-zoom)
   Automatically widen note tree by moving your mouse. A convenient widget to navigate through notes with long titles and
   deep level notes.
