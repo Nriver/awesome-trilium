@@ -143,6 +143,8 @@ file of a widget is usually labeled with `#widget`.
   Shows note breadcrumbs at the bottom of the page
 * [command-palette](https://github.com/justyns/trilium-scripts) ![command-palette](https://img.shields.io/github/last-commit/justyns/trilium-scripts)
   Simple command-palette for Trilium
+* [Copy Code Block](https://github.com/Nriver/copy-code-block-widget) ![command-palette](https://img.shields.io/github/last-commit/Nriver/copy-code-block-widget)
+  Double click to copy code block
 * [Countdown Days](https://github.com/Nriver/countdown-days-widget) ![Countdown Days](https://img.shields.io/github/last-commit/Nriver/countdown-days-widget)
   Add a relative days message under journal note title.
 * [hexmap](https://gitlab.com/QuentinLeCaignec/trilium-hexmap) ![hexmap](https://img.shields.io/gitlab/last-commit/QuentinLeCaignec/trilium-hexmap)
