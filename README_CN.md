@@ -163,6 +163,8 @@
   通过移动鼠标自动扩展笔记树。适用于导航具有长标题和深层次笔记的便捷小部件。
 * [trilium-remember-right-pane](https://github.com/SiriusXT/trilium-remember-right-pane) ![trilium-remember-right-pane](https://img.shields.io/github/last-commit/SiriusXT/trilium-remember-right-pane)
   允许在关闭右侧面板后点击按钮再次打开。通过标签记住右侧面板的状态。
+* [trilium-simple-mind-map](https://github.com/waterovo/trilium-simple-mind-map) ![trilium-simple-mind-map](https://img.shields.io/github/last-commit/waterovo/trilium-simple-mind-map)
+  在trilium创建[simple-mind-map](https://github.com/wanglin2/mind-map)思维导图。
 * [trilium-show-position-in-toc](https://github.com/SiriusXT/trilium-show-position-in-toc) ![trilium-show-position-in-toc](https://img.shields.io/github/last-commit/SiriusXT/trilium-show-position-in-toc)
   在目录中标记当前浏览位置的字体为红色。
 * [Trilium-TocWidget](https://github.com/Lolabird/Trilium-TocWidget) ![Trilium-TocWidget](https://img.shields.io/github/last-commit/Lolabird/Trilium-TocWidget)

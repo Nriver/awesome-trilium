@@ -174,6 +174,8 @@ file of a widget is usually labeled with `#widget`.
   Lets you click a button to open the right pane again after closing it. Remembers the right pane state by label.
 * [trilium-show-position-in-toc](https://github.com/SiriusXT/trilium-show-position-in-toc) ![trilium-show-position-in-toc](https://img.shields.io/github/last-commit/SiriusXT/trilium-show-position-in-toc)
   Mark font red of the position being browsed in the Table of contents.
+* [trilium-simple-mind-map](https://github.com/waterovo/trilium-simple-mind-map) ![trilium-simple-mind-map](https://img.shields.io/github/last-commit/waterovo/trilium-simple-mind-map)
+  Create [simple-mind-map](https://github.com/wanglin2/mind-map) mindmap in Trilium.
 * [Trilium-TocWidget](https://github.com/Lolabird/Trilium-TocWidget) ![Trilium-TocWidget](https://img.shields.io/github/last-commit/Lolabird/Trilium-TocWidget)
   The table of content widget is now a built-in feature in Trilium Notes. Great thank to
   developers [antoniotejada](https://github.com/antoniotejada/Trilium-TocWidget)
