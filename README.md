@@ -14,26 +14,25 @@ You are welcome to add cool stuff about Trilium Notes here.
 ## 🦮 Table of Contents
 
 <!--ts-->
-
-- [😎 awesome-trilium](#-awesome-trilium)
-  - [🦮 Table of Contents](#-table-of-contents)
-  - [📥 Migrating to Trilium](#-migrating-to-trilium)
-  - [🏡 Themes](#-themes)
-  - [✂️ CSS Snippets](#️-css-snippets)
-  - [⚙️ Widgets](#️-widgets)
-  - [🪄 Scripts](#-scripts)
-  - [💥 Extension HTML Note](#-extension-html-note)
-  - [📱 Mobile](#-mobile)
-    - [🤖 Android](#-android)
-    - [🍎 iOS](#-ios)
-  - [🧚 API extensions](#-api-extensions)
-  - [🖥️ ETAPI](#️-etapi)
-    - [🦾 ETAPI client](#-etapi-client)
-    - [🤖 ETAPI programs](#-etapi-programs)
-  - [👨‍💻 Development Tools](#-development-tools)
-  - [🌐 Translation](#-translation)
-  - [🔥 Contribution](#-contribution)
-
+* [😎 awesome-trilium](#-awesome-trilium)
+   * [🦮 Table of Contents](#-table-of-contents)
+   * [📥 Migrating to Trilium](#-migrating-to-trilium)
+   * [🏡 Themes](#-themes)
+   * [✂️ CSS Snippets](#️-css-snippets)
+   * [⚙️ Widgets](#️-widgets)
+   * [🪄 Scripts](#-scripts)
+   * [💥 Extension HTML Note](#-extension-html-note)
+   * [📱 Mobile](#-mobile)
+      * [🤖 Android](#-android)
+      * [🍎 iOS](#-ios)
+   * [🧚 API extensions](#-api-extensions)
+   * [🖥️ ETAPI](#️-etapi)
+      * [🦾 ETAPI client](#-etapi-client)
+      * [🤖 ETAPI programs](#-etapi-programs)
+   * [👨‍💻 Development Tools](#-development-tools)
+   * [📚 Wikis &amp; documents](#-wikis--documents)
+   * [🌐 Translation](#-translation)
+   * [🔥 Contribution](#-contribution)
 <!--te-->
 
 ---
@@ -316,6 +315,15 @@ Development tools for developing Trilium and its plugins.
   A simple way to pack addons as `zip` files for Trilium Notes.
 * [trilium-types](https://github.com/rauenzi/trilium-types) ![trilium-types](https://img.shields.io/github/last-commit/rauenzi/trilium-types)
   A TypeScript `@types` package for Trilium Notes.
+
+---
+
+## 📚 Wikis & documents
+
+* [official wiki](https://github.com/zadam/trilium/wiki)
+  The official wiki of trilium.
+* [Chinese wiki](https://github.com/baddate/trilium-wiki)
+  A Chinese translation of the official wiki.
 
 ---
 
