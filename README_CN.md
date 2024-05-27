@@ -32,6 +32,7 @@
       * [🦾 ETAPI 客户端](#-etapi-客户端)
       * [🤖 ETAPI 程序](#-etapi-程序)
    * [👨‍💻 开发工具](#-开发工具)
+   * [📚 维基和文档](#-wikis--documents)
    * [🌐 翻译](#-翻译)
    * [🔥 贡献](#-贡献)
 <!--te-->
@@ -296,6 +297,15 @@ ETAPI 的客户端实现。
   一个简单的将附加组件打包为 Trilium Notes `zip` 文件的方法。
 * [trilium-types](https://github.com/rauenzi/trilium-types) ![trilium-types](https://img.shields.io/github/last-commit/rauenzi/trilium-types)
   用于 Trilium Notes 的 TypeScript `@types` 包。
+
+---
+
+## 📚 维基和文档
+
+* [官方维基](https://github.com/zadam/trilium/wiki)
+  Trilium 的官方维基。
+* [中文维基](https://github.com/baddate/trilium-wiki)
+  官方维基的中文翻译。
 
 ---
 
