@@ -15,24 +15,24 @@ You are welcome to add cool stuff about Trilium Notes here.
 
 <!--ts-->
 
-* [😎 awesome-trilium](#-awesome-trilium)
-    * [🦮 Table of Contents](#-table-of-contents)
-    * [📥 Migrating to Trilium](#-migrating-to-trilium)
-    * [🏡 Themes](#-themes)
-    * [✂️ CSS Snippets](#-css-snippets)
-    * [⚙️ Widgets](#️-widgets)
-    * [🪄 Scripts](#-scripts)
-    * [💥 Extension HTML Note](#-extension-html-note)
-    * [📱 Mobile](#-mobile)
-        * [🤖 Android](#-android)
-        * [🍎 iOS](#-ios)
-    * [🧚 API extensions](#-api-extensions)
-    * [🖥️ ETAPI](#️-etapi)
-        * [🦾 ETAPI client](#-etapi-client)
-        * [🤖 ETAPI programs](#-etapi-programs)
-    * [👨‍💻 Development Tools](#-development-tools)
-    * [🌐 Translation](#-translation)
-    * [🔥 Contribution](#-contribution)
+- [😎 awesome-trilium](#-awesome-trilium)
+  - [🦮 Table of Contents](#-table-of-contents)
+  - [📥 Migrating to Trilium](#-migrating-to-trilium)
+  - [🏡 Themes](#-themes)
+  - [✂️ CSS Snippets](#️-css-snippets)
+  - [⚙️ Widgets](#️-widgets)
+  - [🪄 Scripts](#-scripts)
+  - [💥 Extension HTML Note](#-extension-html-note)
+  - [📱 Mobile](#-mobile)
+    - [🤖 Android](#-android)
+    - [🍎 iOS](#-ios)
+  - [🧚 API extensions](#-api-extensions)
+  - [🖥️ ETAPI](#️-etapi)
+    - [🦾 ETAPI client](#-etapi-client)
+    - [🤖 ETAPI programs](#-etapi-programs)
+  - [👨‍💻 Development Tools](#-development-tools)
+  - [🌐 Translation](#-translation)
+  - [🔥 Contribution](#-contribution)
 
 <!--te-->
 
@@ -217,7 +217,7 @@ Remember, scripts are executable codes. Handle with caution!
 * [Trillium Agenda](https://github.com/BeatLink/trilium-agenda) ![Trillium Agenda](https://img.shields.io/github/last-commit/BeatLink/trilium-agenda)
   Sorts todos into 6 categories: Overdue, Today, This Week, This Month, This Year, Future
 * [Trilium-chat](https://github.com/soulsands/trilium-chat) ![Trilium-chat](https://img.shields.io/github/last-commit/soulsands/trilium-chat)
-  The chat plugin for Trilium currently supports Chatgpt
+  Allows interaction with ChatGPT and Ollama conveniently right inside of Trilium.
 * [Trilium-DailyMood](https://github.com/dvai/Trilium-DailyMood) ![Trilium-DailyMood](https://img.shields.io/github/last-commit/dvai/Trilium-DailyMood)
   Browse daily moods in the calendar
 
