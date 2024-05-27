@@ -180,6 +180,8 @@
   快速创建子笔记并进行包含操作
 * [日历与课程表](https://github.com/Mangiola/trilium-scripts) ![日历与课程表](https://img.shields.io/github/last-commit/Mangiola/trilium-scripts)
   实现了日历、课程表，甚至还有音乐琴颈。
+* [以星期日为首的日历](https://github.com/zadam/trilium/discussions/4540)
+  在日历中将星期日设定为第一天。
 * [Dark-mode-img-color-conversion](https://github.com/zadam/trilium/discussions/4209)
   调整网页上的图像和背景颜色以适应暗黑主题。
 * [字体格式快捷键](https://github.com/zadam/trilium/issues/2954#issuecomment-1672431589)

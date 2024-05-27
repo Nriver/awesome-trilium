@@ -192,6 +192,8 @@ Remember, scripts are executable codes. Handle with caution!
   Make subnotes and include them faster
 * [Calendar & Timetable](https://github.com/Mangiola/trilium-scripts) ![Calendar & Timetable](https://img.shields.io/github/last-commit/Mangiola/trilium-scripts)
   Implements a calendar, timetable, and even a musical fretboard.
+* [Calendar Sunday First](https://github.com/zadam/trilium/discussions/4540)
+  Use Sunday as first weekday in calendar.
 * [Dark-mode-img-color-conversion](https://github.com/zadam/trilium/discussions/4209)
   Adjusting the images and background colors on the web page to suit a dark theme.
 * [Font formatting shortcuts](https://github.com/zadam/trilium/issues/2954#issuecomment-1672431589)
