@@ -142,6 +142,8 @@ file of a widget is usually labeled with `#widget`.
   Shows note breadcrumbs at the bottom of the page
 * [command-palette](https://github.com/justyns/trilium-scripts) ![command-palette](https://img.shields.io/github/last-commit/justyns/trilium-scripts)
   Simple command-palette for Trilium
+* [Convert formulas in Note](https://github.com/zadam/trilium/discussions/4792) 
+  Convert math formulas wrapped in single dollar signs `$` and double dollar signs `$$` into HTML format within Trilium Notes
 * [Copy Code Block](https://github.com/Nriver/copy-code-block-widget) ![command-palette](https://img.shields.io/github/last-commit/Nriver/copy-code-block-widget)
   Double click to copy code block
 * [Countdown Days](https://github.com/Nriver/countdown-days-widget) ![Countdown Days](https://img.shields.io/github/last-commit/Nriver/countdown-days-widget)

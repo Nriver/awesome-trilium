@@ -134,6 +134,8 @@
   在页面底部显示笔记的面包屑导航
 * [命令面板](https://github.com/justyns/trilium-scripts) ![命令面板](https://img.shields.io/github/last-commit/justyns/trilium-scripts)
   Trilium 的简易命令面板
+* [在笔记中转换公式](https://github.com/zadam/trilium/discussions/4792)
+  将用单个美元符号 `$` 和双美元符号 `$$` 包裹的数学公式转换为 Trilium Notes 中的 HTML 格式。
 * [复制代码块](https://github.com/Nriver/copy-code-block-widget) ![命令面板](https://img.shields.io/github/last-commit/Nriver/copy-code-block-widget)
   双击以复制代码块
 * [倒计时天数](https://github.com/Nriver/countdown-days-widget) ![倒计时天数](https://img.shields.io/github/last-commit/Nriver/countdown-days-widget)
