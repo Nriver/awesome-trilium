@@ -73,6 +73,8 @@ These scripts and tips can be used to migrate to Trilium from other note taking 
 App Themes provide theming to the Trilium application. Typically, these notes are labeled with `#appTheme` with a value
 which indicates the name of the theme displayed in Trilium's options panel.
 
+* [Bing Daily Theme](https://github.com/Nriver/bing-daily-theme) ![Blue Theme](https://img.shields.io/github/last-commit/Nriver/bing-daily-theme)
+  Automatically receive the Bing daily wallpaper every day for Trilium.
 * [Blue Theme](https://github.com/SiriusXT/trilium-theme-blue) ![Blue Theme](https://img.shields.io/github/last-commit/SiriusXT/trilium-theme-blue)
   A brilliant and beautiful theme. Thanks SiriusXT!
 * [breeze-trilium](https://github.com/eliandoran/breeze-trilium) ![breeze-trilium](https://img.shields.io/github/last-commit/eliandoran/breeze-trilium)

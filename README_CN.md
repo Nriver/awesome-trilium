@@ -69,6 +69,8 @@
 
 应用主题为 Trilium 应用提供主题。通常，这些笔记带有 `#appTheme` 标签，其中包含在 Trilium 选项面板中显示的主题名称。
 
+* [Bing每日主题](https://github.com/Nriver/bing-daily-theme) ![Blue Theme](https://img.shields.io/github/last-commit/Nriver/bing-daily-theme)
+  自动为 Trilium 获取每日 Bing 壁纸。
 * [蓝色主题](https://github.com/SiriusXT/trilium-theme-blue) ![蓝色主题](https://img.shields.io/github/last-commit/SiriusXT/trilium-theme-blue)
   一个明亮而美丽的主题。感谢SiriusXT！
 * [breeze-trilium](https://github.com/eliandoran/breeze-trilium) ![breeze-trilium](https://img.shields.io/github/last-commit/eliandoran/breeze-trilium)
