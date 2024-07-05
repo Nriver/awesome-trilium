@@ -121,6 +121,7 @@
 * [将编辑后的笔记显示为列表](https://github.com/zadam/trilium/discussions/2670#discussion-3884786)
 * [水平滚动条](https://github.com/zadam/trilium/discussions/4706) 一个 CSS 片段，用于使左侧面板和目录显示水平滚动条。
 * [从目录中删除编号](https://github.com/zadam/trilium/discussions/3873#discussioncomment-5710601)
+* [trilium-enhancement](https://github.com/Nriver/trilium-enhancement) ![trilium-enhancement](https://img.shields.io/github/last-commit/Nriver/trilium-enhancement) Trilium Notes 的体验增强工具包。
 * [树形结构垂直线](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842)
 * [禅模式](https://github.com/Nriver/awesome-trilium/issues/44) 将禅模式添加到您的 Trilium 中。
 
