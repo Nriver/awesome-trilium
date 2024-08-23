@@ -113,10 +113,11 @@ more info.
   A card-style Trilium blog theme.
 * [FrostMiKu/Share.CSS](https://github.com/FrostMiKu/Share.CSS) ![FrostMiKu/Share.CSS](https://img.shields.io/github/last-commit/FrostMiKu/Share.CSS)
   A nice and clean theme for sharing notes. You should try it!
+* [WhiteMinimalist-Theme](https://github.com/Shmaur/WhiteMinimalist-Theme) ![WhiteMinimalist-Theme](https://img.shields.io/github/last-commit/Shmaur/WhiteMinimalist-Theme)
+  A WhiteMinimalist Theme blog theme.
 * [ysslang's theme](https://github.com/zadam/trilium/discussions/2681) ![ysslang's theme](https://img.shields.io/github/gist/last-commit/46e2a57ca95ba9c7368cbd255d1ac769)
   Paper with shadow effect, cool!
-* [WhiteMinimalist-Theme]([https://github.com/Shmaur/WhiteMinimalist-Theme)
-  A WhiteMinimalist Theme blog theme.
+
 ---
 
 ## ✂️ CSS Snippets
