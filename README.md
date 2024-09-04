@@ -129,6 +129,7 @@ for instructions on how to enable custom CSS)
 * [active calendar days visibility improvement](https://github.com/Nriver/awesome-trilium/issues/30)
 * [display edited notes as list](https://github.com/zadam/trilium/discussions/2670#discussion-3884786)
 * [horizontal scrollbar](https://github.com/zadam/trilium/discussions/4706) A css snippet to make the left panel and toc display a horizontal scrollbar.
+* [images with transparent background](https://github.com/TriliumNext/Notes/issues/361) Add transparent background for transparent images.
 * [remove numbers from table of contents](https://github.com/zadam/trilium/discussions/3873#discussioncomment-5710601)
 * [trilium-enhancement](https://github.com/Nriver/trilium-enhancement) ![trilium-enhancement](https://img.shields.io/github/last-commit/Nriver/trilium-enhancement) Experience Enhancement Kit for Trilium Notes.
 * [vertical lines for tree](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842)

@@ -122,6 +122,7 @@
 * [活动日历天可见性改进](https://github.com/Nriver/awesome-trilium/issues/30)
 * [将编辑后的笔记显示为列表](https://github.com/zadam/trilium/discussions/2670#discussion-3884786)
 * [水平滚动条](https://github.com/zadam/trilium/discussions/4706) 一个 CSS 片段，用于使左侧面板和目录显示水平滚动条。
+* [带透明背景的图像](https://github.com/TriliumNext/Notes/issues/361) 为透明图像添加透明背景。
 * [从目录中删除编号](https://github.com/zadam/trilium/discussions/3873#discussioncomment-5710601)
 * [trilium-enhancement](https://github.com/Nriver/trilium-enhancement) ![trilium-enhancement](https://img.shields.io/github/last-commit/Nriver/trilium-enhancement) Trilium Notes 的体验增强工具包。
 * [树形结构垂直线](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842)
