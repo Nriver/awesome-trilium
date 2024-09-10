@@ -107,6 +107,8 @@
   一款以卡片风格设计的 Trilium 博客主题。
 * [FrostMiKu/Share.CSS](https://github.com/FrostMiKu/Share.CSS) ![FrostMiKu/Share.CSS](https://img.shields.io/github/last-commit/FrostMiKu/Share.CSS)
   一款漂亮而清新的主题，专为分享笔记而设计。你值得一试！
+* [uweizh/trilium-sharecss](https://github.com/uweizh/trilium-sharecss) ![uweizh/trilium-sharecss](https://img.shields.io/github/last-commit/uweizh/trilium-sharecss)
+  一款渐变色的分享主题。
 * [WhiteMinimalist-Theme](https://github.com/Shmaur/WhiteMinimalist-Theme) ![WhiteMinimalist-Theme](https://img.shields.io/github/last-commit/Shmaur/WhiteMinimalist-Theme)
   一个白色极简风格的博客主题。
 * [ysslang's 主题](https://github.com/zadam/trilium/discussions/2681) ![ysslang's 主题](https://img.shields.io/github/gist/last-commit/46e2a57ca95ba9c7368cbd255d1ac769)
