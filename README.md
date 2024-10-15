@@ -81,10 +81,12 @@ which indicates the name of the theme displayed in Trilium's options panel.
   KDE Breeze theme for Trilium Notes
 * [Catppuccin](https://github.com/SadAlexa/trilium-theme-catppuccin) ![Catppuccin](https://img.shields.io/github/last-commit/SadAlexa/trilium-theme-catppuccin)
   A theme for Trilium Notes, made with Catppuccin palette.
-* [Lightpad](https://github.com/ohmstance/trilium-lightpad-theme) ![Lightpad](https://img.shields.io/github/last-commit/ohmstance/trilium-lightpad-theme)
-  A light theme with numerous user-friendly adjustments, greatly enhancing the mobile experience.
 * [Chameleon Theme](https://github.com/DavidFuchs/trilium-chameleon-theme) ![Chameleon Theme](https://img.shields.io/github/last-commit/DavidFuchs/trilium-chameleon-theme)
   A set of light and dark colour themes for Trilium.
+* [EverForest Ant Dark (EFAD) Trilium Theme](https://github.com/Lolabird/everforest-ant-dark-trilium-theme) ![EverForest Ant Dark (EFAD) Trilium Theme](https://img.shields.io/github/last-commit/Lolabird/everforest-ant-dark-trilium-theme)
+  Trilium Notes theme to go with Everforest and Ant Dark linux desktop themes.
+* [Lightpad](https://github.com/ohmstance/trilium-lightpad-theme) ![Lightpad](https://img.shields.io/github/last-commit/ohmstance/trilium-lightpad-theme)
+  A light theme with numerous user-friendly adjustments, greatly enhancing the mobile experience.
 * [Linen Theme](https://github.com/mondayrobot/trilium-linen-theme) ![Linen Theme](https://img.shields.io/github/last-commit/mondayrobot/trilium-linen-theme)
   A minimal, airy light theme for Trilium with an optional distraction-free mode.
 * [Melon Theme](https://github.com/raphwriter/trilium-theme-melon) ![Melon Theme](https://img.shields.io/github/last-commit/raphwriter/trilium-theme-melon)
