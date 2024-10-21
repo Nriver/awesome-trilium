@@ -298,6 +298,8 @@ ETAPI 的客户端实现。
   这是一个工具，可以直接将来自 [Omnivore](https://omnivore.app/)（一个稍后阅读应用程序）的摘要导入到 Trilium 中。
 * [trilium-bot](https://github.com/Nriver/trilium-bot) ![trilium-bot](https://img.shields.io/github/last-commit/Nriver/trilium-bot)
   由 [trilium-py](https://github.com/Nriver/trilium-py) 提供支持的 Trilium 的演示 Telegram 机器人。
+* [Trilium2typecho](https://gitee.com/gkm0/trilium2typecho)
+  Trilium笔记自动同步到typecho。
 * [zotero-trilium](https://github.com/paulusm/zotero-trilium) ![zotero-trilium](https://img.shields.io/github/last-commit/paulusm/zotero-trilium)
 适用于 Zotero 参考管理器的附加组件，可让您将格式化的参考文献和注释导出到 Trilium。
 
