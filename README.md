@@ -322,6 +322,7 @@ Programs based on triliums ETAPI.
   A demo Telegram bot for Trilium, powered by [trilium-py](https://github.com/Nriver/trilium-py).
 * [zotero-trilium](https://github.com/paulusm/zotero-trilium) ![zotero-trilium](https://img.shields.io/github/last-commit/paulusm/zotero-trilium)
 Add-on for Zotero reference manager, lets you export formatted references and notes across to Trilium.
+* [trilium-blog](https://github.com/harveyTon/trilium-blog) ![trilium-blog](https://img.shields.io/github/last-commit/harveyTon/trilium-blog) A modern and lightweight blog system based on Trilium Notes, supporting Vue 3 front-end and Go back-end, deployed using Docker.
 
 ---
 
