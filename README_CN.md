@@ -158,6 +158,8 @@
   在笔记中添加草稿板小部件
 * [语法高亮](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) ![语法高亮](https://img.shields.io/github/last-commit/antoniotejada/Trilium-SyntaxHighlightWidget)
   你所期望的语法高亮功能。
+* [交换 enter](https://github.com/Nriver/swap-enter-widget) ![Swap enter](https://img.shields.io/github/last-commit/Nriver/swap-enter-widget)
+  交换Trilium Notes 的 "enter" 和 "shift + enter".
 * [主题切换](https://github.com/madodig/trilium-widget-theme-switch) ![主题切换](https://img.shields.io/github/last-commit/madodig/trilium-widget-theme-switch)
   用于更改主题的 Trilium 小部件
 * [时间轴](https://gitlab.com/QuentinLeCaignec/trilium-timeline) ![时间轴](https://img.shields.io/gitlab/last-commit/QuentinLeCaignec/trilium-timeline)
