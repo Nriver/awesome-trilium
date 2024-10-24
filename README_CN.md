@@ -304,6 +304,7 @@ ETAPI 的客户端实现。
   Trilium笔记自动同步到typecho。
 * [zotero-trilium](https://github.com/paulusm/zotero-trilium) ![zotero-trilium](https://img.shields.io/github/last-commit/paulusm/zotero-trilium)
 适用于 Zotero 参考管理器的附加组件，可让您将格式化的参考文献和注释导出到 Trilium。
+* [trilium-blog](https://github.com/harveyTon/trilium-blog) ![trilium-blog](https://img.shields.io/github/last-commit/harveyTon/trilium-blog) 基于 Trilium Notes 的现代化轻量级博客系统，支持 Vue 3 前端和 Go 后端，使用 Docker 部署。
 
 ---
 
