@@ -1,13 +1,3 @@
-# 😎 awesome-trilium
-
-<p align="center">
-English | <a href="README_CN.md">简体中文</a>
-</p>
-
-A curated list of awesome [Trilium Notes](https://github.com/zadam/trilium) extensions. Including themes, widgets,
-scripts, API extensions, ETAPI, etc.
-
-You are welcome to add cool stuff about Trilium Notes here.
 
 --------------------
 
