@@ -106,6 +106,8 @@ which indicates the name of the theme displayed in Trilium's options panel.
   A different taste of dark theme.
 * [VSCode-Dark Theme](https://github.com/greengeek/trilium-vscode-dark-theme) ![VSCode-Dark Theme](https://img.shields.io/github/last-commit/greengeek/trilium-vscode-dark-theme)
   It's VSCode!
+* [Ra1n's Dark Theme](https://github.com/perfectra1n/custom-trilium-themes) ![Ra1n's Dark Theme](https://img.shields.io/github/last-commit/perfectra1n/custom-trilium-themes)
+  Dark theme that looks good and is easy on the eyes!
 
 **Sharing Themes**
 
@@ -123,6 +125,8 @@ more info.
   A WhiteMinimalist Theme blog theme.
 * [ysslang's theme](https://github.com/zadam/trilium/discussions/2681) ![ysslang's theme](https://img.shields.io/github/gist/last-commit/46e2a57ca95ba9c7368cbd255d1ac769)
   Paper with shadow effect, cool!
+* [trilium.rocks theme](https://github.com/perfectra1n/trilium.rocks/releases/tag/1.0.0) ![trilium.rocks theme](https://img.shields.io/github/last-commit/perfectra1n/trilium.rocks)
+  This uses the same theme that's used on the [trilium.rocks](https://trilium.rocks/) site from @zerebos. The link above also includes the instructions on how it can be installed. Can also be created from scratch [here](https://trilium.rocks/xecUJ8eL3pvM).
 
 ---
 
