@@ -101,6 +101,9 @@
   一款不同风格的深色主题。
 * [VSCode-Dark 主题](https://github.com/greengeek/trilium-vscode-dark-theme) ![VSCode-Dark 主题](https://img.shields.io/github/last-commit/greengeek/trilium-vscode-dark-theme)
   它就是 VSCode！
+* [Ra1n 的深色主题](https://github.com/perfectra1n/custom-trilium-themes) ![Ra1n's Dark Theme](https://img.shields.io/github/last-commit/perfectra1n/custom-trilium-themes)  
+  一款深色主题，外观漂亮且对眼睛友好！
+
 
 **分享主题**
 
@@ -117,7 +120,8 @@
   一个白色极简风格的博客主题。
 * [ysslang's 主题](https://github.com/zadam/trilium/discussions/2681) ![ysslang's 主题](https://img.shields.io/github/gist/last-commit/46e2a57ca95ba9c7368cbd255d1ac769)
   纸张效果搭配阴影效果，酷毙了！
-
+* [trilium.rocks 主题](https://github.com/perfectra1n/trilium.rocks/releases/tag/1.0.0) ![trilium.rocks theme](https://img.shields.io/github/last-commit/perfectra1n/trilium.rocks)  
+  此主题与 [trilium.rocks](https://trilium.rocks/) 网站（@zerebos 开发）上使用的主题相同。上面的链接还包括安装说明。你也可以通过 [此处](https://trilium.rocks/xecUJ8eL3pvM) 从头创建。
 ---
 
 ## ✂️ CSS 片段
