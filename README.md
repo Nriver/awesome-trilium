@@ -142,6 +142,8 @@ for instructions on how to enable custom CSS)
 * [images with transparent background](https://github.com/TriliumNext/Notes/issues/361) Add transparent background for transparent images.
 * [remove numbers from table of contents](https://github.com/zadam/trilium/discussions/3873#discussioncomment-5710601)
 * [trilium-enhancement](https://github.com/Nriver/trilium-enhancement) ![trilium-enhancement](https://img.shields.io/github/last-commit/Nriver/trilium-enhancement) Experience Enhancement Kit for Trilium Notes.
+* [Trilium-TextNoteEnhancement](https://github.com/SiriusXT/Trilium-TextNoteEnhancement) ![Trilium-TextNoteEnhancement](https://img.shields.io/github/last-commit/SiriusXT/Trilium-TextNoteEnhancement)
+  Some widgets enhance trilium text input efficiency.
 * [vertical lines for tree](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842)
 * [zen mode](https://github.com/Nriver/awesome-trilium/issues/44) Add zen mode to your Trilium.
 

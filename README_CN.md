@@ -135,6 +135,8 @@
 * [带透明背景的图像](https://github.com/TriliumNext/Notes/issues/361) 为透明图像添加透明背景。
 * [从目录中删除编号](https://github.com/zadam/trilium/discussions/3873#discussioncomment-5710601)
 * [trilium-enhancement](https://github.com/Nriver/trilium-enhancement) ![trilium-enhancement](https://img.shields.io/github/last-commit/Nriver/trilium-enhancement) Trilium Notes 的体验增强工具包。
+* [Trilium-TextNoteEnhancement](https://github.com/SiriusXT/Trilium-TextNoteEnhancement) ![Trilium-TextNoteEnhancement](https://img.shields.io/github/last-commit/SiriusXT/Trilium-TextNoteEnhancement)  
+  提供了一些小部件，用于提升 Trilium 文本输入效率。
 * [树形结构垂直线](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842)
 * [禅模式](https://github.com/Nriver/awesome-trilium/issues/44) 将禅模式添加到您的 Trilium 中。
 
