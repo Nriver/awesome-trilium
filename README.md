@@ -280,6 +280,8 @@ Mobile phone related cool stuff.
   Have fun :)
 * [trilium-sender](https://github.com/zadam/trilium-sender) ![trilium-sender](https://img.shields.io/github/last-commit/zadam/trilium-sender)
   A simple write-only android application for sending images and notes to Trilium
+* [TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) ![TriliumDroid](https://img.shields.io/github/last-commit/FliegendeWurst/TriliumDroid)
+  Unofficial port of Trilium to Android, in beta
 
 ### 🍎 iOS
 
