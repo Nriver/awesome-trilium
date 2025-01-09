@@ -160,6 +160,8 @@
   在日记标题下添加相对天数信息。
 * [hexmap](https://gitlab.com/QuentinLeCaignec/trilium-hexmap) ![hexmap](https://img.shields.io/gitlab/last-commit/QuentinLeCaignec/trilium-hexmap)
   交互式 hexmap（适用于 TTRPGs）
+* [Image zoom](https://github.com/Nriver/image-zoom-widget) ![Image zoom](https://img.shields.io/gitlab/last-commit/Nriver/image-zoom-widget)
+  在 Trilium 中缩放、拖动和预览图片
 * [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![openfilepath](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
   双击打开斜体显示的文件路径
 * [Scratchpad](https://github.com/zadam/trilium/discussions/1613#discussioncomment-638984)
