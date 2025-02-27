@@ -328,6 +328,8 @@ The client implementations for ETAPI.
 
 Programs based on triliums ETAPI.
 
+* [libby2trilium](https://github.com/0xbismarck/libby2trilium) ![libby2trilium](https://img.shields.io/github/last-commit/0xbismarck/libby2trilium)
+  Import your book highlights and notes from [Libby](https://libbyapp.com/) into Trilium Notes.
 * [omnivore2trilium](https://github.com/0xbismarck/omnivore2trilium) ![omnivore2trilium](https://img.shields.io/github/last-commit/0xbismarck/omnivore2trilium)
   A tool that imports highlights directly into Trilium from [Omnivore](https://omnivore.app/), a Read-It-Later App.
 * [trilium-blog](https://github.com/harveyTon/trilium-blog) ![trilium-blog](https://img.shields.io/github/last-commit/harveyTon/trilium-blog) 
