@@ -332,6 +332,7 @@ Programs based on triliums ETAPI.
   Import your book highlights and notes from [Libby](https://libbyapp.com/) into Trilium Notes.
 * [omnivore2trilium](https://github.com/0xbismarck/omnivore2trilium) ![omnivore2trilium](https://img.shields.io/github/last-commit/0xbismarck/omnivore2trilium)
   A tool that imports highlights directly into Trilium from [Omnivore](https://omnivore.app/), a Read-It-Later App.
+* [triliumclipper](https://github.com/0xbismarck/ThunderbirdTriliumClipper) ![triliumclipper](https://img.shields.io/github/last-commit/0xbismarck/ThunderbirdTriliumClipper) A [Thunderbird](https://www.thunderbird.net) add-on that enables you to create notes from your e-mails from inside Thunderbird. 
 * [trilium-blog](https://github.com/harveyTon/trilium-blog) ![trilium-blog](https://img.shields.io/github/last-commit/harveyTon/trilium-blog) 
   A modern and lightweight blog system based on Trilium Notes, supporting Vue 3 front-end and Go back-end, deployed using Docker.
 * [trilium-bot](https://github.com/Nriver/trilium-bot) ![trilium-bot](https://img.shields.io/github/last-commit/Nriver/trilium-bot)
