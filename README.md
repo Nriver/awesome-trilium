@@ -245,6 +245,7 @@ Remember, scripts are executable codes. Handle with caution!
   Allows interaction with ChatGPT and Ollama conveniently right inside of Trilium.
 * [Trilium-DailyMood](https://github.com/dvai/Trilium-DailyMood) ![Trilium-DailyMood](https://img.shields.io/github/last-commit/dvai/Trilium-DailyMood)
   Browse daily moods in the calendar
+* [Beatlink's Trilium Scripts](https://github.com/BeatLink/trilium-scripts) A collection of scripts and widgets to do everything from allowing you to set priority colors on Notes, to scripting recurring To-dos.
 
 ---
 
