@@ -168,7 +168,6 @@ file of a widget is usually labeled with `#widget`.
   Add a relative days message under journal note title.
 * [hexmap](https://gitlab.com/QuentinLeCaignec/trilium-hexmap) ![hexmap](https://img.shields.io/gitlab/last-commit/QuentinLeCaignec/trilium-hexmap)
   Interactive hexmap (for TTRPGs)
-* [trilium-dnd-dice](https://github.com/AzzyB/trilium-dnd-dice) ![trilium-dnd-dice](https://img.shields.io/github/last-commit/AzzyB/trilium-dnd-dice) D20 system/General Dice roller widget
 * [Image zoom](https://github.com/Nriver/image-zoom-widget) ![Image zoom](https://img.shields.io/github/last-commit/Nriver/image-zoom-widget)
   Zoom, drag, and preview images in Trilium
 * [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![openfilepath](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
@@ -189,6 +188,7 @@ file of a widget is usually labeled with `#widget`.
   Automatically hide the title bar and information bar, and you can set to hide one of them individually.
 * [trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) ![trilium-back-to-history](https://img.shields.io/github/last-commit/SiriusXT/trilium-back-to-history)
   Jump to the last browsing position
+* [trilium-dnd-dice](https://github.com/AzzyB/trilium-dnd-dice) ![trilium-dnd-dice](https://img.shields.io/github/last-commit/AzzyB/trilium-dnd-dice) D20 system/General Dice roller widget
 * [trilium-jsmind](https://github.com/waterovo/trilium-jsmind) ![trilium-jsmind](https://img.shields.io/github/last-commit/waterovo/trilium-jsmind)
   Create [jsmind](https://github.com/hizzgdev/jsmind) mindmap in Trilium.
 * [trilium-left-panel-auto-zoom](https://github.com/SiriusXT/trilium-left-panel-auto-zoom) ![trilium-left-panel-auto-zoom](https://img.shields.io/github/last-commit/SiriusXT/trilium-left-panel-auto-zoom)
