@@ -29,6 +29,7 @@ You are welcome to add cool stuff about Trilium Notes here.
    * [🖥️ ETAPI](#️-etapi)
       * [🦾 ETAPI client](#-etapi-client)
       * [🤖 ETAPI programs](#-etapi-programs)
+   * [🧩 Chrome Extensions](#-chrome-extensions)
    * [👨‍💻 Development Tools](#-development-tools)
    * [📚 Wikis &amp; documents](#-wikis--documents)
    * [🌐 Translation](#-translation)
@@ -342,6 +343,15 @@ Programs based on triliums ETAPI.
   A demo Telegram bot for Trilium, powered by [trilium-py](https://github.com/Nriver/trilium-py).
 * [zotero-trilium](https://github.com/paulusm/zotero-trilium) ![zotero-trilium](https://img.shields.io/github/last-commit/paulusm/zotero-trilium)
   Add-on for Zotero reference manager, lets you export formatted references and notes across to Trilium.
+
+---
+
+## 🧩 Chrome Extensions
+
+* [Trilium Web Clipper](https://github.com/zadam/trilium-web-clipper) ![Trilium Web Clipper](https://img.shields.io/github/last-commit/zadam/trilium-web-clipper)
+  Save web clippings to Trilium Notes.
+* [Trilium Web Clipper Plus](https://github.com/Nriver/trilium-web-clipper-plus) ![Trilium Web Clipper Plus](https://img.shields.io/github/last-commit/Nriver/trilium-web-clipper-plus)
+  Fork of Trilium Web Clipper. Adapted to Chrome Manifest V3.
 
 ---
 

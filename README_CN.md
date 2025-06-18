@@ -31,8 +31,9 @@
    * [🖥️ ETAPI](#️-etapi)
       * [🦾 ETAPI 客户端](#-etapi-客户端)
       * [🤖 ETAPI 程序](#-etapi-程序)
+   * [🧩 Chrome 扩展程序](#-chrome-扩展程序)
    * [👨‍💻 开发工具](#-开发工具)
-   * [📚 维基和文档](#-wikis--documents)
+   * [📚 维基和文档](#-维基和文档)
    * [🌐 翻译](#-翻译)
    * [🔥 贡献](#-贡献)
 <!--te-->
@@ -319,6 +320,16 @@ ETAPI 的客户端实现。
 * [zotero-trilium](https://github.com/paulusm/zotero-trilium) ![zotero-trilium](https://img.shields.io/github/last-commit/paulusm/zotero-trilium)
 适用于 Zotero 参考管理器的附加组件，可让您将格式化的参考文献和注释导出到 Trilium。
 * [trilium-blog](https://github.com/harveyTon/trilium-blog) ![trilium-blog](https://img.shields.io/github/last-commit/harveyTon/trilium-blog) 基于 Trilium Notes 的现代化轻量级博客系统，支持 Vue 3 前端和 Go 后端，使用 Docker 部署。
+
+---
+
+## 🧩 Chrome 扩展程序
+
+* [Trilium 网页剪藏器](https://github.com/zadam/trilium-web-clipper) ![Trilium Web Clipper](https://img.shields.io/github/last-commit/zadam/trilium-web-clipper)
+  将网页内容保存到 Trilium Notes 中。
+
+* [Trilium 网页剪藏器 Plus](https://github.com/Nriver/trilium-web-clipper-plus) ![Trilium Web Clipper Plus](https://img.shields.io/github/last-commit/Nriver/trilium-web-clipper-plus)
+  Trilium 网页剪辑器的分支版本，适配了 Chrome Manifest V3。
 
 ---
 
