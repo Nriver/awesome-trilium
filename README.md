@@ -94,6 +94,8 @@ which indicates the name of the theme displayed in Trilium's options panel.
   A minimal, airy light theme for Trilium with an optional distraction-free mode.
 * [Melon Theme](https://github.com/raphwriter/trilium-theme-melon) ![Melon Theme](https://img.shields.io/github/last-commit/raphwriter/trilium-theme-melon)
   A delightful theme.
+* [Lemon Tree](https://github.com/yu-jingrui/trilium-theme-lemon-tree) ![Lemon Tree](https://img.shields.io/github/last-commit/yu-jingrui/trilium-theme-lemon-tree)
+  A delightful theme based on trilium-next-light, inspired by Melon Theme.  
 * [Mist-Moon](https://github.com/Ivy-End/Mist-Moon) ![Mist-Moon](https://img.shields.io/github/last-commit/Ivy-End/Mist-Moon)
   A Light Theme inspired by mist moon night view.
 * [NieR-Automata Theme](https://github.com/Nriver/NieR-Automata-Trilium-Theme) ![NieR-Automata Theme](https://img.shields.io/github/last-commit/Nriver/NieR-Automata-Trilium-Theme)
