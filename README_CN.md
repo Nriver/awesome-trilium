@@ -89,6 +89,8 @@
   适用于 Trilium 的极简、通风的亮色主题，带有可选的无干扰模式。
 * [甜瓜主题](https://github.com/raphwriter/trilium-theme-melon) ![甜瓜主题](https://img.shields.io/github/last-commit/raphwriter/trilium-theme-melon)
   一款令人愉悦的主题。
+* [柠檬树](https://github.com/yu-jingrui/trilium-theme-lemon-tree) ![柠檬树](https://img.shields.io/github/last-commit/yu-jingrui/trilium-theme-lemon-tree)
+  一款令人愉悦的主题。基于TriliumNext浅色主题，受到甜瓜主题的启发。
 * [薄雾月夜](https://github.com/Ivy-End/Mist-Moon) ![薄雾月夜](https://img.shields.io/github/last-commit/Ivy-End/Mist-Moon)
   一款受薄雾月夜景象启发的浅色主题。
 * [尼尔：自动人形主题](https://github.com/Nriver/NieR-Automata-Trilium-Theme) ![尼尔：自动人形主题](https://img.shields.io/github/last-commit/Nriver/NieR-Automata-Trilium-Theme)
