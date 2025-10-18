@@ -34,7 +34,7 @@ You are welcome to add cool stuff about Trilium Notes here.
    * [📚 Wikis &amp; documents](#-wikis--documents)
    * [🌐 Translation](#-translation)
    * [🔥 Contribution](#-contribution)
-<!--te-->
+   <!--te-->
 
 ---
 
@@ -111,6 +111,9 @@ which indicates the name of the theme displayed in Trilium's options panel.
   It's VSCode!
 * [Ra1n's Dark Theme](https://github.com/perfectra1n/custom-trilium-themes) ![Ra1n's Dark Theme](https://img.shields.io/github/last-commit/perfectra1n/custom-trilium-themes)
   Dark theme that looks good and is easy on the eyes!
+* [eva-dark 的深色主题](https://github.com/cocolight/trilium-theme-eva-dark) ![eva-dark Theme](https://img.shields.io/github/last-commit/cocolight/trilium-theme-eva-dark)
+  
+  A theme that ports the style of the Eva theme plugin in VSCode.
 
 **Sharing Themes**
 
@@ -232,7 +235,7 @@ Remember, scripts are executable codes. Handle with caution!
   These set of scripts allow you to use the full capabilities of the Trilium server user interface while on a mobile
   device.
     * [always desktop mode](https://github.com/Nriver/trilium-translation/issues/90) 
-    Always use desktop UI on mobile device.
+      Always use desktop UI on mobile device.
 * [Open note in split view](https://github.com/zadam/trilium/discussions/3937)
   Shift+click to open a note in split view. Ctrl+shift+click for tree nodes.
 * [OpenFilePaths](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![OpenFilePaths](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)

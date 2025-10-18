@@ -36,7 +36,7 @@
    * [📚 维基和文档](#-维基和文档)
    * [🌐 翻译](#-翻译)
    * [🔥 贡献](#-贡献)
-<!--te-->
+   <!--te-->
 
 ## 📥 迁移到 Trilium
 
@@ -72,40 +72,61 @@
 
 * [Allure 主题](https://github.com/JadeVane/Allure) ![Allure](https://img.shields.io/github/last-commit/Nriver/bing-daily-theme)  
   一个更美丽和简洁的 Trilium 主题。
+  
 * [必应每日主题](https://github.com/Nriver/bing-daily-theme) ![必应每日主题](https://img.shields.io/github/last-commit/Nriver/bing-daily-theme)  
   每天自动换为必应每日壁纸。
+  
 * [蓝色主题](https://github.com/SiriusXT/trilium-theme-blue) ![蓝色主题](https://img.shields.io/github/last-commit/SiriusXT/trilium-theme-blue)
   一个明亮而美丽的主题。感谢SiriusXT！
+  
 * [breeze-trilium](https://github.com/eliandoran/breeze-trilium) ![breeze-trilium](https://img.shields.io/github/last-commit/eliandoran/breeze-trilium)
   适用于 Trilium Notes 的 KDE Breeze 主题
+  
 * [Catppuccin](https://github.com/SadAlexa/trilium-theme-catppuccin) ![Catppuccin](https://img.shields.io/github/last-commit/SadAlexa/trilium-theme-catppuccin)
   适用于 Trilium Notes 的主题，使用 Catppuccin 调色板制作。
+  
 * [Chameleon 主题](https://github.com/DavidFuchs/trilium-chameleon-theme) ![Chameleon 主题](https://img.shields.io/github/last-commit/DavidFuchs/trilium-chameleon-theme)
   Trilium 的浅色和深色主题套装。
+  
 * [EverForest Ant Dark (EFAD) Trilium 主题](https://github.com/Lolabird/everforest-ant-dark-trilium-theme) ![EverForest Ant Dark (EFAD) Trilium 主题](https://img.shields.io/github/last-commit/Lolabird/everforest-ant-dark-trilium-theme)  
   Trilium Notes 主题与 Everforest 和 Ant Dark Linux 桌面主题相配。
+  
 * [Lightpad](https://github.com/ohmstance/trilium-lightpad-theme) ![Lightpad](https://img.shields.io/github/last-commit/ohmstance/trilium-lightpad-theme)  一款明亮的主题，具有许多用户友好的调整，极大地增强了移动端的体验。
+
 * [亚麻主题](https://github.com/mondayrobot/trilium-linen-theme) ![亚麻主题](https://img.shields.io/github/last-commit/mondayrobot/trilium-linen-theme)
   适用于 Trilium 的极简、通风的亮色主题，带有可选的无干扰模式。
+  
 * [甜瓜主题](https://github.com/raphwriter/trilium-theme-melon) ![甜瓜主题](https://img.shields.io/github/last-commit/raphwriter/trilium-theme-melon)
   一款令人愉悦的主题。
+  
 * [柠檬树](https://github.com/yu-jingrui/trilium-theme-lemon-tree) ![柠檬树](https://img.shields.io/github/last-commit/yu-jingrui/trilium-theme-lemon-tree)
   一款令人愉悦的主题。基于TriliumNext浅色主题，受到甜瓜主题的启发。
+  
 * [薄雾月夜](https://github.com/Ivy-End/Mist-Moon) ![薄雾月夜](https://img.shields.io/github/last-commit/Ivy-End/Mist-Moon)
   一款受薄雾月夜景象启发的浅色主题。
+  
 * [尼尔：自动人形主题](https://github.com/Nriver/NieR-Automata-Trilium-Theme) ![尼尔：自动人形主题](https://img.shields.io/github/last-commit/Nriver/NieR-Automata-Trilium-Theme)
   由粉丝制作的尼尔：自动人形游戏用户界面风格主题。这个主题是我制作的 :)
+  
 * [Obsidian 主题](https://github.com/greengeek/trilium-obsidian-theme) ![Obsidian 主题](https://img.shields.io/github/last-commit/greengeek/trilium-obsidian-theme)
     * [Trilium Greensidian 主题](https://github.com/obuno/trilium-greensidian-theme) ![Trilium Greensidian 主题](https://img.shields.io/github/last-commit/obuno/trilium-greensidian-theme)
       Obsidian 主题的绿色版本
+    
 * [Solarized 主题](https://github.com/WKSu/trilium-solarized-theme) ![Solarized 主题](https://img.shields.io/github/last-commit/WKSu/trilium-solarized-theme)
   将经典的 Solarized 主题带到 Trilium 中！提供浅色和深色两种版本。
+  
 * [星际黑暗主题](https://github.com/Lolabird/stellar-dark-theme-trilium) ![星际黑暗主题](https://img.shields.io/github/last-commit/Lolabird/stellar-dark-theme-trilium)
   一款不同风格的深色主题。
+  
 * [VSCode-Dark 主题](https://github.com/greengeek/trilium-vscode-dark-theme) ![VSCode-Dark 主题](https://img.shields.io/github/last-commit/greengeek/trilium-vscode-dark-theme)
   它就是 VSCode！
+  
 * [Ra1n 的深色主题](https://github.com/perfectra1n/custom-trilium-themes) ![Ra1n's Dark Theme](https://img.shields.io/github/last-commit/perfectra1n/custom-trilium-themes)  
   一款深色主题，外观漂亮且对眼睛友好！
+  
+* [eva-dark 的深色主题](https://github.com/cocolight/trilium-theme-eva-dark) ![eva-dark Theme](https://img.shields.io/github/last-commit/cocolight/trilium-theme-eva-dark)
+
+    VSCode的eva主题插件风格移植主题。
 
 
 **分享主题**
@@ -218,7 +239,7 @@
 * [移动端视图](https://github.com/BeatLink/trilium-scripts/tree/main/Mobile%20View) ![移动端视图](https://img.shields.io/github/last-commit/BeatLink/trilium-scripts)
   这套脚本允许您在移动设备上使用 Trilium 服务器用户界面的全部功能。
     * [始终桌面模式](https://github.com/Nriver/trilium-translation/issues/90) 
-    在移动设备上始终使用桌面用户界面。
+      在移动设备上始终使用桌面用户界面。
 * [在分割视图中打开笔记](https://github.com/zadam/trilium/discussions/3937)
   使用 Shift+点击在分割视图中打开笔记。Ctrl+Shift+点击用于树节点。
 * [打开文件路径](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![打开文件路径](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
