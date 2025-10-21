@@ -121,12 +121,11 @@
 * [VSCode-Dark 主题](https://github.com/greengeek/trilium-vscode-dark-theme) ![VSCode-Dark 主题](https://img.shields.io/github/last-commit/greengeek/trilium-vscode-dark-theme)
   它就是 VSCode！
   
-* [Ra1n 的深色主题](https://github.com/perfectra1n/custom-trilium-themes) ![Ra1n's Dark Theme](https://img.shields.io/github/last-commit/perfectra1n/custom-trilium-themes)  
+* [Ra1n 的深色主题](https://github.com/perfectra1n/custom-trilium-themes) ![Ra1n's Dark Theme](https://img.shields.io/github/last-commit/perfectra1n/custom-trilium-themes)
   一款深色主题，外观漂亮且对眼睛友好！
   
-* [eva-dark 的深色主题](https://github.com/cocolight/trilium-theme-eva-dark) ![eva-dark Theme](https://img.shields.io/github/last-commit/cocolight/trilium-theme-eva-dark)
-
-    VSCode的eva主题插件风格移植主题。
+* [eva theme](https://github.com/cocolight/trilium-theme-eva) ![eva Theme](https://img.shields.io/github/last-commit/cocolight/trilium-theme-eva)
+ 一个将 Eva 主题插件的风格带到 VSCode 的主题，包括 eva-light、eva-dark 和 eva-night。
 
 
 **分享主题**
