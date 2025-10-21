@@ -111,9 +111,8 @@ which indicates the name of the theme displayed in Trilium's options panel.
   It's VSCode!
 * [Ra1n's Dark Theme](https://github.com/perfectra1n/custom-trilium-themes) ![Ra1n's Dark Theme](https://img.shields.io/github/last-commit/perfectra1n/custom-trilium-themes)
   Dark theme that looks good and is easy on the eyes!
-* [eva-dark 的深色主题](https://github.com/cocolight/trilium-theme-eva-dark) ![eva-dark Theme](https://img.shields.io/github/last-commit/cocolight/trilium-theme-eva-dark)
-  
-  A theme that ports the style of the Eva theme plugin in VSCode.
+* [eva theme](https://github.com/cocolight/trilium-theme-eva) ![eva Theme](https://img.shields.io/github/last-commit/cocolight/trilium-theme-eva)
+  A theme that brings the style of the Eva theme plugin to VSCode, including eva-light, eva-dark, and eva-night.
 
 **Sharing Themes**
 
