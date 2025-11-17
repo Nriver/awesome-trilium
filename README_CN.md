@@ -122,6 +122,9 @@
   纸张效果搭配阴影效果，酷毙了！
 * [trilium.rocks 主题](https://github.com/perfectra1n/trilium.rocks/releases/tag/1.0.0) ![trilium.rocks theme](https://img.shields.io/github/last-commit/perfectra1n/trilium.rocks)  
   此主题与 [trilium.rocks](https://trilium.rocks/) 网站（@zerebos 开发）上使用的主题相同。上面的链接还包括安装说明。你也可以通过 [此处](https://trilium.rocks/xecUJ8eL3pvM) 从头创建。
+* [Akari 主题](https://github.com/march-7th-mini/Trilium-X-Akari) ![Akari 主题](https://img.shields.io/github/last-commit/march-7th-mini/Trilium-X-Akari)
+  基于Ankia、WhiteMinimalist主题进行修改。美化了首页、内嵌了kimi chat、增加了蒙版颜色设置、增加了折叠无序List、增加了代码块折叠、增加了目录搜索与折叠展开、增加了石蒜小组件、增加了背景音乐、增加了导航全展开菜单、汉化了mathjax的右键菜单、增加了评论表情悬停放大预览、扩展了可设置背景图片的页面、修复了一些bug等等。
+  
 ---
 
 ## ✂️ CSS 片段
@@ -139,6 +142,8 @@
   提供了一些小部件，用于提升 Trilium 文本输入效率。
 * [树形结构垂直线](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842)
 * [禅模式](https://github.com/Nriver/awesome-trilium/issues/44) 将禅模式添加到您的 Trilium 中。
+* [trilium-enhancement-Lazy-Pack](https://github.com/march-7th-mini/trilium-enhancement-Lazy-Pack) ![trilium-enhancement-Lazy-Pack](https://img.shields.io/github/last-commit/march-7th-mini/trilium-enhancement-Lazy-Pack)
+  Trilium Notes V0.63.7的体验增强精选懒人工具包。包括一个VOCALOID歌姬应援色主题、「只读模式」生效的图片缩放、拖动和预览、使用iframe内嵌的方式接入kimi-chat等21个增强扩展。
 
 ---
 
