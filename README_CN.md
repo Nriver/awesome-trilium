@@ -178,6 +178,8 @@
   交互式时间轴
 * [番茄计时器](https://github.com/Nriver/tomato-timer-widget) ![番茄计时器](https://img.shields.io/github/last-commit/Nriver/tomato-timer-widget)
   Trilium Notes 的番茄计时器
+  * [tomato-timer](https://github.com/Userwei0418/tomato-timer-widget/tree/feature/my-improvement) ![tomato-timer](https://img.shields.io/github/last-commit/Userwei0418/tomato-timer-widget)
+  改进版 Trilium 番茄钟插件：在原作者基础上新增了显示/隐藏控制，并对界面进行了美化。
 * [trilium-auto-hide-info-bar](https://github.com/SiriusXT/trilium-auto-hide-info-bar) ![trilium-auto-hide-info-bar](https://img.shields.io/github/last-commit/SiriusXT/trilium-auto-hide-info-bar)
   自动隐藏标题栏和信息栏，可单独设置隐藏其中之一。
 * [trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) ![trilium-back-to-history](https://img.shields.io/github/last-commit/SiriusXT/trilium-back-to-history)
