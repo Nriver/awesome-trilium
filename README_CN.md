@@ -94,6 +94,7 @@
 * [尼尔：自动人形主题](https://github.com/Nriver/NieR-Automata-Trilium-Theme) ![尼尔：自动人形主题](https://img.shields.io/github/last-commit/Nriver/NieR-Automata-Trilium-Theme)
   由粉丝制作的尼尔：自动人形游戏用户界面风格主题。这个主题是我制作的 :)
 * [Obsidian 主题](https://github.com/greengeek/trilium-obsidian-theme) ![Obsidian 主题](https://img.shields.io/github/last-commit/greengeek/trilium-obsidian-theme)
+    深色主题，并带有少量紫色点缀
     * [Trilium Greensidian 主题](https://github.com/obuno/trilium-greensidian-theme) ![Trilium Greensidian 主题](https://img.shields.io/github/last-commit/obuno/trilium-greensidian-theme)
       Obsidian 主题的绿色版本
 * [Solarized 主题](https://github.com/WKSu/trilium-solarized-theme) ![Solarized 主题](https://img.shields.io/github/last-commit/WKSu/trilium-solarized-theme)
