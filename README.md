@@ -34,7 +34,7 @@ You are welcome to add cool stuff about Trilium Notes here.
    * [📚 Wikis &amp; documents](#-wikis--documents)
    * [🌐 Translation](#-translation)
    * [🔥 Contribution](#-contribution)
-<!--te-->
+   <!--te-->
 
 ---
 
@@ -94,6 +94,8 @@ which indicates the name of the theme displayed in Trilium's options panel.
   A minimal, airy light theme for Trilium with an optional distraction-free mode.
 * [Melon Theme](https://github.com/raphwriter/trilium-theme-melon) ![Melon Theme](https://img.shields.io/github/last-commit/raphwriter/trilium-theme-melon)
   A delightful theme.
+* [Lemon Tree](https://github.com/yu-jingrui/trilium-theme-lemon-tree) ![Lemon Tree](https://img.shields.io/github/last-commit/yu-jingrui/trilium-theme-lemon-tree)
+  A delightful theme based on trilium-next-light, inspired by Melon Theme.  
 * [Mist-Moon](https://github.com/Ivy-End/Mist-Moon) ![Mist-Moon](https://img.shields.io/github/last-commit/Ivy-End/Mist-Moon)
   A Light Theme inspired by mist moon night view.
 * [NieR-Automata Theme](https://github.com/Nriver/NieR-Automata-Trilium-Theme) ![NieR-Automata Theme](https://img.shields.io/github/last-commit/Nriver/NieR-Automata-Trilium-Theme)
@@ -110,6 +112,8 @@ which indicates the name of the theme displayed in Trilium's options panel.
   It's VSCode!
 * [Ra1n's Dark Theme](https://github.com/perfectra1n/custom-trilium-themes) ![Ra1n's Dark Theme](https://img.shields.io/github/last-commit/perfectra1n/custom-trilium-themes)
   Dark theme that looks good and is easy on the eyes!
+* [eva theme](https://github.com/cocolight/trilium-theme-eva) ![eva Theme](https://img.shields.io/github/last-commit/cocolight/trilium-theme-eva)
+  A theme that brings the style of the Eva theme plugin to VSCode, including eva-light, eva-dark, and eva-night.
 
 **Sharing Themes**
 
@@ -129,7 +133,8 @@ more info.
   Paper with shadow effect, cool!
 * [trilium.rocks theme](https://github.com/perfectra1n/trilium.rocks/releases/tag/1.0.0) ![trilium.rocks theme](https://img.shields.io/github/last-commit/perfectra1n/trilium.rocks)
   This uses the same theme that's used on the [trilium.rocks](https://trilium.rocks/) site from @zerebos. The link above also includes the instructions on how it can be installed. Can also be created from scratch [here](https://trilium.rocks/xecUJ8eL3pvM).
-
+* [Akari-Theme](https://github.com/march-7th-mini/Trilium-X-Akari) ![Akari-Theme](https://img.shields.io/github/last-commit/march-7th-mini/Trilium-X-Akari)
+  Based on the Ankia and WhiteMinimalist themes, it includes a beautified homepage, embedded Kimi Chat, mask color settings, collapsible unordered lists and code blocks, a searchable and collapsible table of contents, Sakana! Widget, background music, a fully expanded navigation menu, localized MathJax right-click menu, hover-to-zoom emoji previews in comments, more pages with background image settings, and bug fixes.
 ---
 
 ## ✂️ CSS Snippets
@@ -148,6 +153,8 @@ for instructions on how to enable custom CSS)
   Some widgets enhance trilium text input efficiency.
 * [vertical lines for tree](https://github.com/zadam/trilium/issues/3892#issuecomment-1530144842)
 * [zen mode](https://github.com/Nriver/awesome-trilium/issues/44) Add zen mode to your Trilium.
+* [trilium-enhancement-Lazy-Pack](https://github.com/march-7th-mini/trilium-enhancement-Lazy-Pack) ![trilium-enhancement-Lazy-Pack](https://img.shields.io/github/last-commit/march-7th-mini/trilium-enhancement-Lazy-Pack)
+  Trilium Notes v0.63.7 curated power-user pack: VOCALoid idol color theme, read-only zoom/drag/preview, iframe Kimi-Chat + 18 more tweaks.
 
 ---
 
@@ -192,6 +199,7 @@ file of a widget is usually labeled with `#widget`.
   Automatically hide the title bar and information bar, and you can set to hide one of them individually.
 * [trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) ![trilium-back-to-history](https://img.shields.io/github/last-commit/SiriusXT/trilium-back-to-history)
   Jump to the last browsing position
+* [trilium-dnd-dice](https://github.com/AzzyB/trilium-dnd-dice) ![trilium-dnd-dice](https://img.shields.io/github/last-commit/AzzyB/trilium-dnd-dice) D20 system/General Dice roller widget
 * [trilium-jsmind](https://github.com/waterovo/trilium-jsmind) ![trilium-jsmind](https://img.shields.io/github/last-commit/waterovo/trilium-jsmind)
   Create [jsmind](https://github.com/hizzgdev/jsmind) mindmap in Trilium.
 * [trilium-left-panel-auto-zoom](https://github.com/SiriusXT/trilium-left-panel-auto-zoom) ![trilium-left-panel-auto-zoom](https://img.shields.io/github/last-commit/SiriusXT/trilium-left-panel-auto-zoom)
@@ -232,7 +240,7 @@ Remember, scripts are executable codes. Handle with caution!
   These set of scripts allow you to use the full capabilities of the Trilium server user interface while on a mobile
   device.
     * [always desktop mode](https://github.com/Nriver/trilium-translation/issues/90) 
-    Always use desktop UI on mobile device.
+      Always use desktop UI on mobile device.
 * [Open note in split view](https://github.com/zadam/trilium/discussions/3937)
   Shift+click to open a note in split view. Ctrl+shift+click for tree nodes.
 * [OpenFilePaths](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![OpenFilePaths](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
