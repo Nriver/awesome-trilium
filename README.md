@@ -179,6 +179,8 @@ file of a widget is usually labeled with `#widget`.
   Interactive hexmap (for TTRPGs)
 * [Image zoom](https://github.com/Nriver/image-zoom-widget) ![Image zoom](https://img.shields.io/github/last-commit/Nriver/image-zoom-widget)
   Zoom, drag, and preview images in Trilium
+  * [MusicPlayer](https://github.com/Userwei0418/trilium-MusicPlayer) ![MusicPlayer](https://img.shields.io/gitlab/last-commit/Userwei0418/trilium-MusicPlayer)
+  A simple music player that supports play/pause, volume control, playback order adjustment, and show/hide toggling
 * [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![openfilepath](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
   Opens italicised file path upon double click
 * [Scratchpad](https://github.com/zadam/trilium/discussions/1613#discussioncomment-638984)
