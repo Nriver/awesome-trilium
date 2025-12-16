@@ -356,6 +356,8 @@ Programs based on triliums ETAPI.
   A demo Telegram bot for Trilium, powered by [trilium-py](https://github.com/Nriver/trilium-py).
 * [zotero-trilium](https://github.com/paulusm/zotero-trilium) ![zotero-trilium](https://img.shields.io/github/last-commit/paulusm/zotero-trilium)
   Add-on for Zotero reference manager, lets you export formatted references and notes across to Trilium.
+* [trilium-sender-bot](https://github.com/rainrisa/trilium-sender-bot) ![trilium-sender-bot](https://img.shields.io/github/last-commit/rainrisa/trilium-sender-bot)
+  Send notes from Telegram straight into Trilium.
 
 ---
 
