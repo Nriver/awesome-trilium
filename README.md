@@ -217,6 +217,8 @@ file of a widget is usually labeled with `#widget`.
   The table of content widget is now a built-in feature in Trilium Notes. Great thank to
   developers [antoniotejada](https://github.com/antoniotejada/Trilium-TocWidget)
   and [Lolabird](https://github.com/Lolabird/Trilium-TocWidget) !
+* [trilium-fast-player](https://github.com/Userwei0418/trilium-fast-player) ![trilium-fast-player](https://img.shields.io/github/last-commit/Userwei0418/trilium-fast-player)
+  A streamlined way to embed and play external videos (Local MP4, Bilibili, YouTube) in Trilium
 
 ---
 

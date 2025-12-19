@@ -227,6 +227,9 @@
   目录小部件现在是 Trilium Notes
   的内置功能。特别感谢开发者 [antoniotejada](https://github.com/antoniotejada/Trilium-TocWidget)
   和 [Lolabird](https://github.com/Lolabird/Trilium-TocWidget)！
+* [trilium-fast-player](https://github.com/Userwei0418/trilium-fast-player) ![trilium-fast-player](https://img.shields.io/github/last-commit/Userwei0418/trilium-fast-player)
+  在 Trilium 中嵌入并播放外部视频（本地 MP4、Bilibili、YouTube）
+
 
 ## 🪄 脚本
 
