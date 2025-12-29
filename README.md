@@ -18,15 +18,15 @@ You are welcome to add cool stuff about Trilium Notes here.
    * [🦮 Table of Contents](#-table-of-contents)
    * [📥 Migrating to Trilium](#-migrating-to-trilium)
    * [🏡 Themes](#-themes)
-   * [✂️ CSS Snippets](#️-css-snippets)
-   * [⚙️ Widgets](#️-widgets)
+   * [✂️ CSS Snippets](#-css-snippets)
+   * [⚙️ Widgets](#-widgets)
    * [🪄 Scripts](#-scripts)
    * [💥 Extension HTML Note](#-extension-html-note)
    * [📱 Mobile](#-mobile)
       * [🤖 Android](#-android)
       * [🍎 iOS](#-ios)
    * [🧚 API extensions](#-api-extensions)
-   * [🖥️ ETAPI](#️-etapi)
+   * [🖥️ ETAPI](#-etapi)
       * [🦾 ETAPI client](#-etapi-client)
       * [🤖 ETAPI programs](#-etapi-programs)
    * [🧩 Chrome Extensions](#-chrome-extensions)
@@ -165,6 +165,8 @@ Widgets can make big difference in the Trilium user experience!
 A widget typically alters Trilium's user interface and offers additional panel functionalities. The primary JavaScript
 file of a widget is usually labeled with `#widget`.
 
+* [AI Voice Note Widget](https://github.com/Userwei0418/trilium_AI_Voice_Note-) ![AI Voice Note Widget](https://img.shields.io/github/last-commit/Userwei0418/trilium_AI_Voice_Note-)
+  A fully-featured speech-to-text and intelligent organization widget for Trilium Notes.
 * [Breadcrumbs](https://github.com/rauenzi/Trilium-Breadcrumbs) ![Breadcrumbs](https://img.shields.io/github/last-commit/rauenzi/Trilium-Breadcrumbs)
   Shows note breadcrumbs at the bottom of the page
 * [command-palette](https://github.com/justyns/trilium-scripts) ![command-palette](https://img.shields.io/github/last-commit/justyns/trilium-scripts)

@@ -177,6 +177,8 @@
 
 小部件通常改变 Trilium 的用户界面，并提供额外的面板功能。小部件的主 JavaScript 文件通常带有 `#widget`。
 
+* [AI Voice Note Widget](https://github.com/Userwei0418/trilium_AI_Voice_Note-) ![AI Voice Note Widget](https://img.shields.io/github/last-commit/Userwei0418/trilium_AI_Voice_Note-)
+  一个用于 Trilium Notes 的全功能语音转写与智能整理小组件。
 * [Breadcrumbs](https://github.com/rauenzi/Trilium-Breadcrumbs) ![Breadcrumbs](https://img.shields.io/github/last-commit/rauenzi/Trilium-Breadcrumbs)
   在页面底部显示笔记的面包屑导航
 * [命令面板](https://github.com/justyns/trilium-scripts) ![命令面板](https://img.shields.io/github/last-commit/justyns/trilium-scripts)
