@@ -195,6 +195,8 @@
   在trilium使用脚本实现一个简单的音乐播放器 支持播放暂停、调节音量、调整播放顺序、隐藏与显示
 * [Image zoom](https://github.com/Nriver/image-zoom-widget) ![Image zoom](https://img.shields.io/github/last-commit/Nriver/image-zoom-widget)
   在 Trilium 中缩放、拖动和预览图片
+* [Magic Toolbox](https://github.com/Userwei0418/trilium-Magic-Toolbox) ![Magic Toolbox](https://img.shields.io/github/last-commit/Userwei0418/trilium-Magic-Toolbox)
+  将你的 Trilium 变成一个轻量级操作系统，让脚本像“小程序”一样运行。
 * [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![openfilepath](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
   双击打开斜体显示的文件路径
 * [Scratchpad](https://github.com/zadam/trilium/discussions/1613#discussioncomment-638984)
