@@ -183,6 +183,8 @@ file of a widget is usually labeled with `#widget`.
   Zoom, drag, and preview images in Trilium
   * [MusicPlayer](https://github.com/Userwei0418/trilium-MusicPlayer) ![MusicPlayer](https://img.shields.io/gitlab/last-commit/Userwei0418/trilium-MusicPlayer)
   A simple music player that supports play/pause, volume control, playback order adjustment, and show/hide toggling
+* [Knowledge Card Gallery](https://github.com/Userwei0418/trilium_Knowledge-Gallery-Viewer) ![Knowledge Card Gallery](https://img.shields.io/github/last-commit/Userwei0418/trilium_Knowledge-Gallery-Viewer)
+  An immersive knowledge internalization tool designed for Trilium Notes. It transforms dry note text into visual "knowledge cards" and "flashcards," and integrates AI-powered extraction features to help you quickly organize key insights and perform spaced repetition reviews.
 * [Magic Toolbox](https://github.com/Userwei0418/trilium-Magic-Toolbox) ![Magic Toolbox](https://img.shields.io/github/last-commit/Userwei0418/trilium-Magic-Toolbox)
   Turn your Trilium into a lightweight OS, make scripts working like `mini apps`.
 * [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![openfilepath](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
