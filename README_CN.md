@@ -312,7 +312,7 @@
   一个简单的仅写入的 Android 应用，用于将图片和笔记发送到 Trilium
 * [TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) ![TriliumDroid](https://img.shields.io/github/last-commit/FliegendeWurst/TriliumDroid)  
   Trilium 的非官方 Android 移植版本，目前处于测试阶段。
-* [https://github.com/jasongwq/Trilium-termux] ![trilium-sender](https://img.shields.io/github/last-commit/jasongwq/Trilium-termux)
+* [Trilium-termux](https://github.com/jasongwq/Trilium-termux) ![trilium-sender](https://img.shields.io/github/last-commit/jasongwq/Trilium-termux)
    Termux 里运行的 Trilium. 自动跟踪最新版trilium发布.
 
 ### 🍎 iOS
