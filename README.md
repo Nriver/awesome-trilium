@@ -309,6 +309,8 @@ Mobile phone related cool stuff.
   A simple write-only android application for sending images and notes to Trilium
 * [TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) ![TriliumDroid](https://img.shields.io/github/last-commit/FliegendeWurst/TriliumDroid)
   Unofficial port of Trilium to Android, in beta
+* [https://github.com/jasongwq/Trilium-termux] ![trilium-sender](https://img.shields.io/github/last-commit/jasongwq/Trilium-termux)
+  Trilium in termux. Auto check Trilium releases and publish.
 
 ### 🍎 iOS
 
