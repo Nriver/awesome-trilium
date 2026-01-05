@@ -303,7 +303,7 @@ Mobile phone related cool stuff.
 
 * [Run Trilium Server in Termux on Android](https://github.com/zadam/trilium/discussions/4542) Your server in your hand.
   Have fun :)
-* [Run TriliumNext Server in Termux on Android](https://github.com/orgs/TriliumNext/discussions/827)
+* [Run TriliumNext Server in Termux on Android](https://github.com/orgs/TriliumNext/discussions/5992)
   Power of TriliumNext, in the palm of your hand.
 * [trilium-sender](https://github.com/zadam/trilium-sender) ![trilium-sender](https://img.shields.io/github/last-commit/zadam/trilium-sender)
   A simple write-only android application for sending images and notes to Trilium

@@ -306,7 +306,7 @@
 
 * [在 Android 上在 Termux 中运行 Trilium 服务器](https://github.com/zadam/trilium/discussions/4542) 你手中的服务器。
   玩得开心 :)
-* [在 Android 的 Termux 上运行 TriliumNext 服务器](https://github.com/orgs/TriliumNext/discussions/827)  
+* [在 Android 的 Termux 上运行 TriliumNext 服务器](https://github.com/orgs/TriliumNext/discussions/5992)  
   将 TriliumNext 的强大功能掌握在您手中。
 * [trilium-sender](https://github.com/zadam/trilium-sender) ![trilium-sender](https://img.shields.io/github/last-commit/zadam/trilium-sender)
   一个简单的仅写入的 Android 应用，用于将图片和笔记发送到 Trilium
