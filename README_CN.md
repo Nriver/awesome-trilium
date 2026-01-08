@@ -365,7 +365,8 @@ ETAPI 的客户端实现。
 * [trilium-blog](https://github.com/harveyTon/trilium-blog) ![trilium-blog](https://img.shields.io/github/last-commit/harveyTon/trilium-blog) 基于 Trilium Notes 的现代化轻量级博客系统，支持 Vue 3 前端和 Go 后端，使用 Docker 部署。
 * [trilium-sender-bot](https://github.com/rainrisa/trilium-sender-bot) ![trilium-sender-bot](https://img.shields.io/github/last-commit/rainrisa/trilium-sender-bot)
   将来自 Telegram 的笔记直接发送到 Trilium。
-
+* [Trilium_Telegram_bot](https://github.com/ktibr0/Trilium_telegram_bot) ![Trilium_Telegram_bot](https://img.shields.io/github/last-commit/ktibr0/Trilium_telegram_bot)
+  直接通过 Telegram 将笔记和管理待办事项导入 Trilium。
 ---
 
 ## 🧩 Chrome 扩展程序
