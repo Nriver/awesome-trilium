@@ -368,7 +368,8 @@ Programs based on triliums ETAPI.
   Add-on for Zotero reference manager, lets you export formatted references and notes across to Trilium.
 * [trilium-sender-bot](https://github.com/rainrisa/trilium-sender-bot) ![trilium-sender-bot](https://img.shields.io/github/last-commit/rainrisa/trilium-sender-bot)
   Send notes from Telegram straight into Trilium.
-
+* [Trilium_Telegram_bot](https://github.com/ktibr0/Trilium_telegram_bot) ![Trilium_Telegram_bot](https://img.shields.io/github/last-commit/ktibr0/Trilium_telegram_bot)
+  Send notes and manage ToDo's from Telegram straight into Trilium.
 ---
 
 ## 🧩 Chrome Extensions
