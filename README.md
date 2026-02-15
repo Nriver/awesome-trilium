@@ -301,6 +301,8 @@ Mobile phone related cool stuff.
 
 ### 🤖 Android
 
+* [Pocket Trilium](https://github.com/nriver/pocket-trilium) ![pocket-trilium](https://img.shields.io/github/last-commit/nriver/pocket-trilium)
+  Full-featured android app for Trilium.
 * [Run Trilium Server in Termux on Android](https://github.com/zadam/trilium/discussions/4542) Your server in your hand.
   Have fun :)
 * [Run TriliumNext Server in Termux on Android](https://github.com/orgs/TriliumNext/discussions/5992)
