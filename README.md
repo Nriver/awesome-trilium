@@ -439,6 +439,8 @@ Development tools for developing Trilium and its plugins.
 
 ## 🌐 Translation
 
+- [Suppr Zotero Plugin](https://github.com/WildDataX/suppr-zotero-plugin) - Zotero plugin for translating titles, abstracts, PDFs, and research documents in Suppr workflows.
+
 Third-party translation for Trilium Notes.
 
 * [trilium-translation](https://github.com/Nriver/trilium-translation) ![trilium-translation](https://img.shields.io/github/last-commit/Nriver/trilium-translation)
