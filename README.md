@@ -45,6 +45,7 @@ You are welcome to add cool stuff about Trilium Notes here.
 
 These scripts and tips can be used to migrate to Trilium from other note taking applications:
 
+* [CheryTree](https://github.com/ShellUnease/cherrytree2trilium) Uses cherrytreetomarkdown and trilium-py.
 * [Evernote](https://github.com/zadam/trilium/wiki/Evernote-import) (Trilium Wiki Guide) The most recent version of the
   Evernote application no longer includes the option to export files as an enex file. Instead, it now offers a different
   encrypted dump file format, which no one else can read. If you want to obtain an enex file, you might need to utilize
