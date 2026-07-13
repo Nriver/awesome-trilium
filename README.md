@@ -265,7 +265,7 @@ Magic! These code notes are typically tagged as JS frontend in Trilium.
 They're often marked with `#run=frontendStartup` for automatic execution when Trilium starts.
 Remember, scripts are executable codes. Handle with caution!
 
-* [Weekly planner](https://github.com/ecodiv/Trilium_weekly_planner) ![Weekly planner](https://img.shields.io/github/last-commit/ecodiv/Trilium_weekly_planner) A weekly planner for Trilium that turns inline task lines into an actionable board while keeping each task linked to its original note context.
+* [Beatlink's Trilium Scripts](https://github.com/BeatLink/trilium-scripts) A collection of scripts and widgets to do everything from allowing you to set priority colors on Notes, to scripting recurring To-dos.
 * [Better Include](https://github.com/salmund/trilium_better_include) ![Better Include](https://img.shields.io/github/last-commit/salmund/trilium_better_include)
   Make subnotes and include them faster
 * [Calendar & Timetable](https://github.com/Mangiola/trilium-scripts) ![Calendar & Timetable](https://img.shields.io/github/last-commit/Mangiola/trilium-scripts)
@@ -301,7 +301,9 @@ Remember, scripts are executable codes. Handle with caution!
   Allows interaction with ChatGPT and Ollama conveniently right inside of Trilium.
 * [Trilium-DailyMood](https://github.com/dvai/Trilium-DailyMood) ![Trilium-DailyMood](https://img.shields.io/github/last-commit/dvai/Trilium-DailyMood)
   Browse daily moods in the calendar
-* [Beatlink's Trilium Scripts](https://github.com/BeatLink/trilium-scripts) A collection of scripts and widgets to do everything from allowing you to set priority colors on Notes, to scripting recurring To-dos.
+* [trilium-next-image-lightbox](https://github.com/npgwgmggta/trilium-next-image-lightbox)
+  A powerful image lightbox viewer for Trilium Next. Double-click an image in a note to open a full-screen viewer with zoom, drag, navigation within the current note, copy/export, image info, and more.
+* [Weekly planner](https://github.com/ecodiv/Trilium_weekly_planner) ![Weekly planner](https://img.shields.io/github/last-commit/ecodiv/Trilium_weekly_planner) A weekly planner for Trilium that turns inline task lines into an actionable board while keeping each task linked to its original note context.
 
 ---
 

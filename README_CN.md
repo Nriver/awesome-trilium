@@ -296,6 +296,8 @@
   将待办事项分类为六个类别：逾期、今天、本周、本月、今年、未来
 * [Trilium 聊天](https://github.com/soulsands/trilium-chat) ![Trilium 聊天](https://img.shields.io/github/last-commit/soulsands/trilium-chat)
   Trilium 的聊天插件目前支持 ChatGPT
+* [trilium-next-image-lightbox](https://github.com/npgwgmggta/trilium-next-image-lightbox)
+  Trilium Next 强大的图片灯箱查看器。双击笔记中的图片即可打开全屏灯箱，支持缩放、拖拽、当前笔记内图片切换、复制/导出、图片信息查看、右键菜单等功能。
 * [Trilium-DailyMood](https://github.com/dvai/Trilium-DailyMood) ![Trilium-DailyMood](https://img.shields.io/github/last-commit/dvai/Trilium-DailyMood)
   在日历中浏览每日心情
 
