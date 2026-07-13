@@ -301,7 +301,7 @@ Remember, scripts are executable codes. Handle with caution!
   Allows interaction with ChatGPT and Ollama conveniently right inside of Trilium.
 * [Trilium-DailyMood](https://github.com/dvai/Trilium-DailyMood) ![Trilium-DailyMood](https://img.shields.io/github/last-commit/dvai/Trilium-DailyMood)
   Browse daily moods in the calendar
-* [trilium-next-image-lightbox](https://github.com/npgwgmggta/trilium-next-image-lightbox)
+* [trilium-next-image-lightbox](https://github.com/npgwgmggta/trilium-next-image-lightbox) ![trilium-next-image-lightbox](https://img.shields.io/github/last-commit/npgwgmggta/trilium-next-image-lightbox)
   A powerful image lightbox viewer for Trilium Next. Double-click an image in a note to open a full-screen viewer with zoom, drag, navigation within the current note, copy/export, image info, and more.
 * [Weekly planner](https://github.com/ecodiv/Trilium_weekly_planner) ![Weekly planner](https://img.shields.io/github/last-commit/ecodiv/Trilium_weekly_planner) A weekly planner for Trilium that turns inline task lines into an actionable board while keeping each task linked to its original note context.
 
