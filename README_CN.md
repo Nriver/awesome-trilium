@@ -122,6 +122,8 @@
     
 * [Solarized 主题](https://github.com/WKSu/trilium-solarized-theme) ![Solarized 主题](https://img.shields.io/github/last-commit/WKSu/trilium-solarized-theme)
   将经典的 Solarized 主题带到 Trilium 中！提供浅色和深色两种版本。
+
+  * [Solarized Dark & Light 主题](https://github.com/calico-cat-3333/trilium-next-solarized-theme) ![Solarized Dark & Light 主题](https://img.shields.io/github/last-commit/calico-cat-3333/trilium-next-solarized-theme) Solarized 主题的修改版本，以更好地支持 Trilium Next.
   
 * [星际黑暗主题](https://github.com/Lolabird/stellar-dark-theme-trilium) ![星际黑暗主题](https://img.shields.io/github/last-commit/Lolabird/stellar-dark-theme-trilium)
   一款不同风格的深色主题。

@@ -112,6 +112,7 @@ which indicates the name of the theme displayed in Trilium's options panel.
       Green color version of Obsidian Theme
 * [Solarized theme](https://github.com/WKSu/trilium-solarized-theme) ![Solarized theme](https://img.shields.io/github/last-commit/WKSu/trilium-solarized-theme)
   Brings the classic solarized themes to Trilium! It comes in both light and dark.
+  * [Solarized Dark & Light Theme](https://github.com/calico-cat-3333/trilium-next-solarized-theme) ![Solarized Dark & Light 主题](https://img.shields.io/github/last-commit/calico-cat-3333/trilium-next-solarized-theme) A modified version of the Solarized theme for a better experience with Trilium Next.
 * [Stellar Dark Theme](https://github.com/Lolabird/stellar-dark-theme-trilium) ![Stellar Dark Theme](https://img.shields.io/github/last-commit/Lolabird/stellar-dark-theme-trilium)
   A different taste of dark theme.
 * [VOID Theme](https://github.com/DikshantJangra/void-trilium-theme) A pure black, borderless minimal dark theme for TriliumNext.
