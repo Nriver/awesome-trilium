@@ -141,6 +141,8 @@ more info.
   Paper with shadow effect, cool!
 * [trilium.rocks theme](https://github.com/perfectra1n/trilium.rocks/releases/tag/1.0.0) ![trilium.rocks theme](https://img.shields.io/github/last-commit/perfectra1n/trilium.rocks)
   This uses the same theme that's used on the [trilium.rocks](https://trilium.rocks/) site from @zerebos. The link above also includes the instructions on how it can be installed. Can also be created from scratch [here](https://trilium.rocks/xecUJ8eL3pvM).
+* [Wenxin Theme](https://github.com/doonly1/Wenxin-theme) ![Wenxin Theme](https://img.shields.io/github/last-commit/doonly1/Wenxin-theme)
+  A clean, modern sharing theme with PJAX navigation, scroll position memory, and responsive design.
 * [zfy theme](https://github.com/brucevon/zfy) ![zfy theme](https://img.shields.io/github/last-commit/brucevon/zfy)
   A simple card-style Trilium blog theme.
 ---
