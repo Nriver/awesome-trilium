@@ -154,6 +154,8 @@
   此主题与 [trilium.rocks](https://trilium.rocks/) 网站（@zerebos 开发）上使用的主题相同。上面的链接还包括安装说明。你也可以通过 [此处](https://trilium.rocks/xecUJ8eL3pvM) 从头创建。
 * [Akari 主题](https://github.com/march-7th-mini/Trilium-X-Akari) ![Akari 主题](https://img.shields.io/github/last-commit/march-7th-mini/Trilium-X-Akari)
   基于Ankia、WhiteMinimalist主题进行修改。美化了首页、内嵌了kimi chat、增加了蒙版颜色设置、增加了折叠无序List、增加了代码块折叠、增加了目录搜索与折叠展开、增加了石蒜小组件、增加了背景音乐、增加了导航全展开菜单、汉化了mathjax的右键菜单、增加了评论表情悬停放大预览、扩展了可设置背景图片的页面、修复了一些bug等等。
+* [Wenxin 主题](https://github.com/doonly1/Wenxin-theme) ![Wenxin 主题](https://img.shields.io/github/last-commit/doonly1/Wenxin-theme)
+  一款简洁现代分享主题，支持 PJAX 导航、滚动位置记忆和响应式设计。
 * [zfy 主题](https://github.com/brucevon/zfy) ![zfy 主题](https://img.shields.io/github/last-commit/brucevon/zfy)
   一个简单卡片风格的 Trilium 博客主题。
 ---
