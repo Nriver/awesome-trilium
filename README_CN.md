@@ -56,6 +56,8 @@
 * [Obsidian](https://github.com/Nriver/trilium-py#import-from-obsidian) 需要先将 Obsidian vault 转换为常规 Markdown
   文件，然后使用 trilium-py 导入以处理 Obsidian 的独特链接格式。在链接中了解更多信息。
 * [OneNote](https://github.com/zadam/trilium/wiki/Onenote)（Trilium Wiki 指南）
+* [思源笔记/SiYuan Notes](https://github.com/EightDoor/siyuan-to-trilium) 通过思源笔记的 HTTP API 将思源笔记本导出为 Markdown ZIP，
+  保留目录层级、顺序、附件和内部链接，可用于 Trilium 的“Markdown (ZIP)”导入。
 * [Text](https://github.com/zadam/trilium/wiki/Markdown) 原生支持
 * [Turtl](https://github.com/Nriver/trilium-py/tree/main/examples/turtl-to-markdown) 将 Turtl 笔记转换为 markdown 目录
 * [Youdao Note/有道云笔记](https://github.com/Nriver/trilium-py#import-from-youdao-note%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0)
