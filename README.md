@@ -57,6 +57,9 @@ These scripts and tips can be used to migrate to Trilium from other note taking 
 * [Obsidian](https://github.com/Nriver/trilium-py#import-from-obsidian) Need to convert a Obsidian vault to regular
   Markdown files first. Then import with trilium-py to handle obisdian's unique linking format. See more in the link.
 * [OneNote](https://github.com/zadam/trilium/wiki/Onenote) (Trilium Wiki Guide)
+* [SiYuan Notes/思源笔记](https://github.com/EightDoor/siyuan-to-trilium) Exports SiYuan notebooks to a Markdown ZIP via
+  the SiYuan HTTP API, preserving directory hierarchy, order, attachments, and internal links for Trilium's "Markdown
+  (ZIP)" import.
 * [Text](https://github.com/zadam/trilium/wiki/Markdown) Supported Natively
 * [Turtl](https://github.com/Nriver/trilium-py/tree/main/examples/turtl-to-markdown) Convert Turtl notes to markdown
   directory
