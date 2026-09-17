@@ -231,6 +231,8 @@
   将你的 Trilium 变成一个轻量级操作系统，让脚本像“小程序”一样运行。
 * [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![openfilepath](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
   双击打开斜体显示的文件路径
+* [隐私模式](https://github.com/Nriver/privacy-mode) ![隐私模式](https://img.shields.io/github/last-commit/Nriver/privacy-mode)
+  Trilium Notes 的隐私模式小部件。编辑时可一键模糊笔记树和标题，支持密码锁定（全部模糊且不可选中）、无操作自动锁定、启动时强制锁定。支持中英文。
 * [Scratchpad](https://github.com/zadam/trilium/discussions/1613#discussioncomment-638984)
   在笔记中添加草稿板小部件
 * [语法高亮](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) ![语法高亮](https://img.shields.io/github/last-commit/antoniotejada/Trilium-SyntaxHighlightWidget)

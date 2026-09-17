@@ -220,6 +220,8 @@ file of a widget is usually labeled with `#widget`.
   Turn your Trilium into a lightweight OS, make scripts working like `mini apps`.
 * [openfilepath](https://gist.github.com/laundmo/de1f386fac9f9e797fd77022d63967c9) ![openfilepath](https://img.shields.io/github/gist/last-commit/de1f386fac9f9e797fd77022d63967c9)
   Opens italicised file path upon double click
+* [Privacy Mode](https://github.com/Nriver/privacy-mode) ![Privacy Mode](https://img.shields.io/github/last-commit/Nriver/privacy-mode)
+  A privacy mode widget for Trilium Notes. One-click blur of the note tree and titles while editing, password lock that makes everything blurred and unselectable, auto-lock after inactivity, and force lock on startup.
 * [Scratchpad](https://github.com/zadam/trilium/discussions/1613#discussioncomment-638984)
   Add scratchpad widget to notes
 * [Syntax Highlight](https://github.com/antoniotejada/Trilium-SyntaxHighlightWidget) ![Syntax Highlight](https://img.shields.io/github/last-commit/antoniotejada/Trilium-SyntaxHighlightWidget)
