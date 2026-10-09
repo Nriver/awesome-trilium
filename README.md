@@ -250,6 +250,8 @@ file of a widget is usually labeled with `#widget`.
 * [trilium-left-panel-auto-zoom](https://github.com/SiriusXT/trilium-left-panel-auto-zoom) ![trilium-left-panel-auto-zoom](https://img.shields.io/github/last-commit/SiriusXT/trilium-left-panel-auto-zoom)
   Automatically widen note tree by moving your mouse. A convenient widget to navigate through notes with long titles and
   deep level notes.
+* [trilium-livetennis](https://github.com/livetennisapi/trilium-livetennis) ![trilium-livetennis](https://img.shields.io/github/last-commit/livetennisapi/trilium-livetennis)
+  Shows tennis match snapshots from Live Tennis API in Trilium Notes. Uses a free account and caches requests for at least 15 minutes.
 * [Trilium Presenter](https://github.com/Stefan-Schmidbauer/trilium-presenter-plugin) ![Trilium Presenter](https://img.shields.io/github/last-commit/Stefan-Schmidbauer/trilium-presenter-plugin)
   Turn notes into fullscreen presentations with themes, templates, and speaker mode
 * [trilium-remember-right-pane](https://github.com/SiriusXT/trilium-remember-right-pane) ![trilium-remember-right-pane](https://img.shields.io/github/last-commit/SiriusXT/trilium-remember-right-pane)
