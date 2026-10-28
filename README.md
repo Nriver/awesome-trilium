@@ -118,6 +118,7 @@ which indicates the name of the theme displayed in Trilium's options panel.
   * [Solarized Dark & Light Theme](https://github.com/calico-cat-3333/trilium-next-solarized-theme) ![Solarized Dark & Light 主题](https://img.shields.io/github/last-commit/calico-cat-3333/trilium-next-solarized-theme) A modified version of the Solarized theme for a better experience with Trilium Next.
 * [Stellar Dark Theme](https://github.com/Lolabird/stellar-dark-theme-trilium) ![Stellar Dark Theme](https://img.shields.io/github/last-commit/Lolabird/stellar-dark-theme-trilium)
   A different taste of dark theme.
+* [Trilium Themes](https://github.com/lookiyam-94/trilium-themes) [![Trilium Themes](https://img.shields.io/github/last-commit/lookiyam-94/trilium-themes)](https://img.shields.io/github/last-commit/lookiyam-94/trilium-themes) 17 colour-only themes for TriliumNext's modern UI (Catppuccin, Tokyo Night, Gruvbox, Nord, Nothing and more), built on next-dark/next-light so your font settings still apply.
 * [VOID Theme](https://github.com/DikshantJangra/void-trilium-theme) A pure black, borderless minimal dark theme for TriliumNext.
 * [VSCode-Dark Theme](https://github.com/greengeek/trilium-vscode-dark-theme) ![VSCode-Dark Theme](https://img.shields.io/github/last-commit/greengeek/trilium-vscode-dark-theme)
   It's VSCode!
