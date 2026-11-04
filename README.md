@@ -93,6 +93,8 @@ which indicates the name of the theme displayed in Trilium's options panel.
   A theme for Trilium Notes, made with Catppuccin palette.
 * [Chameleon Theme](https://github.com/DavidFuchs/trilium-chameleon-theme) ![Chameleon Theme](https://img.shields.io/github/last-commit/DavidFuchs/trilium-chameleon-theme)
   A set of light and dark colour themes for Trilium.
+* [Deep Space](https://github.com/JDeepD/trilium-deep-space-theme) ![Deep Space](https://img.shields.io/github/last-commit/JDeepD/trilium-deep-space-theme)
+  Zinc neutrals, an emerald accent and a faint dotted background for TriliumNext's modern UI, with JetBrains Mono for code. Comes in system, light and dark versions.
 * [eva theme](https://github.com/cocolight/trilium-theme-eva) ![eva Theme](https://img.shields.io/github/last-commit/cocolight/trilium-theme-eva)
   A theme that brings the style of the Eva theme plugin to VSCode, including eva-light, eva-dark, and eva-night.
 * [EverForest Ant Dark (EFAD) Trilium Theme](https://github.com/Lolabird/everforest-ant-dark-trilium-theme) ![EverForest Ant Dark (EFAD) Trilium Theme](https://img.shields.io/github/last-commit/Lolabird/everforest-ant-dark-trilium-theme)
