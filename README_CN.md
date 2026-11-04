@@ -94,6 +94,9 @@
 * [Chameleon 主题](https://github.com/DavidFuchs/trilium-chameleon-theme) ![Chameleon 主题](https://img.shields.io/github/last-commit/DavidFuchs/trilium-chameleon-theme)
   Trilium 的浅色和深色主题套装。
   
+* [Deep Space](https://github.com/JDeepD/trilium-deep-space-theme) ![Deep Space](https://img.shields.io/github/last-commit/JDeepD/trilium-deep-space-theme)
+  适用于 TriliumNext 新版界面的主题：锌灰色调、翡翠绿强调色和淡淡的点状背景，代码使用 JetBrains Mono 字体。提供跟随系统、浅色和深色三个版本。
+  
 * [eva theme](https://github.com/cocolight/trilium-theme-eva) ![eva Theme](https://img.shields.io/github/last-commit/cocolight/trilium-theme-eva)
  一个将 Eva 主题插件的风格带到 VSCode 的主题，包括 eva-light、eva-dark 和 eva-night。
 
