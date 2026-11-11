@@ -362,6 +362,8 @@ Mobile phone related cool stuff.
   Have fun :)
 * [Run TriliumNext Server in Termux on Android](https://github.com/orgs/TriliumNext/discussions/5992)
   Power of TriliumNext, in the palm of your hand.
+* [TriliumNext Android nightly](https://github.com/TriliumNext/Trilium/releases/tag/nightly)
+  Nightly Android APK builds of TriliumNext.
 * [trilium-sender](https://github.com/zadam/trilium-sender) ![trilium-sender](https://img.shields.io/github/last-commit/zadam/trilium-sender)
   A simple write-only android application for sending images and notes to Trilium
 * [TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) ![TriliumDroid](https://img.shields.io/github/last-commit/FliegendeWurst/TriliumDroid)

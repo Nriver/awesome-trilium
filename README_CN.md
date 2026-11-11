@@ -355,6 +355,8 @@
   玩得开心 :)
 * [在 Android 的 Termux 上运行 TriliumNext 服务器](https://github.com/orgs/TriliumNext/discussions/5992)  
   将 TriliumNext 的强大功能掌握在您手中。
+* [TriliumNext Android nightly](https://github.com/TriliumNext/Trilium/releases/tag/nightly)
+  TriliumNext 的安卓 nightly 版 APK。
 * [trilium-sender](https://github.com/zadam/trilium-sender) ![trilium-sender](https://img.shields.io/github/last-commit/zadam/trilium-sender)
   一个简单的仅写入的 Android 应用，用于将图片和笔记发送到 Trilium
 * [TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) ![TriliumDroid](https://img.shields.io/github/last-commit/FliegendeWurst/TriliumDroid)  
