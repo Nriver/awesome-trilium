@@ -366,6 +366,10 @@
 
 ### 🍎 iOS
 
+* [Trinote](https://github.com/StephenArg/Trinote) ![Trinote](https://img.shields.io/github/last-commit/StephenArg/Trinote)
+  原生 iOS 版 Trilium 客户端。
+* [triquid-notes](https://github.com/justin-m-meijer/triquid-notes) ![triquid-notes](https://img.shields.io/github/last-commit/justin-m-meijer/triquid-notes)
+  Trinote 的分支，原生 iOS 版 Trilium 客户端。
 * [trilium-ios-shortcut](https://github.com/soulsands/trilium-ios-shortcut) ![trilium-ios-shortcut](https://img.shields.io/github/last-commit/soulsands/trilium-ios-shortcut)
   通过 Apple 快捷方式向 Trilium 发送消息的教程。
 

@@ -373,6 +373,10 @@ Mobile phone related cool stuff.
 
 ### 🍎 iOS
 
+* [Trinote](https://github.com/StephenArg/Trinote) ![Trinote](https://img.shields.io/github/last-commit/StephenArg/Trinote)
+  A native iOS client for Trilium.
+* [triquid-notes](https://github.com/justin-m-meijer/triquid-notes) ![triquid-notes](https://img.shields.io/github/last-commit/justin-m-meijer/triquid-notes)
+  A fork of Trinote, a native iOS client for Trilium.
 * [trilium-ios-shortcut](https://github.com/soulsands/trilium-ios-shortcut) ![trilium-ios-shortcut](https://img.shields.io/github/last-commit/soulsands/trilium-ios-shortcut)
   A tutorial on sending messages to Trilium via an Apple shortcut.
 
