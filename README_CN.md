@@ -139,6 +139,9 @@
 * [Ra1n 的深色主题](https://github.com/perfectra1n/custom-trilium-themes) ![Ra1n's Dark Theme](https://img.shields.io/github/last-commit/perfectra1n/custom-trilium-themes)
   一款深色主题，外观漂亮且对眼睛友好！
 
+* [Ferra](https://github.com/AmadeusGraves/trillium-next-ferra-theme) ![Ferra](https://img.shields.io/github/last-commit/AmadeusGraves/trillium-next-ferra-theme)
+  适用于 TriliumNext 新版深色界面的主题，基于 Ferra 配色（暖棕色、blush 文本、coral 链接），建立在 next-dark 之上。涵盖笔记树、编辑器、看板和笔记地图。
+
 
 **分享主题**
 
