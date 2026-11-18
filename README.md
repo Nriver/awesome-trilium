@@ -126,6 +126,8 @@ which indicates the name of the theme displayed in Trilium's options panel.
   It's VSCode!
 * [Ra1n's Dark Theme](https://github.com/perfectra1n/custom-trilium-themes) ![Ra1n's Dark Theme](https://img.shields.io/github/last-commit/perfectra1n/custom-trilium-themes)
   Dark theme that looks good and is easy on the eyes!
+* [Ferra](https://github.com/AmadeusGraves/trillium-next-ferra-theme) ![Ferra](https://img.shields.io/github/last-commit/AmadeusGraves/trillium-next-ferra-theme)
+  A dark theme for TriliumNext built on the Ferra palette (warm browns, blush text, coral links). Based on next-dark. Covers the note tree, editors, boards, and the note map.
 
 **Sharing Themes**
 
