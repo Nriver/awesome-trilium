@@ -182,6 +182,9 @@
   * Font-Awesome 图标包：使用大多数免费的 Font-Awesome 图标作为笔记图标。
   * Material Design 图标包：使用 Google Material Design 图标作为笔记图标。
 
+* [Trilium Color Icon Packs](https://github.com/Aervorn/Trilium_Color-Icon-Packs) ![Trilium Color Icon Packs](https://img.shields.io/github/last-commit/Aervorn/Trilium_Color-Icon-Packs)
+  收录来自八个开源图标集（selfh.st、Simple Icons、Dashboard Icons、Fluent Emoji、Material Icon Theme、Devicon、Flat Color Icons 和 Fluent UI）的 11,000 多个彩色图标，并编译为 COLRv1 字体。图标包每月由 GitHub Actions 自动重建，也可通过后端脚本笔记自动保持更新。
+
 ---
 
 ## ✂️ CSS 片段

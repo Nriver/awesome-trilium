@@ -169,6 +169,9 @@ Check out the [official Trilium icon pack here](https://triliumnotes.org/resourc
   * Font-Awesome Icon Pack: use most of the free Font-Awesome icons as note icons.
   * Material Design Icon Pack: use Google Material Design Icon as note icons.
 
+* [Trilium Color Icon Packs](https://github.com/Aervorn/Trilium_Color-Icon-Packs) ![Trilium Color Icon Packs](https://img.shields.io/github/last-commit/Aervorn/Trilium_Color-Icon-Packs)
+  Full-color icon packs with 11,000+ icons from eight open-source collections (selfh.st, Simple Icons, Dashboard Icons, Fluent Emoji, Material Icon Theme, Devicon, Flat Color Icons and Fluent UI), compiled into COLRv1 fonts. Packs are rebuilt monthly by GitHub Actions and can be kept up to date automatically through a backend script note.
+
 ---
 
 ## ✂️ CSS Snippets
